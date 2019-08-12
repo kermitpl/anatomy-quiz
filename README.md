@@ -1,6 +1,6 @@
 # AnatomyQuiz
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+Angular webpage containing quiz, that helps medical students study for anatomy exam.
 
 ## Stage 1 (Completed)
 
