@@ -1,16 +1,28 @@
 
-<label id="example-radio-group-label" style="padding-left: 30%">{{question}}</label>
+<div style="align-items: center; justify-content: center; display: flex">
+<mat-card style="width: 40%">
+  <mat-card-title>{{currentQuestion.question}}</mat-card-title>
+  <mat-card-subtitle style="padding-left: 2%">ID: {{currentQuestion.id}}</mat-card-subtitle>
 <mat-radio-group
   aria-labelledby="example-radio-group-label"
   class="example-radio-group"
   (change)="onChange()"
   [(ngModel)]="chosenAnswer">
-  <mat-radio-button class="example-radio-button" *ngFor="let ans of answers" [value]="ans">
+  <mat-radio-button class="example-radio-button" *ngFor="let ans of currentQuestion.answers" [value]="ans">
     {{ans.answer}}
   </mat-radio-button>
 </mat-radio-group>
-
-<div style="text-align: center">{{isCorrect}}</div>
-<div style="text-align: center; padding-top: 100px">
-<button mat-raised-button (click)="nextQuestion()" color="primary" >Next question</button>
+</mat-card>
 </div>
+
+<div style="align-items: center; justify-content: center; display: flex; padding-top: 3%; text-align: center">
+  <mat-card style="width: 40%">
+  {{isCorrect}}
+  </mat-card>
+</div>
+
+<div style="text-align: center; padding-top: 5%">
+  <button mat-raised-button (click)="randomQuestion()" color="accent" style="margin-right: 5%" > Random </button>
+  <button mat-raised-button (click)="nextQuestion()" color="primary" > Next </button>
+</div>
+
