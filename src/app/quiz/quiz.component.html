@@ -1,0 +1,16 @@
+
+<label id="example-radio-group-label" style="padding-left: 30%">{{question}}</label>
+<mat-radio-group
+  aria-labelledby="example-radio-group-label"
+  class="example-radio-group"
+  (change)="onChange()"
+  [(ngModel)]="chosenAnswer">
+  <mat-radio-button class="example-radio-button" *ngFor="let ans of answers" [value]="ans">
+    {{ans.answer}}
+  </mat-radio-button>
+</mat-radio-group>
+
+<div style="text-align: center">{{isCorrect}}</div>
+<div style="text-align: center; padding-top: 100px">
+<button mat-raised-button (click)="nextQuestion()" color="primary" >Next question</button>
+</div>
