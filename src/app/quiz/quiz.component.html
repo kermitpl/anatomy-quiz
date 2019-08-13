@@ -18,11 +18,12 @@
 <div style="align-items: center; justify-content: center; display: flex; padding-top: 3%; text-align: center">
   <mat-card style="width: 40%">
   {{isCorrect}}
+    <mat-card-content>Questions left: {{questions.length}}</mat-card-content>
   </mat-card>
 </div>
 
 <div style="text-align: center; padding-top: 5%">
-  <button mat-raised-button (click)="randomQuestion()" color="accent" style="margin-right: 5%" > Random </button>
-  <button mat-raised-button (click)="nextQuestion()" color="primary" > Next </button>
+  <button mat-raised-button (click)="nextQuestion(1)" color="accent" style="margin-right: 5%" > Random </button>
+  <button mat-raised-button (click)="nextQuestion(0)" color="primary" > Next </button>
 </div>
 

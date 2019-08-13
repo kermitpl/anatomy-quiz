@@ -14,6 +14,7 @@ export class QuizComponent implements OnInit {
   questions: QuizQuestion [];
   chosenid: number;
   currentQuestion: QuizQuestion;
+  tryCount = 0;
 
   constructor() { }
 
@@ -24,22 +25,27 @@ export class QuizComponent implements OnInit {
   }
 
   onChange() {
+    this.tryCount++;
     if (this.chosenAnswer.isTrue) {
       this.isCorrect = 'You\'re right! ✅';
+      if (this.tryCount === 1) {
+        this.questions.splice(this.chosenid, 1);
+      }
     } else {
       this.isCorrect = 'Wrong 😥';
     }
   }
 
-  nextQuestion() {
-    this.chosenid = (this.chosenid + 1) % this.questions.length;
-    this.currentQuestion = this.questions[this.chosenid];
-    this.isCorrect = '⏳ Waiting for your answer... ⏳';
+  nextQuestion(choice) {
+    if (this.questions.length === 0) {
+      alert('Quiz is completed, please reload page.');
+    } else {
+      if (choice === 0) { this.chosenid = (this.chosenid + 1) % this.questions.length; } else if (choice === 1) {
+        this.chosenid = Math.floor((Math.random() * this.questions.length)); }
+      this.currentQuestion = this.questions[this.chosenid];
+      this.tryCount = 0;
+      this.isCorrect = '⏳ Waiting for your answer... ⏳';
+    }
   }
 
-  randomQuestion() {
-    this.chosenid = Math.floor((Math.random() * this.questions.length));
-    this.currentQuestion = this.questions[this.chosenid];
-    this.isCorrect = '⏳ Waiting for your answer... ⏳';
-  }
 }
