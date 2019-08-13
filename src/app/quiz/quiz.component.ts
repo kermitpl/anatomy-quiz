@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import data from '../../data.json';
+import data from '../../assets/question_data/glowa_one.json';
 import {QuizQuestion} from '../quiz-question';
 import {QuizAnswer} from '../quiz-answer';
 

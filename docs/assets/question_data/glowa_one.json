@@ -1,0 +1,1406 @@
+[
+  {
+    "id": 0,
+    "question": "Bruzda tętnicy podobojczykowej przebiega:",
+    "answers": [
+      {
+        "answer": "przyśrodkowo w stosunku do bruzdy żyły podobojczykowej",
+        "isTrue": false
+      },
+      {
+        "answer": "do przodu od guzka mięśnia pochyłego przedniego",
+        "isTrue": false
+      },
+      {
+        "answer": "bocznie do bruzdy żyły podobojczykowej",
+        "isTrue": true
+      },
+      {
+        "answer": "na powierzchni dolnej żebra I",
+        "isTrue": false
+      },
+      {
+        "answer": "na brzegu zewnętrznym żebra",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "question": "Chrząstka sprężysta występuje wszędzie oprócz:",
+    "answers": [
+      {
+        "answer": "małżowina uszna",
+        "isTrue": false
+      },
+      {
+        "answer": "przewód słuchowy zewnętrzny",
+        "isTrue": false
+      },
+      {
+        "answer": "krążek międzyłonowy",
+        "isTrue": true
+      },
+      {
+        "answer": "trąbka słuchowa",
+        "isTrue": false
+      },
+      {
+        "answer": "chrząstka nagłośniowa",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "W stawie ramiennym",
+    "answers": [
+      {
+        "answer": "Główkę stawowa tworzy powierzchnia stawowa główki kości ramiennej",
+        "isTrue": false
+      },
+      {
+        "answer": "Panewkę stawową stanowi wydrążenie stawowe łopatki i obrąbek stawowy",
+        "isTrue": true
+      },
+      {
+        "answer": "Do wewnątrz stawu przechodzi ścięgno głowy krótkiej mięśnia dwugłowego ramienia",
+        "isTrue": false
+      },
+      {
+        "answer": "Więzadło kruczo-ramienne przyczepia się do podstawy i brzegu bocznego wyrostka barkowego",
+        "isTrue": false
+      },
+      {
+        "answer": "Torebka stawowa jest wzmocniona przez ścięgna mięśni tworzących stożek rotatorów: nadgrzebieniowy, podgrzebieniowy, podłopatkowy i obły większy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "W której warstwie okostnej występują naczynia:",
+    "answers": [
+      {
+        "answer": "zewnętrznej",
+        "isTrue": false
+      },
+      {
+        "answer": "gąbczastej",
+        "isTrue": false
+      },
+      {
+        "answer": "zbitej",
+        "isTrue": false
+      },
+      {
+        "answer": "wewnętrznej",
+        "isTrue": true
+      },
+      {
+        "answer": "żadnej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Które więzadło jest w istocie zgrubieniem torebki włóknistej stawu ramiennego?",
+    "answers": [
+      {
+        "answer": "Kruczo-ramienne",
+        "isTrue": false
+      },
+      {
+        "answer": "Obrąbkowo-ramienne",
+        "isTrue": true
+      },
+      {
+        "answer": "Barkowo-ramienne",
+        "isTrue": false
+      },
+      {
+        "answer": "Pierścieniowate",
+        "isTrue": false
+      },
+      {
+        "answer": "Czworokątne",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Do wcięcia promieniowego kości łokciowej NIE przyczepia się…",
+    "answers": [
+      {
+        "answer": "Więzadło poboczne łokciowe",
+        "isTrue": true
+      },
+      {
+        "answer": "Więzadło poboczne promieniowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Więzadło czworokątne",
+        "isTrue": false
+      },
+      {
+        "answer": "Więzadło pierścieniowate kości promieniowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Błona włóknista stawu łokciowego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Do wcięcia promieniowego kości łokciowej NIE przyczepia się…",
+    "answers": [
+      {
+        "answer": "Więzadło poboczne łokciowe",
+        "isTrue": true
+      },
+      {
+        "answer": "Więzadło poboczne promieniowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Więzadło czworokątne",
+        "isTrue": false
+      },
+      {
+        "answer": "Więzadło pierścieniowate kości promieniowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Błona włóknista stawu łokciowego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Prawdą jest, że:",
+    "answers": [
+      {
+        "answer": "spojenie łonowe to typowy chrząstkozrost",
+        "isTrue": false
+      },
+      {
+        "answer": "miejscem przyczepu więzadła łonowego górnego jest pubic crest / crista pubica",
+        "isTrue": false
+      },
+      {
+        "answer": "krążek międzyłonowy posiada szczelinowatą jamę",
+        "isTrue": true
+      },
+      {
+        "answer": "spojenie łonowe wzmacniają trzy więzadła",
+        "isTrue": false
+      },
+      {
+        "answer": "powierzchnie spojeniowe kości łonowych pokryte są chrząstką włóknistą",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "W obrębie stawu krzyżowo – biodrowego nie występuje:",
+    "answers": [
+      {
+        "answer": "więzadło krzyżowo – biodrowe brzuszne",
+        "isTrue": false
+      },
+      {
+        "answer": "więzadło biodrowo – lędźwiowe",
+        "isTrue": false
+      },
+      {
+        "answer": "więzadła krzyżowo – biodrowe grzbietowe",
+        "isTrue": false
+      },
+      {
+        "answer": "więzadło biodrowo – guziczne",
+        "isTrue": true
+      },
+      {
+        "answer": "więzadła krzyżowo – biodrowe międzykostne",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Co biegnie od tylnego końca wcięcia promieniowego kości łokciowej ku dołowi",
+    "answers": [
+      {
+        "answer": "Guzowatość kości łokciowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Grzebień mięśnia odwracacza",
+        "isTrue": true
+      },
+      {
+        "answer": "Grzebień mięśnia nawrotnego obłego",
+        "isTrue": false
+      },
+      {
+        "answer": "Wcięcie bloczkowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Żadne z powyższych",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Tuberositas ossis navicularis znajduje się na:",
+    "answers": [
+      {
+        "answer": "powierzchni bocznej kości łódkowatej",
+        "isTrue": false
+      },
+      {
+        "answer": "powierzchni górnej kości łódkowatej",
+        "isTrue": false
+      },
+      {
+        "answer": "powierzchni przyśrodkowej kości łódkowatej",
+        "isTrue": true
+      },
+      {
+        "answer": "powierzchni bocznej kości sześciennej",
+        "isTrue": false
+      },
+      {
+        "answer": "powierzchni bocznej kości sześciennej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Nieprawdą jest, że:",
+    "answers": [
+      {
+        "answer": "Facies auricularis ossis ilii jest od przodu i dołu ograniczona przez sulcus paraglenoidalis",
+        "isTrue": false
+      },
+      {
+        "answer": "Grzebień biodrowy rozpoczyna się od spina iliaca anterior inferior",
+        "isTrue": true
+      },
+      {
+        "answer": "Na grzebieniu biodrowym wyróżniamy wargę zewnętrzną, kresę pośrednią i wargę wewnętrzną",
+        "isTrue": false
+      },
+      {
+        "answer": "Trzon kości biodrowej wytwarza ok. 2/5 górne panewki kości miednicznej",
+        "isTrue": false
+      },
+      {
+        "answer": "Gałąź kości kulszowej łączy się z gałęzią dolną kości łonowej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "W miednicy nie wyróżniamy płaszczyzny:",
+    "answers": [
+      {
+        "answer": "wchodu miednicy",
+        "isTrue": false
+      },
+      {
+        "answer": "trzonu miednicy",
+        "isTrue": true
+      },
+      {
+        "answer": "próżni miednicy",
+        "isTrue": false
+      },
+      {
+        "answer": "cieśni miednicy",
+        "isTrue": false
+      },
+      {
+        "answer": "wychodu miednicy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Jakim rodzajem stawu jest staw promieniowo-nadgarstkowy?",
+    "answers": [
+      {
+        "answer": "Kulistym wolnym",
+        "isTrue": false
+      },
+      {
+        "answer": "Płaskim",
+        "isTrue": false
+      },
+      {
+        "answer": "Siodełkowatym",
+        "isTrue": false
+      },
+      {
+        "answer": "elipsoidalnym",
+        "isTrue": true
+      },
+      {
+        "answer": "Zawiasowym",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Staw złożony z dwóch stawów – skokowo-łódkowego oraz piętowo-sześciennego- to:",
+    "answers": [
+      {
+        "answer": "staw poprzeczny stępu",
+        "isTrue": false
+      },
+      {
+        "answer": "staw stępowo-śródstopny",
+        "isTrue": false
+      },
+      {
+        "answer": "staw klinowo-łódkowy",
+        "isTrue": false
+      },
+      {
+        "answer": "staw międzyśródstopny",
+        "isTrue": false
+      },
+      {
+        "answer": "staw stępowo-śródstopny",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Nie jest prawdą, że:",
+    "answers": [
+      {
+        "answer": "więzadło pachwinowe jest widoczne od zewnątrz jako bruzda pachwinowa",
+        "isTrue": false
+      },
+      {
+        "answer": "otwór kulszowy większy jest ograniczony od tyłu przez więzadło krzyżowo – guzowe",
+        "isTrue": false
+      },
+      {
+        "answer": "błona zasłonowa służy jako przyczep mięśnia zasłaniacza pośredniego",
+        "isTrue": true
+      },
+      {
+        "answer": "otwór kulszowy mniejszy jest ograniczony od tyłu przez więzadło krzyżowo – guzowe",
+        "isTrue": false
+      },
+      {
+        "answer": "więzadło pachwinowe przyczepia się do kolca biodrowego przedniego górnego i do guzka łonowego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Prawdą jest że;",
+    "answers": [
+      {
+        "answer": "wszystkie palce stóp mają po 3 paliczki",
+        "isTrue": false
+      },
+      {
+        "answer": "staw skokowy górny, to inaczej staw skokowo-piętowo-łódkowy",
+        "isTrue": false
+      },
+      {
+        "answer": "staw skokowy górny jest stawem obrotowym",
+        "isTrue": false
+      },
+      {
+        "answer": "więzadło trójgraniaste składa się z trzech części",
+        "isTrue": false
+      },
+      {
+        "answer": "staw skokowy dolny stanowi połączenie między kością skokową, a piętową i łódkową",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Sinus tarsi:",
+    "answers": [
+      {
+        "answer": "zawiera więzadło skokowo-piętowe tylne",
+        "isTrue": false
+      },
+      {
+        "answer": "pozbawiona jest tkanki tłuszczowej",
+        "isTrue": false
+      },
+      {
+        "answer": "utworzona jest przez bruzdę kości skokowej i odpowiadającej jej bruzdę kości piętowej",
+        "isTrue": true
+      },
+      {
+        "answer": "zawiera więzadło krzyżowe tylne",
+        "isTrue": false
+      },
+      {
+        "answer": "usprawnia mechanikę stawu kolanowego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "W stawie łokciowym",
+    "answers": [
+      {
+        "answer": "Staw ramienno-łokciowy jest stawem zawiasowym",
+        "isTrue": true
+      },
+      {
+        "answer": "Staw ramienno-promieniowy jest stawem obrotowym",
+        "isTrue": false
+      },
+      {
+        "answer": "Staw promienno-łokciowy bliższy to staw kulisty wolny",
+        "isTrue": false
+      },
+      {
+        "answer": "Na kości promieniowej przyczep błony włóknistej biegnie wokół głowy kości promieniowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Szczyty wyrostków łokciowego i dziobiastego pozostają poza jamą stawową",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "W stawie promienno-nadgarstkowym",
+    "answers": [
+      {
+        "answer": "Główka stawowa jest utworzona przez powierzchnie stawowe wszystkich kości szeregu bliższego nadgarstka",
+        "isTrue": false
+      },
+      {
+        "answer": "Panewka stawowa jest utworzona przez powierzchnię nadgarstkową kości łokciowej i krążek stawowy przyczepiający się do wyrostka rylcowatego kości promieniowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Torebka stawowa przyczepia się wzdłuż brzegów powierzchni stawowych",
+        "isTrue": true
+      },
+      {
+        "answer": "Więzadło poboczne promieniowe nadgarstka przyczepia się do wyrostka rylcowatego kości promieniowej i do kości trójgraniastej i grochowatej",
+        "isTrue": false
+      },
+      {
+        "answer": "Wykonujemy ruchy zgięcia dłoniowego i grzbietowego, obrotu do wewnątrz i na zewnątrz, obwodzenia",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Funkcją kości nie jest:",
+    "answers": [
+      {
+        "answer": "ochronna",
+        "isTrue": false
+      },
+      {
+        "answer": "dźwigają masę ciała",
+        "isTrue": false
+      },
+      {
+        "answer": "stanowią główny składnik aktywnej części narządu ruchu",
+        "isTrue": true
+      },
+      {
+        "answer": "stanowią rezerwuar soli mineralnej",
+        "isTrue": false
+      },
+      {
+        "answer": "wytwarzają krwinki",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Błona włóknista torebki stawowej stawu kolanowego:",
+    "answers": [
+      {
+        "answer": "w tylnej ścianie stawu nie istnieje",
+        "isTrue": false
+      },
+      {
+        "answer": "w przedniej ścianie stawu nie istnieje",
+        "isTrue": true
+      },
+      {
+        "answer": "przyczepia się na kości udowej powyżej obu nadkłykci",
+        "isTrue": false
+      },
+      {
+        "answer": "tworzy przednią, tylną, boczną i przyśrodkową ścianę stawu",
+        "isTrue": false
+      },
+      {
+        "answer": "nie przyczepia się do powierzchni podkolanowej kości udowej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Łąkotka przyśrodkowa jest narażona na częstsze uszkodzenia przez zrost z:",
+    "answers": [
+      {
+        "answer": "Więzadło poboczne strzałki",
+        "isTrue": false
+      },
+      {
+        "answer": "Więzadło poboczne piszczeli",
+        "isTrue": true
+      },
+      {
+        "answer": "Więzadło przednio-boczne",
+        "isTrue": false
+      },
+      {
+        "answer": "Więzadło krzyżowe przednie",
+        "isTrue": false
+      },
+      {
+        "answer": "Nie jest narażona na częstsze uszkodzenia",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "W skład stawu żebrowo-kręgowego nie wchodzi:",
+    "answers": [
+      {
+        "answer": "głowa żebra",
+        "isTrue": false
+      },
+      {
+        "answer": "dołek żebrowy trzonów kręgów piersiowych",
+        "isTrue": false
+      },
+      {
+        "answer": "dołek żebrowy wyrostka poprzecznego",
+        "isTrue": false
+      },
+      {
+        "answer": "guzek żebra",
+        "isTrue": false
+      },
+      {
+        "answer": "wyrostek stawowy",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Z którą z kości łączy się głównie krążek stawowy w stawie promieniowo-nadgarstkowym?",
+    "answers": [
+      {
+        "answer": "K. Łokciową",
+        "isTrue": false
+      },
+      {
+        "answer": "K. Promieniową",
+        "isTrue": false
+      },
+      {
+        "answer": "K. Łódeczkowatą",
+        "isTrue": false
+      },
+      {
+        "answer": "K. Księżycowatą",
+        "isTrue": true
+      },
+      {
+        "answer": "K. Trójgraniastą",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Wyniosłość łokciowa nadgarstka utworzona jest przez…",
+    "answers": [
+      {
+        "answer": "Kość grochowatą",
+        "isTrue": false
+      },
+      {
+        "answer": "Haczyk kości haczykowatej",
+        "isTrue": false
+      },
+      {
+        "answer": "Kość trójgraniasta",
+        "isTrue": false
+      },
+      {
+        "answer": "Odpowiedzi A i B są poprawne",
+        "isTrue": true
+      },
+      {
+        "answer": "Odpowiedzi A, B i C są poprawne",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Co NIE przechodzi przez kanał nadgarstka?",
+    "answers": [
+      {
+        "answer": "Nerw pośrodkowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Ścięgno zginacza promieniowego nadgarstka",
+        "isTrue": false
+      },
+      {
+        "answer": "Nerw promieniowy",
+        "isTrue": true
+      },
+      {
+        "answer": "Ścięgno zginacza długiego kciuka",
+        "isTrue": false
+      },
+      {
+        "answer": "Cztery ścięgna zginacza palców powierzchownego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Z którą kością łączy się kość grochowata?",
+    "answers": [
+      {
+        "answer": "Trójgraniastą",
+        "isTrue": true
+      },
+      {
+        "answer": "Haczykowatą",
+        "isTrue": false
+      },
+      {
+        "answer": "Łódeczkowatą",
+        "isTrue": false
+      },
+      {
+        "answer": "Czworoboczną większą",
+        "isTrue": false
+      },
+      {
+        "answer": "Główkowatą",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Articulatio talocalcaneonavicularis",
+    "answers": [
+      {
+        "answer": "jest to staw prosty",
+        "isTrue": false
+      },
+      {
+        "answer": "stanowi połączenie między kością skokową, a sześcienną",
+        "isTrue": false
+      },
+      {
+        "answer": "umożliwia ruch zgięcia grzbietowego i podeszwowego stopy",
+        "isTrue": false
+      },
+      {
+        "answer": "główkę stawu stanowi powierzchnia stawowa piętowa tylna kości skokowej",
+        "isTrue": false
+      },
+      {
+        "answer": "jest podzielony na dwa całkowicie odrębne stawy: skokowy przedni i tylny",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Najważniejszym elementem stabilizującym sklepienie podłużne stopy jest:",
+    "answers": [
+      {
+        "answer": "więzadło podeszwowe długie",
+        "isTrue": false
+      },
+      {
+        "answer": "pionowe ustawienie kości skokowej na kości piętowej",
+        "isTrue": true
+      },
+      {
+        "answer": "guz piętowy, głowy I i V kości śródstopia",
+        "isTrue": false
+      },
+      {
+        "answer": "ścięgno mięśnia zginacza długiego palców",
+        "isTrue": false
+      },
+      {
+        "answer": "mięsień czworoboczny podeszwy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Bruzda jakiego nerwu dzieli tylną powierzchnię kości ramiennej?",
+    "answers": [
+      {
+        "answer": "Mięśniowo-skórnego",
+        "isTrue": false
+      },
+      {
+        "answer": "Łokciowego",
+        "isTrue": false
+      },
+      {
+        "answer": "Pachowego",
+        "isTrue": false
+      },
+      {
+        "answer": "Promieniowego",
+        "isTrue": true
+      },
+      {
+        "answer": "Pośrodkowego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Wybierz zdanie fałszywe:",
+    "answers": [
+      {
+        "answer": "talerze kości biodrowych są u kobiet szerzej rozstawione",
+        "isTrue": false
+      },
+      {
+        "answer": "u mężczyzn spojenie łonowe jest niższe",
+        "isTrue": true
+      },
+      {
+        "answer": "u mężczyzn promontorium jest bardziej wydatne",
+        "isTrue": false
+      },
+      {
+        "answer": "kość krzyżowa u kobiet jest szersza",
+        "isTrue": false
+      },
+      {
+        "answer": "kifoza krzyżowa jest u kobiet głębsza",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Nieprawdą jest, że:",
+    "answers": [
+      {
+        "answer": "Więzadło pierścieniowate kości promieniowej otacza głowę kości promieniowej biegnąc od przedniego do tylnego brzegu wcięcia promieniowego kości łokciowej",
+        "isTrue": false
+      },
+      {
+        "answer": "W skład wyniosłości łokciowej nadgarstka wchodzą kość grochowata i haczyk kości haczykowatej",
+        "isTrue": false
+      },
+      {
+        "answer": "Śródręcze składa się z 5 kości śródręcza, z których każda składa się z trzonu, podstawy i głowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Kości nadgarstka w obrębie szeregu łącza się stawami śródnadgarstkowymi",
+        "isTrue": true
+      },
+      {
+        "answer": "Staw łokciowy składa się ze stawów: ramienno-łokciowego, ramienno-promieniowy i promieniowo-łokciowego bliższego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Nieprawdą jest, że:",
+    "answers": [
+      {
+        "answer": "Ruch odwodzenia w stawie ramiennym odbywa się tylko do kąta ok. 90 stopni",
+        "isTrue": false
+      },
+      {
+        "answer": "Stawy miedzypaliczkowe to typowe stawy zawiasowe, w których występują więzadła poboczne",
+        "isTrue": false
+      },
+      {
+        "answer": "Kość łódeczkowata łączy się z kośćmi: promieniową, czworobocznymi większą i mniejszą, księżycowatą i grochowatą",
+        "isTrue": true
+      },
+      {
+        "answer": "Wyniosłość promieniowa nadgarstka składa się z guzka kości łódeczkowatej i guzka kości czworobocznej większej",
+        "isTrue": false
+      },
+      {
+        "answer": "Główką w stawie promieniowo-łokciowym dalszym jest obwód stawowy głowy kości łokciowej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Którego rodzaju ruchu nie doświadczymy w stawie elipsoidalnym?",
+    "answers": [
+      {
+        "answer": "przywodzenie",
+        "isTrue": false
+      },
+      {
+        "answer": "odwodzenie",
+        "isTrue": false
+      },
+      {
+        "answer": "obwodzenie",
+        "isTrue": false
+      },
+      {
+        "answer": "odprowadzanie",
+        "isTrue": true
+      },
+      {
+        "answer": "Prostowanie",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Chrząstką parzystą nie jest:",
+    "answers": [
+      {
+        "answer": "chrząstka trzeszczkowata",
+        "isTrue": false
+      },
+      {
+        "answer": "chrząstka przegrody nosa",
+        "isTrue": true
+      },
+      {
+        "answer": "chrząstka przylemieszowa",
+        "isTrue": false
+      },
+      {
+        "answer": "chrząstka skrzydłowa większa",
+        "isTrue": false
+      },
+      {
+        "answer": "chrząstka skrzydłowa mniejsza",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Więzadło śródstawowe mostkowo-żebrowe występuje w stawie żebra:",
+    "answers": [
+      {
+        "answer": "I",
+        "isTrue": false
+      },
+      {
+        "answer": "II",
+        "isTrue": true
+      },
+      {
+        "answer": "III",
+        "isTrue": false
+      },
+      {
+        "answer": "VII",
+        "isTrue": false
+      },
+      {
+        "answer": "VI",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Na kości biodrowej",
+    "answers": [
+      {
+        "answer": "Na powierzchni pośladkowej znajdują się 3 kresy: Kresa pośladkowa przednia, tylna i górna",
+        "isTrue": false
+      },
+      {
+        "answer": "Guzowatość biodrowa znajduje się do tyłu i góry od powierzchni uchowatej",
+        "isTrue": true
+      },
+      {
+        "answer": "Z wargi wewnętrznej do tyłu od kolca biodrowego przedniego górnego uwypukla się guzek biodrowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Talerz i trzon oddzielone są kresą pośrednią",
+        "isTrue": false
+      },
+      {
+        "answer": "Ku dołowi poniżej kolca biodrowego tylnego dolnego brzegu tylny przechodzi we wcięcie kulszowe mniejsze",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Nieprawdą jest, że:",
+    "answers": [
+      {
+        "answer": "Na stronie przyśrodkowej końca dalszego kości promieniowej leży wcięcie łokciowe kości promieniowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Na głowie kości łokciowej leży obwód stawowy głowy kości łokciowej, stanowiący ok. 3/5 obwodu głowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Kość trójgraniasta łączy się z kośćmi: księżycowatą, grochowatą i łódeczkowatą",
+        "isTrue": true
+      },
+      {
+        "answer": "Troczek zginaczy rozpięty między wyniosłością promieniową i wyniosłością łokciową nadgarstka zamyka bruzdę nadgarstka w kanał nadgarstka",
+        "isTrue": false
+      },
+      {
+        "answer": "Błona międzykostna przedramienia kończy się u góry struną skośną, która przyczepia się do guzowatości kości łokciowej i poniżej guzowatości kości promieniowej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Część włókien tego więzadła dochodzi do głowy strzałki jako troczek więzadła łukowatego:",
+    "answers": [
+      {
+        "answer": "Więzadło podkolanowe skośne",
+        "isTrue": false
+      },
+      {
+        "answer": "Więzadło podkolanowe łukowate",
+        "isTrue": true
+      },
+      {
+        "answer": "Więzadło poboczne piszczeli",
+        "isTrue": false
+      },
+      {
+        "answer": "Więzadło poboczne strzałki",
+        "isTrue": false
+      },
+      {
+        "answer": "Brak poprawnej odpowiedzi",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Błona międzykostna przedramienia kończy się u góry silnym pasmem włóknistym. Jak się ono nazywa?",
+    "answers": [
+      {
+        "answer": "Ścięgno skośne",
+        "isTrue": false
+      },
+      {
+        "answer": "Struna skośna",
+        "isTrue": true
+      },
+      {
+        "answer": "Ścięgno proste",
+        "isTrue": false
+      },
+      {
+        "answer": "Więzadło pierścieniowate",
+        "isTrue": false
+      },
+      {
+        "answer": "Więzadło czworokątne",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Która kość nadgarstka NIE wchodzi w skład szeregu bliższego?",
+    "answers": [
+      {
+        "answer": "Łódeczkowata",
+        "isTrue": false
+      },
+      {
+        "answer": "Grochowata",
+        "isTrue": false
+      },
+      {
+        "answer": "Trójgraniasta",
+        "isTrue": false
+      },
+      {
+        "answer": "Księżycowata",
+        "isTrue": false
+      },
+      {
+        "answer": "Haczykowata",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Szew wieńcowy jest przykładem:",
+    "answers": [
+      {
+        "answer": "szwu gładkiego",
+        "isTrue": false
+      },
+      {
+        "answer": "szwu łuskowego",
+        "isTrue": false
+      },
+      {
+        "answer": "szwu zębatego",
+        "isTrue": true
+      },
+      {
+        "answer": "Wklinowania",
+        "isTrue": false
+      },
+      {
+        "answer": "Chrząstkozrostu",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Otwór łopatki tworzą wcięcie łopatki oraz:",
+    "answers": [
+      {
+        "answer": "więzadło kruczo-barkowe",
+        "isTrue": false
+      },
+      {
+        "answer": "więzadło poprzeczne łopatki górne",
+        "isTrue": true
+      },
+      {
+        "answer": "więzadło poprzeczne łopatki dolne",
+        "isTrue": false
+      },
+      {
+        "answer": "więzadło kruczo-obojczykowe",
+        "isTrue": false
+      },
+      {
+        "answer": "powięź ponadramienna",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Tuberculum conoideum znajduje się na:",
+    "answers": [
+      {
+        "answer": "Łopatce",
+        "isTrue": false
+      },
+      {
+        "answer": "pierwszym żebrze",
+        "isTrue": false
+      },
+      {
+        "answer": "drugim żebrze",
+        "isTrue": false
+      },
+      {
+        "answer": "Obojczyku",
+        "isTrue": true
+      },
+      {
+        "answer": "kości ramiennej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Ścięgno którego z poniżej wymienionych mięśni NIE tworzy tzw. stożka rotatorów",
+    "answers": [
+      {
+        "answer": "Nadgrzebieniowego",
+        "isTrue": false
+      },
+      {
+        "answer": "Podgrzebieniowego",
+        "isTrue": false
+      },
+      {
+        "answer": "Podłopatkowego",
+        "isTrue": false
+      },
+      {
+        "answer": "Obłego mniejszego",
+        "isTrue": false
+      },
+      {
+        "answer": "Obłego większego",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Do jakiego kąta odbywa się ruch odwodzenia w stawie ramiennym?",
+    "answers": [
+      {
+        "answer": "30°",
+        "isTrue": false
+      },
+      {
+        "answer": "45°",
+        "isTrue": false
+      },
+      {
+        "answer": "60°",
+        "isTrue": false
+      },
+      {
+        "answer": "90°",
+        "isTrue": true
+      },
+      {
+        "answer": "120°",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Które kości powstają w wyniku konstnienia na podłożu mezenchymatycznym:",
+    "answers": [
+      {
+        "answer": "łopatka",
+        "isTrue": false
+      },
+      {
+        "answer": "mostek",
+        "isTrue": false
+      },
+      {
+        "answer": "żebra",
+        "isTrue": false
+      },
+      {
+        "answer": "część środkowa obojczyka",
+        "isTrue": true
+      },
+      {
+        "answer": "Kręgosłup",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Ograniczeniami otworu międzykręgowego nie jest:",
+    "answers": [
+      {
+        "answer": "wcięcie kręgowe dolne kręgu leżącego bezpośrednio wyżej",
+        "isTrue": false
+      },
+      {
+        "answer": "wcięcie kręgowe górne kręgu leżącego bezpośrednio niżej",
+        "isTrue": false
+      },
+      {
+        "answer": "powierzchnie przednie trzonów sąsiednich kręgów i krążka międzykręgowego",
+        "isTrue": true
+      },
+      {
+        "answer": "Dolny wyrostek stawowy kręgu leżącego wyżej i górny wyrostek stawowy kręgu leżącego niżej",
+        "isTrue": false
+      },
+      {
+        "answer": "Powierzchnia torebki stawu międzykręgowego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Jakim rodzajem stawu jest staw promieniowo-łokciowy bliższy?",
+    "answers": [
+      {
+        "answer": "Obrotowym",
+        "isTrue": true
+      },
+      {
+        "answer": "Kulistym wolnym",
+        "isTrue": false
+      },
+      {
+        "answer": "Zawiasowym",
+        "isTrue": false
+      },
+      {
+        "answer": "Eliptycznym",
+        "isTrue": false
+      },
+      {
+        "answer": "Płaskim",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Articulatio talocruralis",
+    "answers": [
+      {
+        "answer": "umożliwia zgięcie grzbietowe i podeszwowe stopy",
+        "isTrue": true
+      },
+      {
+        "answer": "umożliwia nawracanie i odwracanie stopy",
+        "isTrue": false
+      },
+      {
+        "answer": "to staw obrotowy",
+        "isTrue": false
+      },
+      {
+        "answer": "główkę stawu stanowi powierzchnia stawowa skokowa tylna kości piętowej",
+        "isTrue": false
+      },
+      {
+        "answer": "podzielony jest na staw skokowy przedni i tylny",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Sprzężna anatomiczna jest wymiarem prostym płaszczyzny:",
+    "answers": [
+      {
+        "answer": "Wchodu",
+        "isTrue": true
+      },
+      {
+        "answer": "Próżni",
+        "isTrue": false
+      },
+      {
+        "answer": "Cieśni",
+        "isTrue": false
+      },
+      {
+        "answer": "Wychodu",
+        "isTrue": false
+      },
+      {
+        "answer": "jest wymiarem prostym każdej płaszczyzny miednicy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Prawdą jest że:",
+    "answers": [
+      {
+        "answer": "Więzadło podłużne przednie rozpoczyna się na zębie kręgu C2",
+        "isTrue": false
+      },
+      {
+        "answer": "Więzadło międzypoprzeczne łączy wyrostki kolczyste kręgów",
+        "isTrue": false
+      },
+      {
+        "answer": "Więzadło karkowe sięga aż do Th12",
+        "isTrue": false
+      },
+      {
+        "answer": "Więzadło podłużne przednie rozpoczyna się na guzku gardłowym",
+        "isTrue": true
+      },
+      {
+        "answer": "Brak poprawnej odpowiedzi",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Wyrostek rylcowaty kości promieniowej to przedłużenie której powierzchni końca dalszego",
+    "answers": [
+      {
+        "answer": "Bocznej",
+        "isTrue": true
+      },
+      {
+        "answer": "Przedniej",
+        "isTrue": false
+      },
+      {
+        "answer": "Tylnej",
+        "isTrue": false
+      },
+      {
+        "answer": "Przyśrodkowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Kość promieniowa nie posiada wyrostka rylcowatego",
+        "isTrue": false
+      }
+    ]
+  }
+]

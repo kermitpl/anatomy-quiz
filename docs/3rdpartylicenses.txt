@@ -87,7 +87,11 @@ THE SOFTWARE.
 
 @angular/material/button
 
+@angular/material/card
+
 @angular/material/radio
+
+@angular/material/toolbar
 
 @angular/platform-browser
 MIT
