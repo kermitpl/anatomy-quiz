@@ -40,6 +40,7 @@ export class QuizComponent implements OnInit {
       this.isCorrect = 'You\'re right! ✅';
       if (this.tryCount === 1) {
         this.questions.splice(this.chosenid, 1);
+        this.chosenid = this.chosenid - 1;
       }
     } else {
       this.isCorrect = 'Wrong 😥';
