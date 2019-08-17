@@ -89,7 +89,15 @@ THE SOFTWARE.
 
 @angular/material/card
 
+@angular/material/checkbox
+
+@angular/material/core
+
+@angular/material/form-field
+
 @angular/material/radio
+
+@angular/material/select
 
 @angular/material/toolbar
 

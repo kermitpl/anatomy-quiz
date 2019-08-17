@@ -1,42 +1,44 @@
 import { Component, OnInit } from '@angular/core';
-import osteologia from '../../assets/question_data/one/osteologia_one.json';
-import czaszka from '../../assets/question_data/one/czaszka_one.json';
-import embrio from '../../assets/question_data/one/embrio_one.json';
-import brzuch from '../../assets/question_data/one/brzuch_one.json';
-import gis from '../../assets/question_data/one/gis_one.json';
-import kd from '../../assets/question_data/one/kd_one.json';
-import kg from '../../assets/question_data/one/kg_one.json';
-import klatka from '../../assets/question_data/one/klatka_one.json';
-import miednica from '../../assets/question_data/one/miednica_one.json';
-import oun from '../../assets/question_data/one/oun_one.json';
+import osteologia from '../../assets/question_data/multi/osteologia_multi.json';
+import czaszka from '../../assets/question_data/multi/czaska_multi.json';
+import embrio from '../../assets/question_data/multi/embriologia_multi.json';
+import brzuch from '../../assets/question_data/multi/brzuch_multi.json';
+import gis from '../../assets/question_data/multi/gis_multi.json';
+import kd from '../../assets/question_data/multi/kd_multi.json';
+import kg from '../../assets/question_data/multi/kg_multi.json';
+import klatka from '../../assets/question_data/multi/klatka_multi.json';
+import miednica from '../../assets/question_data/multi/miednica_multi.json';
+import oun from '../../assets/question_data/multi/oun_multi.json';
 import {QuizQuestion} from '../quiz-question';
 import {QuizAnswer} from '../quiz-answer';
 
 @Component({
-  selector: 'app-quiz',
-  templateUrl: './quiz.component.html',
-  styleUrls: ['./quiz.component.css']
+  selector: 'app-quiz-multi',
+  templateUrl: './quiz-multi.component.html',
+  styleUrls: ['./quiz-multi.component.css']
 })
-export class QuizComponent implements OnInit {
+export class QuizMultiComponent implements OnInit {
   chosenAnswer: QuizAnswer;
   isCorrect = '⏳ Waiting for your answer... ⏳';
   questions: QuizQuestion [];
   chosenid: number;
   currentQuestion: QuizQuestion;
   tryCount = 0;
-  selectedData = 'osteologia';
+  checkAnswers: boolean [];
+  selectedData = 'brzuch';
 
   constructor() { }
 
   ngOnInit() {
     this.chosenid = 0;
-    this.questions = osteologia;
+    this.questions = brzuch;
     this.currentQuestion = this.questions[this.chosenid];
+    this.checkAnswers = [false, false, false, false];
   }
 
-  onChange() {
+  onChange(isTrue) {
     this.tryCount++;
-    if (this.chosenAnswer.isTrue) {
+    if (isTrue) {
       this.isCorrect = 'You\'re right! ✅';
       if (this.tryCount === 1) {
         this.questions.splice(this.chosenid, 1);
@@ -55,8 +57,19 @@ export class QuizComponent implements OnInit {
         this.chosenid = Math.floor((Math.random() * this.questions.length)); }
       this.currentQuestion = this.questions[this.chosenid];
       this.tryCount = 0;
+      this.checkAnswers = [false, false, false, false];
       this.isCorrect = '⏳ Waiting for your answer... ⏳';
     }
+  }
+
+  checkQuestion() {
+    let isTrue = true;
+    for (const j of [0, 1, 2, 3]) {
+      if (this.currentQuestion.answers[j].isTrue !== this.checkAnswers[j]) {
+        isTrue = false;
+      }
+    }
+    this.onChange(isTrue);
   }
 
   dataChanged() {

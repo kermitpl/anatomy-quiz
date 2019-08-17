@@ -12,11 +12,15 @@ import {MatDividerModule} from '@angular/material/divider';
 import {MatButtonModule} from '@angular/material/button';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatProgressBarModule} from '@angular/material/progress-bar';
+import {MatSelectModule} from '@angular/material/select';
+import { QuizMultiComponent } from './quiz-multi/quiz-multi.component';
+import {MatCheckboxModule} from '@angular/material/checkbox';
 
 @NgModule({
   declarations: [
     AppComponent,
-    QuizComponent
+    QuizComponent,
+    QuizMultiComponent
   ],
   imports: [
     BrowserModule,
@@ -28,6 +32,8 @@ import {MatProgressBarModule} from '@angular/material/progress-bar';
     MatButtonModule,
     MatToolbarModule,
     MatProgressBarModule,
+    MatSelectModule,
+    MatCheckboxModule,
     FormsModule
   ],
   providers: [],

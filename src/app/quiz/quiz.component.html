@@ -1,3 +1,21 @@
+<div style="align-items: center; justify-content: center; display: flex">
+<mat-form-field>
+  <mat-label>Select category</mat-label>
+  <mat-select [(value)]="selectedData"
+  (valueChange)="dataChanged()">
+    <mat-option value="osteologia">Osteologia</mat-option>
+    <mat-option value="czaszka">Czaszka</mat-option>
+    <mat-option value="embrio">Embriologia</mat-option>
+    <mat-option value="gis">Głowa i szyja</mat-option>
+    <mat-option value="kd">Kończyna dolna</mat-option>
+    <mat-option value="kg">Kończyna górna</mat-option>
+    <mat-option value="klatka">Klatka piersiowa</mat-option>
+    <mat-option value="miednica">Miednica</mat-option>
+    <mat-option value="brzuch">Brzuch</mat-option>
+    <mat-option value="oun">Ośrodkowy układ nerwowy</mat-option>
+  </mat-select>
+</mat-form-field>
+</div>
 
 <div style="align-items: center; justify-content: center; display: flex">
 <mat-card style="width: 60%">
@@ -9,7 +27,7 @@
   (change)="onChange()"
   [(ngModel)]="chosenAnswer">
   <mat-radio-button class="example-radio-button" *ngFor="let ans of currentQuestion.answers" [value]="ans">
-    {{ans.answer}}
+    <span>{{ans.answer}}</span>
   </mat-radio-button>
 </mat-radio-group>
 </mat-card>
