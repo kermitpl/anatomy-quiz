@@ -1,1 +1,1302 @@
-[{"id":0,"question":"Który mięsień nie działa na staw ramienny?","answers":[{"answer":"mięsień piersiowy większy","isTrue":false},{"answer":"mięsień piersiowy mniejszy","isTrue":false},{"answer":"mięsień nadgrzebieniowy","isTrue":false},{"answer":"mięsień podgrzebieniowy","isTrue":false},{"answer":"mięsień obły mniejszy","isTrue":false}]},{"id":1,"question":"ie jest prawdą, że musculus subclavius:","answers":[{"answer":"przyczepia się do powierzchni górnej I żebra","isTrue":false},{"answer":"przyczepia się do powierzchni dolnej końca barkowego obojczyka","isTrue":false},{"answer":"podnosi obojczyk","isTrue":false},{"answer":"poszerza światło żyły podobojczykowej","isTrue":false},{"answer":"jest unerwiony przez nerw podobojczykowy","isTrue":false}]},{"id":2,"question":"ięsień obły mniejszy unerwiony jest przez:","answers":[{"answer":"nerw pachowy","isTrue":false},{"answer":"nerw nadłopatkowy","isTrue":false},{"answer":"nerw podłopatkowy","isTrue":false},{"answer":"nerw piersiowo-grzbietowy","isTrue":false},{"answer":"nerw grzbietowy łopatki","isTrue":false}]},{"id":3,"question":"omocniczym/dodatkowym mięśniem wdechowym nie jest:","answers":[{"answer":"mięsień najszerszy grzbietu","isTrue":false},{"answer":"mięsień piersiowy większy","isTrue":false},{"answer":"mięsień piersiowy mniejszy","isTrue":false},{"answer":"mięsień zębaty przedni","isTrue":false},{"answer":"mięsięń zębaty tylny górny","isTrue":false}]},{"id":4,"question":"ała grupa przednia mięśni ramienia jest unerwiona przez:","answers":[{"answer":"nerw promieniowy","isTrue":false},{"answer":"nerw łokciowy","isTrue":false},{"answer":"nerw mięśniowo-skórny","isTrue":false},{"answer":"nerw pośrodkowy","isTrue":false},{"answer":"wszystkie powyższe","isTrue":false}]},{"id":5,"question":"zw. Ręka błogosławiąca to skutek porażenie którego z poniższych nerwów?","answers":[{"answer":"nerwu pośrodkowego","isTrue":false},{"answer":"nerwu łokciowego","isTrue":false},{"answer":"nerwu promieniowego","isTrue":false},{"answer":"nerwu mięśniowo-skórnego","isTrue":false},{"answer":"żadnego z powyższych","isTrue":false}]},{"id":6,"question":"zw. Ręka szponiasta to skutek porażenia którego z poniższych nerwów?","answers":[{"answer":"nerwu pośrodkowego","isTrue":false},{"answer":"nerwu łokciowego","isTrue":false},{"answer":"nerwu promieniowego","isTrue":false},{"answer":"nerwu mięśniowo-skórnego","isTrue":false},{"answer":"żadnego z powyższych","isTrue":false}]},{"id":7,"question":"zw. Ręka opadająca to skutek porażenia którego z poniższych nerwów?","answers":[{"answer":"nerwu pośrodkowego","isTrue":false},{"answer":"nerwu łokciowego","isTrue":false},{"answer":"nerwu promieniowego","isTrue":false},{"answer":"nerwu mięśniowo-skórnego","isTrue":false},{"answer":"żadnego z powyższych","isTrue":false}]},{"id":8,"question":"anał nadgarstka nie zawiera:","answers":[{"answer":"nerwu promieniowego","isTrue":false},{"answer":"czterech ścięgien mięśnia zginacza powierzchownego palców","isTrue":false},{"answer":"czterech ścięgien mięśnia zginacza głębokiego palców","isTrue":false},{"answer":"pochewki maziowej otaczającej ścięgno zginacza długiego kciuka","isTrue":false},{"answer":"pochewki maziowej otaczającej wspólnie wszystkie ścięgna zginaczy palców","isTrue":false}]},{"id":9,"question":"Dół pachowy nie jest ograniczony:","answers":[{"answer":"od przodu – mięsień piersiowy większy i mniejszy","isTrue":false},{"answer":"od tyłu – mięsięń najszerszy grzbietu, mięsień obły większy, miesięń podłopatkowy","isTrue":false},{"answer":"od boku – głowa długa mięśnia dwugłowego ramienia, mięsień kruczo-ramienny, szyjka chirurgiczna kości ramiennej","isTrue":false},{"answer":"przyśrodkowo – mięsień zębaty przedni","isTrue":false},{"answer":"od dołu – skóra, tkanka podskórna, powięź pachowa","isTrue":false}]},{"id":10,"question":"Nie jest prawdą, że tętnica podobojczykowa:","answers":[{"answer":"po stronie prawej odchodzi na poziomie stawu mostkowo-obojczykowego prawego","isTrue":false},{"answer":"po stronie prawej odchodzi z pnia ramienno-głowowego","isTrue":false},{"answer":"po stronie lewej rozpoczyna się w śródpiersiu zatchawiczym","isTrue":false},{"answer":"po stronie lewej rozpoczyna się jako bezpośrednie odgałęzienie wypukłej strony łuku aorty","isTrue":false},{"answer":"w jej przebiegu wyrózniamy trzy odcinki: wstępujący, szczytowy i zstępujący","isTrue":false}]},{"id":11,"question":"Do zawartości otworu czworobocznego nie należy:","answers":[{"answer":"nerw pachowy","isTrue":false},{"answer":"tętnica okalająca łopatkę","isTrue":false},{"answer":"tętnica okalająca ramię tylna","isTrue":false},{"answer":"naczynia żylne towarzyszące","isTrue":false},{"answer":"naczynia chłonne","isTrue":false}]},{"id":12,"question":"Do warstwy powierzchownej grupy tylnej mięśni przedramienia należy:","answers":[{"answer":"m. prostownik palców","isTrue":false},{"answer":"m. prostownik krótki kciuka","isTrue":false},{"answer":"m. prostownik długi kciuka","isTrue":false},{"answer":"m. prostownik wskaziciela","isTrue":false},{"answer":"m. odwodziciel długi kciuka","isTrue":false}]},{"id":13,"question":"Do kości ramiennej przyczepiają się wszystkie niżej wymienione mięśnie oprócz:","answers":[{"answer":"m. prostownika palca małego","isTrue":false},{"answer":"m. prostownika łokciowego nadgarstka","isTrue":false},{"answer":"m. prostownika palców","isTrue":false},{"answer":"m. prostownika promieniowego nadgarstka długiego","isTrue":false},{"answer":"m. odwodziciela długiego kciuka","isTrue":false}]},{"id":14,"question":"Która z wymienionych struktur NIE wchodzi w skład jednego pęczka naczyniowo-nerwowego przedramienia?","answers":[{"answer":"t. promieniowa","isTrue":false},{"answer":"naczynia żylne","isTrue":false},{"answer":"naczynia chłonne","isTrue":false},{"answer":"gałąź powierzchowna n. promieniowego","isTrue":false},{"answer":"t. łokciowa","isTrue":false}]},{"id":15,"question":"Które węzły chłonne nie należą do dołu pachowego?","answers":[{"answer":"węzły chłonne pachowe boczne","isTrue":false},{"answer":"węzły chłonne pachowe piersiowe","isTrue":false},{"answer":"węzły chłonne podłopatkowe","isTrue":false},{"answer":"węzły chłonne pachowe środkowe","isTrue":false},{"answer":"wszystkie powyższe należą","isTrue":false}]},{"id":16,"question":"Do grupy tylnej mięśni przedramienia NIE należy:","answers":[{"answer":"m. prostownik palców","isTrue":false},{"answer":"m. prostownik łokciowy nadgarstka","isTrue":false},{"answer":"m. prostownik krótki kciuka","isTrue":false},{"answer":"m. ramienno-promieniowy","isTrue":false},{"answer":"m. prostownik długi kciuka","isTrue":false}]},{"id":17,"question":"Dno tabakierki anatomicznej stanowi kość:","answers":[{"answer":"łódeczkowata","isTrue":false},{"answer":"księżycowata","isTrue":false},{"answer":"trójgraniasta","isTrue":false},{"answer":"grochowata","isTrue":false},{"answer":"haczykowata","isTrue":false}]},{"id":18,"question":"W stawie łokciowym NIE zgina:","answers":[{"answer":"m. dwugłowy ramienia","isTrue":false},{"answer":"m. ramienno-promieniowy","isTrue":false},{"answer":"m. zginacz łokciowy nadgarstka","isTrue":false},{"answer":"m. trójgłowy ramienia","isTrue":false},{"answer":"n. zginacz promieniowy nadgarstka","isTrue":false}]},{"id":19,"question":"W poszerzaniu światła żyły podobojczykowej uczestniczy:","answers":[{"answer":"m. piersiowy większy","isTrue":false},{"answer":"m. piersiowy mniejszy","isTrue":false},{"answer":"m. zębaty przedni","isTrue":false},{"answer":"m. podobojczykowy","isTrue":false},{"answer":"m. dźwigacz łopatki","isTrue":false}]},{"id":20,"question":"Grupę tylną mięśni przedramienia unerwia:","answers":[{"answer":"gałąź powierzchowna n. promieniowego","isTrue":false},{"answer":"gałąź głęboka n. promieniowego","isTrue":false},{"answer":"gałąź powierzchowna n. łokciowego","isTrue":false},{"answer":"gałąź głęboka n. łokciowego","isTrue":false},{"answer":"n. pośrodkowy","isTrue":false}]},{"id":21,"question":"Do ograniczeń otworu trójbocznego NIE należy:","answers":[{"answer":"m. teres major","isTrue":false},{"answer":"m. teres minor","isTrue":false},{"answer":"caput longum m. tricipitis brachii/long head of triceps brachii","isTrue":false},{"answer":"m. pectoralis major","isTrue":false},{"answer":"brak poprawnej odpowiedzi","isTrue":false}]},{"id":22,"question":"Rutynowo bada się tętno:","answers":[{"answer":"t. pachowej","isTrue":false},{"answer":"t. ramiennej","isTrue":false},{"answer":"t. łokciowej","isTrue":false},{"answer":"t. promieniowej","isTrue":false},{"answer":"t. międzykostnej wspólnej","isTrue":false}]},{"id":23,"question":"Na obszarze tabakierki anatomicznej można wyczuć tętno:","answers":[{"answer":"t. promieniowej","isTrue":false},{"answer":"t. łokciowej","isTrue":false},{"answer":"t. pachowej","isTrue":false},{"answer":"t. ramiennej","isTrue":false},{"answer":"T. grzbietowa śródręcza","isTrue":false}]},{"id":24,"question":"Podwójne unerwienie ma mięsień:","answers":[{"answer":"m. zginacz powierzchowny palców","isTrue":false},{"answer":"m. nawrotny obły","isTrue":false},{"answer":"m. zginacz łokciowy nadgarstka","isTrue":false},{"answer":"m. zginacz głęboki palców","isTrue":false},{"answer":"Zginacz powierzchowny palców","isTrue":false}]},{"id":25,"question":"Do czego przyczepiają się wszystkie mięśnie warstwy powierzchownej grupy przedniej przedramienia?","answers":[{"answer":"nadkłykcia bocznego k. ramiennej","isTrue":false},{"answer":"nadkłykcia przyśrodkowego k. ramiennej","isTrue":false},{"answer":"podstawy II k. śródręcza","isTrue":false},{"answer":"wyrostka łokciowego k. łokciowej","isTrue":false},{"answer":"powięzi przedramienia","isTrue":false}]},{"id":26,"question":"Tabakierka anatomiczna zawiera:","answers":[{"answer":"żyłę odłokciową","isTrue":false},{"answer":"nerw pośrodkowy","isTrue":false},{"answer":"gałąź głęboką n. łokciowego","isTrue":false},{"answer":"gałąź powierzchowną n. łokciowego","isTrue":false},{"answer":"tętnicę promieniową","isTrue":false}]},{"id":27,"question":"Ograniczeniem tabakierki anatomicznej jest:","answers":[{"answer":"ścięgno m. odwodziciela długiego kciuka","isTrue":false},{"answer":"ścięgno m. dłoniowego długiego","isTrue":false},{"answer":"ścięgno m. ramienno-promieniowego","isTrue":false},{"answer":"żyła odpromieniowa","isTrue":false},{"answer":"tętnica promieniowa","isTrue":false}]},{"id":28,"question":"Nieprawdą jest, że:","answers":[{"answer":"przednim ograniczeniem dołu pachowego jest m. latissimus dorsi","isTrue":false},{"answer":"otwór czworoboczny zawiera nerw pachowy","isTrue":false},{"answer":"dół pachowy zawiera nervus thoracicus longus/long thoracic nerve","isTrue":false},{"answer":"otwór trójboczny ograniczony jest od dołu przez m. teres major","isTrue":false},{"answer":"dół pachowy przedłuża się w bruzdę przyśrodkową mięśnia dwugłowego ramienia","isTrue":false}]},{"id":29,"question":"Rowka bocznego mięśnia dwugłowego ramienia NIE ogranicza:","answers":[{"answer":"m. ramienny","isTrue":false},{"answer":"m. ramienno-promieniowy","isTrue":false},{"answer":"m. naramienny","isTrue":false},{"answer":"głowa krótka m. dwugłowego ramienia","isTrue":false},{"answer":"głowa długa m. dwugłowego ramienia","isTrue":false}]},{"id":30,"question":"Tętnica międzykostna tylna biegnie z:","answers":[{"answer":"gałęzią głęboką n. promieniowego","isTrue":false},{"answer":"n. międzykostnym tylnym","isTrue":false},{"answer":"Gałęzią głęboką n. łokciowego","isTrue":false},{"answer":"n. pośrodkowym","isTrue":false},{"answer":"gałęzią dłoniową głęboką","isTrue":false}]},{"id":31,"question":"Które zdanie o żyle odpromieniowej jest fałszywe?","answers":[{"answer":"Powstaje z łuku żylnego grzbietowego ręki","isTrue":false},{"answer":"Biegnie w rowku naramienno-piersiowym","isTrue":false},{"answer":"na przedniej powierzchni przedramienia biegnie wzdłuż m. ramienno-promieniowego","isTrue":false},{"answer":"nie przechodzi przez okolicę tabakierki anatomicznej","isTrue":false},{"answer":"powstaje z żyły odpromieniowej kciuka","isTrue":false}]},{"id":32,"question":"Prawdą jest, że “ręka szponiasta” polega na:","answers":[{"answer":"nadmiernym prostowaniu w stawach śródręczno-paliczkowych przy zgięciu w stawach międzypaliczkowych","isTrue":false},{"answer":"nadmiernym zgięciu w stawach śródręczno-paliczkowych przy zgięciu w stawach międzypaliczkowych","isTrue":false},{"answer":"nadmiernym zgięciu w stawach śródręczno-paliczkowych przy wyprostowanych stawach międzypaliczkowych","isTrue":false},{"answer":"żadna odpowiedź nie jest prawdziwa","isTrue":false},{"answer":"Wszystkie odpowiedzi są prawdziwe","isTrue":false}]},{"id":33,"question":"Prawda o grupie bocznej mięśni przedramienia:","answers":[{"answer":"Jest unerwiona przez n. promieniowy z wyjątkiem m. odwracacza","isTrue":false},{"answer":"jest unerwiona przez nerw pośrodkowy","isTrue":false},{"answer":"jest unerwiona przez nerw promieniowy","isTrue":false},{"answer":"jest unerwiona przez nerw pośrodkowy z wyjątkiem mięśnia odwracacza","isTrue":false},{"answer":"Jest częściowo unerwiona przez n. łokciowy","isTrue":false}]},{"id":34,"question":"Tętnica ramienna:","answers":[{"answer":"przedłuża się w t. promieniową","isTrue":false},{"answer":"przedłuża się w t. łokciową","isTrue":false},{"answer":"dzieli się na t. promieniową i t. łokciową","isTrue":false},{"answer":"żadna odpowiedź nie jest prawdziwa","isTrue":false},{"answer":"Przedłuża się w t. międzykostną wspólną","isTrue":false}]},{"id":35,"question":"W dolnej cz. przedramienia nerw pośrodkowy:","answers":[{"answer":"biegnie między ścięgnem m. dłoniowego długiego a ścięgnem m. zginacza promieniowego nadgarstka","isTrue":false},{"answer":"przechodzi ponad troczkiem zginaczy","isTrue":false},{"answer":"biegnie między ścięgnem m. zginacza promieniowego nadgarstka a ścięgnem m. zginacza łokciowego nadgarstka","isTrue":false},{"answer":"biegnie między ścięgnem m. dłoniowego długiego a ścięgnem mięśnia łokciowego nadgarstka","isTrue":false},{"answer":"Przechodzi na nadgarstek po stronie promieniowej troczka zginaczy","isTrue":false}]},{"id":36,"question":"Przyczep końcowy m. trójgłowego ramienia znajduje się:","answers":[{"answer":"na kości promieniowej","isTrue":false},{"answer":"na powierzchni tylnej wyrostka łokciowego kości łokciowej","isTrue":false},{"answer":"na wyrostku dziobiastym","isTrue":false},{"answer":"na torebce stawowej","isTrue":false},{"answer":"Na powierzchni tylnej trzony kości łokciowej","isTrue":false}]},{"id":37,"question":"Gałąź powierzchowna n. łokciowego unerwia:","answers":[{"answer":"m. dłoniowy długi","isTrue":false},{"answer":"m. odwodziciel palca małego","isTrue":false},{"answer":"m. dłoniowy krótki","isTrue":false},{"answer":"m. zginacz krótki palca małego","isTrue":false},{"answer":"m. przeciwstawiacz palca małego","isTrue":false}]},{"id":38,"question":"NIE JEST prawdą o nervus axillaris:","answers":[{"answer":"Zaopatruje okostną bliższej części kości ramiennej i staw ramienny","isTrue":false},{"answer":"Jego gałęzią jest nerw skórny boczny ramienia","isTrue":false},{"answer":"Przechodzi przed otwór czworoboczny bocznie od szyjki chirurgicznej","isTrue":false},{"answer":"Zawiera włókna z gałęzi przednich nerwów rdzeniowych C5 i C6","isTrue":false},{"answer":"Zaopatruje musculus deltoideus i teres minor","isTrue":false}]},{"id":39,"question":"Prawdą jest, że:","answers":[{"answer":"Żyła odłokciowa powstaje z połączenia łuku żylnego dłoniowego ręki z żyłą odłokciową palca małego","isTrue":false},{"answer":"Żyła pośrodkowa przedramienia zbiera krew z powierzchownej sieci żylnej dłoni","isTrue":false},{"answer":"Dopływem żyły odłokciowej jest żyła piersiowo-barkowa","isTrue":false},{"answer":"Żyła odpromieniowa biegnie w bruździe przyśrodkowej mięśnia dwugłowego ramienia","isTrue":false},{"answer":"Przeważnie żyle pośrodkowej przedramienia towarzyszy gałąź tylna nerwu skórnego przyśrodkowego przedramienia","isTrue":false}]},{"id":40,"question":"NIE JEST prawdą, że:","answers":[{"answer":"Musculus biceps brachii zgina i odwraca przedramię w stawie łokciowym","isTrue":false},{"answer":"Musculus coracobrachialis jest unerwiony przez nervus musculocutaneous","isTrue":false},{"answer":"Musculus brachialis przyczepia się do guzowatości kości łokciowej","isTrue":false},{"answer":"Musculus brachialis zgina przedramię w stawie łokciowym","isTrue":false},{"answer":"Caput longum m. biceps brachii przyczepia się do wyrostka kruczego łopatki","isTrue":false}]},{"id":41,"question":"Do jakiej struktury anatomicznej nie przyczepia się musculus pectoralis major?","answers":[{"answer":"Do przyśrodkowej części obojczyka","isTrue":false},{"answer":"Do chrząstek żeber I-VI","isTrue":false},{"answer":"Do guzka większego kości ramiennej","isTrue":false},{"answer":"Do grzebienia guzka większego kości ramiennej","isTrue":false},{"answer":"Do blaszki przedniej mięśnia prostego brzucha","isTrue":false}]},{"id":42,"question":"Wskaż zdanie prawdziwe","answers":[{"answer":"Część wstępująca tylko prawej t. podobojczykowej jest krzyżowana przez n. X","isTrue":false},{"answer":"Bezpośrednim odgałęzieniem pnia tarczowo-szyjnego jest t. nadłopatkowa","isTrue":false},{"answer":"Bezpośrednim odgałęzieniem pnia żebrowo-szyjnego jest t. poprzeczna szyi","isTrue":false},{"answer":"T. podobojczykowa lewa przechodzi przez szczelinę przednią mm. pochyłych","isTrue":false},{"answer":"T. szyjna głęboka odchodzi od pnia tarczowo-szyjnego","isTrue":false}]},{"id":43,"question":"Jaką strukturę zawiera otwór czworoboczny","answers":[{"answer":"N. pachowy","isTrue":false},{"answer":"T. okalająca łopatkę","isTrue":false},{"answer":"T. okalająca ramię tylna","isTrue":false},{"answer":"Odpowiedź a i c są prawdziwe","isTrue":false},{"answer":"Odpowiedź a i b są prawdziwe","isTrue":false}]},{"id":44,"question":"Wskaż zdanie nieprawdziwe","answers":[{"answer":"N. pachowy unerwia m. naramienny i m. obły mniejszy","isTrue":false},{"answer":"N. nadłopatkowy unerwia m. nad- i podgrzebieniowy","isTrue":false},{"answer":"N. pośrodkowy unerwia m. zginacz promieniowy nadgarstka","isTrue":false},{"answer":"N. podłopatkowy unerwia m. podłopatkowy i m. obły mniejszy","isTrue":false},{"answer":"N. pośrodkowy unerwia m. przeciwstawiasz kciuka","isTrue":false}]},{"id":45,"question":"Jaki mięsień najsilniej odwraca przedramię w stawie łokciowym?","answers":[{"answer":"M. łokciowy","isTrue":false},{"answer":"M. odwracacz","isTrue":false},{"answer":"M. dwugłowy ramienia","isTrue":false},{"answer":"M. ramienno-promieniowy","isTrue":false},{"answer":"M. ramienny","isTrue":false}]},{"id":46,"question":"Do objawów uszkodzenia pęczka tylnego splotu ramiennego należy:","answers":[{"answer":"Ręka opadająca","isTrue":false},{"answer":"Brak czucia w okolicy skóry kłębu","isTrue":false},{"answer":"Ręka błogosławiąca","isTrue":false},{"answer":"Brak czucia w dolnej części ramienia od przodu","isTrue":false},{"answer":"Ręka szponiasta","isTrue":false}]},{"id":47,"question":"Który mięsień najsilniej prostuje w stawie promieniowo-nadgarstkowym?","answers":[{"answer":"m. extensor carpi ulnaris","isTrue":false},{"answer":"m. extensor carpi radialis brevi","isTrue":false},{"answer":"m. extensor indicis","isTrue":false},{"answer":"m. extensor digitorum","isTrue":false},{"answer":"m. extensor pollicis longus","isTrue":false}]},{"id":48,"question":"Zakres ruchu w stawie ramiennym wynosi:","answers":[{"answer":"obrót na zewnątrz i do wewnątrz: 70'-0'-80'","isTrue":false},{"answer":"odwodzenie-przywodzenie: 20'-0-90'","isTrue":false},{"answer":"obrót na zewnątrz i do wewnątrz: 40'-0'-40'","isTrue":false},{"answer":"zginanie-prostowanie: 30'-0-90'","isTrue":false},{"answer":"odwodzenie-przywodzenie: 90'-0'-20'","isTrue":false}]},{"id":49,"question":"Wskaż zdanie nieprawdziwe:","answers":[{"answer":"węzły chłonne pachowe środkowe zbierają chłonkę z naczyń chłonnych towarzyszących żyle odpromieniowej","isTrue":false},{"answer":"węzły chłonne pachowe środkowe leżą wzdłuż żyły pachowej","isTrue":false},{"answer":"węzły chłonne pachowe boczne zbierają chłonkę z wolnej części kończyny górnej od strony łokciowej.","isTrue":false},{"answer":"węzły chłonne pachowe piersiowe leżą na mięśniu zębatym przednim","isTrue":false},{"answer":"węzły chłonne pachowe piersiowe zbierają chłonkę z bocznej powierzchni sutka","isTrue":false}]}]
+[
+  {
+    "id": 0,
+    "question": "Który mięsień nie działa na staw ramienny?",
+    "answers": [
+      {
+        "answer": "mięsień piersiowy większy",
+        "isTrue": false
+      },
+      {
+        "answer": "mięsień piersiowy mniejszy",
+        "isTrue": true
+      },
+      {
+        "answer": "mięsień nadgrzebieniowy",
+        "isTrue": false
+      },
+      {
+        "answer": "mięsień podgrzebieniowy",
+        "isTrue": false
+      },
+      {
+        "answer": "mięsień obły mniejszy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "question": "ie jest prawdą, że musculus subclavius:",
+    "answers": [
+      {
+        "answer": "przyczepia się do powierzchni górnej I żebra",
+        "isTrue": false
+      },
+      {
+        "answer": "przyczepia się do powierzchni dolnej końca barkowego obojczyka",
+        "isTrue": false
+      },
+      {
+        "answer": "podnosi obojczyk",
+        "isTrue": true
+      },
+      {
+        "answer": "poszerza światło żyły podobojczykowej",
+        "isTrue": false
+      },
+      {
+        "answer": "jest unerwiony przez nerw podobojczykowy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "ięsień obły mniejszy unerwiony jest przez:",
+    "answers": [
+      {
+        "answer": "nerw pachowy",
+        "isTrue": true
+      },
+      {
+        "answer": "nerw nadłopatkowy",
+        "isTrue": false
+      },
+      {
+        "answer": "nerw podłopatkowy",
+        "isTrue": false
+      },
+      {
+        "answer": "nerw piersiowo-grzbietowy",
+        "isTrue": false
+      },
+      {
+        "answer": "nerw grzbietowy łopatki",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "omocniczym/dodatkowym mięśniem wdechowym nie jest:",
+    "answers": [
+      {
+        "answer": "mięsień najszerszy grzbietu",
+        "isTrue": true
+      },
+      {
+        "answer": "mięsień piersiowy większy",
+        "isTrue": false
+      },
+      {
+        "answer": "mięsień piersiowy mniejszy",
+        "isTrue": false
+      },
+      {
+        "answer": "mięsień zębaty przedni",
+        "isTrue": false
+      },
+      {
+        "answer": "mięsięń zębaty tylny górny",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "ała grupa przednia mięśni ramienia jest unerwiona przez:",
+    "answers": [
+      {
+        "answer": "nerw promieniowy",
+        "isTrue": false
+      },
+      {
+        "answer": "nerw łokciowy",
+        "isTrue": false
+      },
+      {
+        "answer": "nerw mięśniowo-skórny",
+        "isTrue": true
+      },
+      {
+        "answer": "nerw pośrodkowy",
+        "isTrue": false
+      },
+      {
+        "answer": "wszystkie powyższe",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "zw. Ręka błogosławiąca to skutek porażenie którego z poniższych nerwów?",
+    "answers": [
+      {
+        "answer": "nerwu pośrodkowego",
+        "isTrue": true
+      },
+      {
+        "answer": "nerwu łokciowego",
+        "isTrue": false
+      },
+      {
+        "answer": "nerwu promieniowego",
+        "isTrue": false
+      },
+      {
+        "answer": "nerwu mięśniowo-skórnego",
+        "isTrue": false
+      },
+      {
+        "answer": "żadnego z powyższych",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "zw. Ręka szponiasta to skutek porażenia którego z poniższych nerwów?",
+    "answers": [
+      {
+        "answer": "nerwu pośrodkowego",
+        "isTrue": false
+      },
+      {
+        "answer": "nerwu łokciowego",
+        "isTrue": true
+      },
+      {
+        "answer": "nerwu promieniowego",
+        "isTrue": false
+      },
+      {
+        "answer": "nerwu mięśniowo-skórnego",
+        "isTrue": false
+      },
+      {
+        "answer": "żadnego z powyższych",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "zw. Ręka opadająca to skutek porażenia którego z poniższych nerwów?",
+    "answers": [
+      {
+        "answer": "nerwu pośrodkowego",
+        "isTrue": false
+      },
+      {
+        "answer": "nerwu łokciowego",
+        "isTrue": false
+      },
+      {
+        "answer": "nerwu promieniowego",
+        "isTrue": true
+      },
+      {
+        "answer": "nerwu mięśniowo-skórnego",
+        "isTrue": false
+      },
+      {
+        "answer": "żadnego z powyższych",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "anał nadgarstka nie zawiera:",
+    "answers": [
+      {
+        "answer": "nerwu promieniowego",
+        "isTrue": true
+      },
+      {
+        "answer": "czterech ścięgien mięśnia zginacza powierzchownego palców",
+        "isTrue": false
+      },
+      {
+        "answer": "czterech ścięgien mięśnia zginacza głębokiego palców",
+        "isTrue": false
+      },
+      {
+        "answer": "pochewki maziowej otaczającej ścięgno zginacza długiego kciuka",
+        "isTrue": false
+      },
+      {
+        "answer": "pochewki maziowej otaczającej wspólnie wszystkie ścięgna zginaczy palców",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Dół pachowy nie jest ograniczony:",
+    "answers": [
+      {
+        "answer": "od przodu – mięsień piersiowy większy i mniejszy",
+        "isTrue": false
+      },
+      {
+        "answer": "od tyłu – mięsięń najszerszy grzbietu, mięsień obły większy, miesięń podłopatkowy",
+        "isTrue": false
+      },
+      {
+        "answer": "od boku – głowa długa mięśnia dwugłowego ramienia, mięsień kruczo-ramienny, szyjka chirurgiczna kości ramiennej",
+        "isTrue": true
+      },
+      {
+        "answer": "przyśrodkowo – mięsień zębaty przedni",
+        "isTrue": false
+      },
+      {
+        "answer": "od dołu – skóra, tkanka podskórna, powięź pachowa",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Nie jest prawdą, że tętnica podobojczykowa:",
+    "answers": [
+      {
+        "answer": "po stronie prawej odchodzi na poziomie stawu mostkowo-obojczykowego prawego",
+        "isTrue": false
+      },
+      {
+        "answer": "po stronie prawej odchodzi z pnia ramienno-głowowego",
+        "isTrue": false
+      },
+      {
+        "answer": "po stronie lewej rozpoczyna się w śródpiersiu zatchawiczym",
+        "isTrue": true
+      },
+      {
+        "answer": "po stronie lewej rozpoczyna się jako bezpośrednie odgałęzienie wypukłej strony łuku aorty",
+        "isTrue": false
+      },
+      {
+        "answer": "w jej przebiegu wyrózniamy trzy odcinki: wstępujący, szczytowy i zstępujący",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Do zawartości otworu czworobocznego nie należy:",
+    "answers": [
+      {
+        "answer": "nerw pachowy",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnica okalająca łopatkę",
+        "isTrue": true
+      },
+      {
+        "answer": "tętnica okalająca ramię tylna",
+        "isTrue": false
+      },
+      {
+        "answer": "naczynia żylne towarzyszące",
+        "isTrue": false
+      },
+      {
+        "answer": "naczynia chłonne",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Do warstwy powierzchownej grupy tylnej mięśni przedramienia należy:",
+    "answers": [
+      {
+        "answer": "m. prostownik palców",
+        "isTrue": true
+      },
+      {
+        "answer": "m. prostownik krótki kciuka",
+        "isTrue": false
+      },
+      {
+        "answer": "m. prostownik długi kciuka",
+        "isTrue": false
+      },
+      {
+        "answer": "m. prostownik wskaziciela",
+        "isTrue": false
+      },
+      {
+        "answer": "m. odwodziciel długi kciuka",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Do kości ramiennej przyczepiają się wszystkie niżej wymienione mięśnie oprócz:",
+    "answers": [
+      {
+        "answer": "m. prostownika palca małego",
+        "isTrue": false
+      },
+      {
+        "answer": "m. prostownika łokciowego nadgarstka",
+        "isTrue": false
+      },
+      {
+        "answer": "m. prostownika palców",
+        "isTrue": false
+      },
+      {
+        "answer": "m. prostownika promieniowego nadgarstka długiego",
+        "isTrue": false
+      },
+      {
+        "answer": "m. odwodziciela długiego kciuka",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Która z wymienionych struktur NIE wchodzi w skład jednego pęczka naczyniowo-nerwowego przedramienia?",
+    "answers": [
+      {
+        "answer": "t. promieniowa",
+        "isTrue": false
+      },
+      {
+        "answer": "naczynia żylne",
+        "isTrue": false
+      },
+      {
+        "answer": "naczynia chłonne",
+        "isTrue": false
+      },
+      {
+        "answer": "gałąź powierzchowna n. promieniowego",
+        "isTrue": false
+      },
+      {
+        "answer": "t. łokciowa",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Które węzły chłonne nie należą do dołu pachowego?",
+    "answers": [
+      {
+        "answer": "węzły chłonne pachowe boczne",
+        "isTrue": false
+      },
+      {
+        "answer": "węzły chłonne pachowe piersiowe",
+        "isTrue": false
+      },
+      {
+        "answer": "węzły chłonne podłopatkowe",
+        "isTrue": false
+      },
+      {
+        "answer": "węzły chłonne pachowe środkowe",
+        "isTrue": false
+      },
+      {
+        "answer": "wszystkie powyższe należą",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Do grupy tylnej mięśni przedramienia NIE należy:",
+    "answers": [
+      {
+        "answer": "m. prostownik palców",
+        "isTrue": false
+      },
+      {
+        "answer": "m. prostownik łokciowy nadgarstka",
+        "isTrue": false
+      },
+      {
+        "answer": "m. prostownik krótki kciuka",
+        "isTrue": false
+      },
+      {
+        "answer": "m. ramienno-promieniowy",
+        "isTrue": true
+      },
+      {
+        "answer": "m. prostownik długi kciuka",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Dno tabakierki anatomicznej stanowi kość:",
+    "answers": [
+      {
+        "answer": "łódeczkowata",
+        "isTrue": true
+      },
+      {
+        "answer": "księżycowata",
+        "isTrue": false
+      },
+      {
+        "answer": "trójgraniasta",
+        "isTrue": false
+      },
+      {
+        "answer": "grochowata",
+        "isTrue": false
+      },
+      {
+        "answer": "haczykowata",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "W stawie łokciowym NIE zgina:",
+    "answers": [
+      {
+        "answer": "m. dwugłowy ramienia",
+        "isTrue": false
+      },
+      {
+        "answer": "m. ramienno-promieniowy",
+        "isTrue": false
+      },
+      {
+        "answer": "m. zginacz łokciowy nadgarstka",
+        "isTrue": false
+      },
+      {
+        "answer": "m. trójgłowy ramienia",
+        "isTrue": true
+      },
+      {
+        "answer": "n. zginacz promieniowy nadgarstka",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "W poszerzaniu światła żyły podobojczykowej uczestniczy:",
+    "answers": [
+      {
+        "answer": "m. piersiowy większy",
+        "isTrue": false
+      },
+      {
+        "answer": "m. piersiowy mniejszy",
+        "isTrue": false
+      },
+      {
+        "answer": "m. zębaty przedni",
+        "isTrue": false
+      },
+      {
+        "answer": "m. podobojczykowy",
+        "isTrue": true
+      },
+      {
+        "answer": "m. dźwigacz łopatki",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Grupę tylną mięśni przedramienia unerwia:",
+    "answers": [
+      {
+        "answer": "gałąź powierzchowna n. promieniowego",
+        "isTrue": false
+      },
+      {
+        "answer": "gałąź głęboka n. promieniowego",
+        "isTrue": true
+      },
+      {
+        "answer": "gałąź powierzchowna n. łokciowego",
+        "isTrue": false
+      },
+      {
+        "answer": "gałąź głęboka n. łokciowego",
+        "isTrue": false
+      },
+      {
+        "answer": "n. pośrodkowy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Do ograniczeń otworu trójbocznego NIE należy:",
+    "answers": [
+      {
+        "answer": "m. teres major",
+        "isTrue": false
+      },
+      {
+        "answer": "m. teres minor",
+        "isTrue": false
+      },
+      {
+        "answer": "caput longum m. tricipitis brachii/long head of triceps brachii",
+        "isTrue": false
+      },
+      {
+        "answer": "m. pectoralis major",
+        "isTrue": true
+      },
+      {
+        "answer": "brak poprawnej odpowiedzi",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Rutynowo bada się tętno:",
+    "answers": [
+      {
+        "answer": "t. pachowej",
+        "isTrue": false
+      },
+      {
+        "answer": "t. ramiennej",
+        "isTrue": false
+      },
+      {
+        "answer": "t. łokciowej",
+        "isTrue": false
+      },
+      {
+        "answer": "t. promieniowej",
+        "isTrue": true
+      },
+      {
+        "answer": "t. międzykostnej wspólnej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Na obszarze tabakierki anatomicznej można wyczuć tętno:",
+    "answers": [
+      {
+        "answer": "t. promieniowej",
+        "isTrue": true
+      },
+      {
+        "answer": "t. łokciowej",
+        "isTrue": false
+      },
+      {
+        "answer": "t. pachowej",
+        "isTrue": false
+      },
+      {
+        "answer": "t. ramiennej",
+        "isTrue": false
+      },
+      {
+        "answer": "T. grzbietowa śródręcza",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Podwójne unerwienie ma mięsień:",
+    "answers": [
+      {
+        "answer": "m. zginacz powierzchowny palców",
+        "isTrue": false
+      },
+      {
+        "answer": "m. nawrotny obły",
+        "isTrue": false
+      },
+      {
+        "answer": "m. zginacz łokciowy nadgarstka",
+        "isTrue": false
+      },
+      {
+        "answer": "m. zginacz głęboki palców",
+        "isTrue": true
+      },
+      {
+        "answer": "Zginacz powierzchowny palców",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Do czego przyczepiają się wszystkie mięśnie warstwy powierzchownej grupy przedniej przedramienia?",
+    "answers": [
+      {
+        "answer": "nadkłykcia bocznego k. ramiennej",
+        "isTrue": false
+      },
+      {
+        "answer": "nadkłykcia przyśrodkowego k. ramiennej",
+        "isTrue": true
+      },
+      {
+        "answer": "podstawy II k. śródręcza",
+        "isTrue": false
+      },
+      {
+        "answer": "wyrostka łokciowego k. łokciowej",
+        "isTrue": false
+      },
+      {
+        "answer": "powięzi przedramienia",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Tabakierka anatomiczna zawiera:",
+    "answers": [
+      {
+        "answer": "żyłę odłokciową",
+        "isTrue": false
+      },
+      {
+        "answer": "nerw pośrodkowy",
+        "isTrue": false
+      },
+      {
+        "answer": "gałąź głęboką n. łokciowego",
+        "isTrue": false
+      },
+      {
+        "answer": "gałąź powierzchowną n. łokciowego",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnicę promieniową",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Ograniczeniem tabakierki anatomicznej jest:",
+    "answers": [
+      {
+        "answer": "ścięgno m. odwodziciela długiego kciuka",
+        "isTrue": true
+      },
+      {
+        "answer": "ścięgno m. dłoniowego długiego",
+        "isTrue": false
+      },
+      {
+        "answer": "ścięgno m. ramienno-promieniowego",
+        "isTrue": false
+      },
+      {
+        "answer": "żyła odpromieniowa",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnica promieniowa",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Nieprawdą jest, że:",
+    "answers": [
+      {
+        "answer": "przednim ograniczeniem dołu pachowego jest m. latissimus dorsi",
+        "isTrue": true
+      },
+      {
+        "answer": "otwór czworoboczny zawiera nerw pachowy",
+        "isTrue": false
+      },
+      {
+        "answer": "dół pachowy zawiera nervus thoracicus longus/long thoracic nerve",
+        "isTrue": false
+      },
+      {
+        "answer": "otwór trójboczny ograniczony jest od dołu przez m. teres major",
+        "isTrue": false
+      },
+      {
+        "answer": "dół pachowy przedłuża się w bruzdę przyśrodkową mięśnia dwugłowego ramienia",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Rowka bocznego mięśnia dwugłowego ramienia NIE ogranicza:",
+    "answers": [
+      {
+        "answer": "m. ramienny",
+        "isTrue": false
+      },
+      {
+        "answer": "m. ramienno-promieniowy",
+        "isTrue": false
+      },
+      {
+        "answer": "m. naramienny",
+        "isTrue": false
+      },
+      {
+        "answer": "głowa krótka m. dwugłowego ramienia",
+        "isTrue": true
+      },
+      {
+        "answer": "głowa długa m. dwugłowego ramienia",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Tętnica międzykostna tylna biegnie z:",
+    "answers": [
+      {
+        "answer": "gałęzią głęboką n. promieniowego",
+        "isTrue": true
+      },
+      {
+        "answer": "n. międzykostnym tylnym",
+        "isTrue": false
+      },
+      {
+        "answer": "Gałęzią głęboką n. łokciowego",
+        "isTrue": false
+      },
+      {
+        "answer": "n. pośrodkowym",
+        "isTrue": false
+      },
+      {
+        "answer": "gałęzią dłoniową głęboką",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Które zdanie o żyle odpromieniowej jest fałszywe?",
+    "answers": [
+      {
+        "answer": "Powstaje z łuku żylnego grzbietowego ręki",
+        "isTrue": false
+      },
+      {
+        "answer": "Biegnie w rowku naramienno-piersiowym",
+        "isTrue": false
+      },
+      {
+        "answer": "na przedniej powierzchni przedramienia biegnie wzdłuż m. ramienno-promieniowego",
+        "isTrue": false
+      },
+      {
+        "answer": "nie przechodzi przez okolicę tabakierki anatomicznej",
+        "isTrue": true
+      },
+      {
+        "answer": "powstaje z żyły odpromieniowej kciuka",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Prawdą jest, że “ręka szponiasta” polega na:",
+    "answers": [
+      {
+        "answer": "nadmiernym prostowaniu w stawach śródręczno-paliczkowych przy zgięciu w stawach międzypaliczkowych",
+        "isTrue": true
+      },
+      {
+        "answer": "nadmiernym zgięciu w stawach śródręczno-paliczkowych przy zgięciu w stawach międzypaliczkowych",
+        "isTrue": false
+      },
+      {
+        "answer": "nadmiernym zgięciu w stawach śródręczno-paliczkowych przy wyprostowanych stawach międzypaliczkowych",
+        "isTrue": false
+      },
+      {
+        "answer": "żadna odpowiedź nie jest prawdziwa",
+        "isTrue": false
+      },
+      {
+        "answer": "Wszystkie odpowiedzi są prawdziwe",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Prawda o grupie bocznej mięśni przedramienia:",
+    "answers": [
+      {
+        "answer": "Jest unerwiona przez n. promieniowy z wyjątkiem m. odwracacza",
+        "isTrue": false
+      },
+      {
+        "answer": "jest unerwiona przez nerw pośrodkowy",
+        "isTrue": false
+      },
+      {
+        "answer": "jest unerwiona przez nerw promieniowy",
+        "isTrue": true
+      },
+      {
+        "answer": "jest unerwiona przez nerw pośrodkowy z wyjątkiem mięśnia odwracacza",
+        "isTrue": false
+      },
+      {
+        "answer": "Jest częściowo unerwiona przez n. łokciowy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Tętnica ramienna:",
+    "answers": [
+      {
+        "answer": "przedłuża się w t. promieniową",
+        "isTrue": false
+      },
+      {
+        "answer": "przedłuża się w t. łokciową",
+        "isTrue": false
+      },
+      {
+        "answer": "dzieli się na t. promieniową i t. łokciową",
+        "isTrue": true
+      },
+      {
+        "answer": "żadna odpowiedź nie jest prawdziwa",
+        "isTrue": false
+      },
+      {
+        "answer": "Przedłuża się w t. międzykostną wspólną",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "W dolnej cz. przedramienia nerw pośrodkowy:",
+    "answers": [
+      {
+        "answer": "biegnie między ścięgnem m. dłoniowego długiego a ścięgnem m. zginacza promieniowego nadgarstka",
+        "isTrue": true
+      },
+      {
+        "answer": "przechodzi ponad troczkiem zginaczy",
+        "isTrue": false
+      },
+      {
+        "answer": "biegnie między ścięgnem m. zginacza promieniowego nadgarstka a ścięgnem m. zginacza łokciowego nadgarstka",
+        "isTrue": false
+      },
+      {
+        "answer": "biegnie między ścięgnem m. dłoniowego długiego a ścięgnem mięśnia łokciowego nadgarstka",
+        "isTrue": false
+      },
+      {
+        "answer": "Przechodzi na nadgarstek po stronie promieniowej troczka zginaczy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Przyczep końcowy m. trójgłowego ramienia znajduje się:",
+    "answers": [
+      {
+        "answer": "na kości promieniowej",
+        "isTrue": false
+      },
+      {
+        "answer": "na powierzchni tylnej wyrostka łokciowego kości łokciowej",
+        "isTrue": true
+      },
+      {
+        "answer": "na wyrostku dziobiastym",
+        "isTrue": false
+      },
+      {
+        "answer": "na torebce stawowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Na powierzchni tylnej trzony kości łokciowej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Gałąź powierzchowna n. łokciowego unerwia:",
+    "answers": [
+      {
+        "answer": "m. dłoniowy długi",
+        "isTrue": false
+      },
+      {
+        "answer": "m. odwodziciel palca małego",
+        "isTrue": false
+      },
+      {
+        "answer": "m. dłoniowy krótki",
+        "isTrue": true
+      },
+      {
+        "answer": "m. zginacz krótki palca małego",
+        "isTrue": false
+      },
+      {
+        "answer": "m. przeciwstawiacz palca małego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "NIE JEST prawdą o nervus axillaris:",
+    "answers": [
+      {
+        "answer": "Zaopatruje okostną bliższej części kości ramiennej i staw ramienny",
+        "isTrue": false
+      },
+      {
+        "answer": "Jego gałęzią jest nerw skórny boczny ramienia",
+        "isTrue": false
+      },
+      {
+        "answer": "Przechodzi przed otwór czworoboczny bocznie od szyjki chirurgicznej",
+        "isTrue": true
+      },
+      {
+        "answer": "Zawiera włókna z gałęzi przednich nerwów rdzeniowych C5 i C6",
+        "isTrue": false
+      },
+      {
+        "answer": "Zaopatruje musculus deltoideus i teres minor",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Prawdą jest, że:",
+    "answers": [
+      {
+        "answer": "Żyła odłokciowa powstaje z połączenia łuku żylnego dłoniowego ręki z żyłą odłokciową palca małego",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyła pośrodkowa przedramienia zbiera krew z powierzchownej sieci żylnej dłoni",
+        "isTrue": true
+      },
+      {
+        "answer": "Dopływem żyły odłokciowej jest żyła piersiowo-barkowa",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyła odpromieniowa biegnie w bruździe przyśrodkowej mięśnia dwugłowego ramienia",
+        "isTrue": false
+      },
+      {
+        "answer": "Przeważnie żyle pośrodkowej przedramienia towarzyszy gałąź tylna nerwu skórnego przyśrodkowego przedramienia",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "NIE JEST prawdą, że:",
+    "answers": [
+      {
+        "answer": "Musculus biceps brachii zgina i odwraca przedramię w stawie łokciowym",
+        "isTrue": false
+      },
+      {
+        "answer": "Musculus coracobrachialis jest unerwiony przez nervus musculocutaneous",
+        "isTrue": false
+      },
+      {
+        "answer": "Musculus brachialis przyczepia się do guzowatości kości łokciowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Musculus brachialis zgina przedramię w stawie łokciowym",
+        "isTrue": false
+      },
+      {
+        "answer": "Caput longum m. biceps brachii przyczepia się do wyrostka kruczego łopatki",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Do jakiej struktury anatomicznej nie przyczepia się musculus pectoralis major?",
+    "answers": [
+      {
+        "answer": "Do przyśrodkowej części obojczyka",
+        "isTrue": false
+      },
+      {
+        "answer": "Do chrząstek żeber I-VI",
+        "isTrue": false
+      },
+      {
+        "answer": "Do guzka większego kości ramiennej",
+        "isTrue": true
+      },
+      {
+        "answer": "Do grzebienia guzka większego kości ramiennej",
+        "isTrue": false
+      },
+      {
+        "answer": "Do blaszki przedniej mięśnia prostego brzucha",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Wskaż zdanie prawdziwe",
+    "answers": [
+      {
+        "answer": "Część wstępująca tylko prawej t. podobojczykowej jest krzyżowana przez n. X",
+        "isTrue": false
+      },
+      {
+        "answer": "Bezpośrednim odgałęzieniem pnia tarczowo-szyjnego jest t. nadłopatkowa",
+        "isTrue": true
+      },
+      {
+        "answer": "Bezpośrednim odgałęzieniem pnia żebrowo-szyjnego jest t. poprzeczna szyi",
+        "isTrue": false
+      },
+      {
+        "answer": "T. podobojczykowa lewa przechodzi przez szczelinę przednią mm. pochyłych",
+        "isTrue": false
+      },
+      {
+        "answer": "T. szyjna głęboka odchodzi od pnia tarczowo-szyjnego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Jaką strukturę zawiera otwór czworoboczny",
+    "answers": [
+      {
+        "answer": "N. pachowy",
+        "isTrue": false
+      },
+      {
+        "answer": "T. okalająca łopatkę",
+        "isTrue": false
+      },
+      {
+        "answer": "T. okalająca ramię tylna",
+        "isTrue": false
+      },
+      {
+        "answer": "Odpowiedź a i c są prawdziwe",
+        "isTrue": true
+      },
+      {
+        "answer": "Odpowiedź a i b są prawdziwe",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Wskaż zdanie nieprawdziwe",
+    "answers": [
+      {
+        "answer": "N. pachowy unerwia m. naramienny i m. obły mniejszy",
+        "isTrue": false
+      },
+      {
+        "answer": "N. nadłopatkowy unerwia m. nad- i podgrzebieniowy",
+        "isTrue": false
+      },
+      {
+        "answer": "N. pośrodkowy unerwia m. zginacz promieniowy nadgarstka",
+        "isTrue": false
+      },
+      {
+        "answer": "N. podłopatkowy unerwia m. podłopatkowy i m. obły mniejszy",
+        "isTrue": true
+      },
+      {
+        "answer": "N. pośrodkowy unerwia m. przeciwstawiasz kciuka",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Jaki mięsień najsilniej odwraca przedramię w stawie łokciowym?",
+    "answers": [
+      {
+        "answer": "M. łokciowy",
+        "isTrue": false
+      },
+      {
+        "answer": "M. odwracacz",
+        "isTrue": false
+      },
+      {
+        "answer": "M. dwugłowy ramienia",
+        "isTrue": true
+      },
+      {
+        "answer": "M. ramienno-promieniowy",
+        "isTrue": false
+      },
+      {
+        "answer": "M. ramienny",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Do objawów uszkodzenia pęczka tylnego splotu ramiennego należy:",
+    "answers": [
+      {
+        "answer": "Ręka opadająca",
+        "isTrue": true
+      },
+      {
+        "answer": "Brak czucia w okolicy skóry kłębu",
+        "isTrue": false
+      },
+      {
+        "answer": "Ręka błogosławiąca",
+        "isTrue": false
+      },
+      {
+        "answer": "Brak czucia w dolnej części ramienia od przodu",
+        "isTrue": false
+      },
+      {
+        "answer": "Ręka szponiasta",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Który mięsień najsilniej prostuje w stawie promieniowo-nadgarstkowym?",
+    "answers": [
+      {
+        "answer": "m. extensor carpi ulnaris",
+        "isTrue": false
+      },
+      {
+        "answer": "m. extensor carpi radialis brevi",
+        "isTrue": false
+      },
+      {
+        "answer": "m. extensor indicis",
+        "isTrue": false
+      },
+      {
+        "answer": "m. extensor digitorum",
+        "isTrue": true
+      },
+      {
+        "answer": "m. extensor pollicis longus",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Zakres ruchu w stawie ramiennym wynosi:",
+    "answers": [
+      {
+        "answer": "obrót na zewnątrz i do wewnątrz: 70'-0'-80'",
+        "isTrue": false
+      },
+      {
+        "answer": "odwodzenie-przywodzenie: 20'-0-90'",
+        "isTrue": false
+      },
+      {
+        "answer": "obrót na zewnątrz i do wewnątrz: 40'-0'-40'",
+        "isTrue": false
+      },
+      {
+        "answer": "zginanie-prostowanie: 30'-0-90'",
+        "isTrue": false
+      },
+      {
+        "answer": "odwodzenie-przywodzenie: 90'-0'-20'",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Wskaż zdanie nieprawdziwe:",
+    "answers": [
+      {
+        "answer": "węzły chłonne pachowe środkowe zbierają chłonkę z naczyń chłonnych towarzyszących żyle odpromieniowej",
+        "isTrue": true
+      },
+      {
+        "answer": "węzły chłonne pachowe środkowe leżą wzdłuż żyły pachowej",
+        "isTrue": false
+      },
+      {
+        "answer": "węzły chłonne pachowe boczne zbierają chłonkę z wolnej części kończyny górnej od strony łokciowej.",
+        "isTrue": false
+      },
+      {
+        "answer": "węzły chłonne pachowe piersiowe leżą na mięśniu zębatym przednim",
+        "isTrue": false
+      },
+      {
+        "answer": "węzły chłonne pachowe piersiowe zbierają chłonkę z bocznej powierzchni sutka",
+        "isTrue": false
+      }
+    ]
+  }
+]

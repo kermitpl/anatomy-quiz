@@ -1,1 +1,1952 @@
-[{"id":0,"question":"Moczowód:","answers":[{"answer":"Jego cz. miedniczna znajduje się w jamie miednicy większej","isTrue":false},{"answer":"Odcinek brzuszny moczowodu leży wewnątrzotrzewnowo","isTrue":false},{"answer":"Biegnie bocznie od n. i naczyń zasłonowych","isTrue":false},{"answer":"Na swoim przebiegu wytwarza zgięcie nerkowe, brzeżne i miedniczne","isTrue":false},{"answer":"Biegnie na m. quadratus lumborum","isTrue":false}]},{"id":1,"question":"Prawdą o unerwieniu jamy brzusznej jest, że:","answers":[{"answer":"Splot unerwiający narządy ukrwione przez t. krezkową dolną zawiera włókna współczulne i przywspółczulne przedzwojowe","isTrue":false},{"answer":"Nerwy podbrzuszne powstają z podziału splotu krezkowego dolnego","isTrue":false},{"answer":"Splot podbrzuszny górny to inaczej splot miedniczny","isTrue":false},{"answer":"Splot trzewny zawiera włókna parasympatyczne przedzwojowe od splotu miednicznego","isTrue":false},{"answer":"Wszystkie pochodne splotu trzewnego są splotami nieparzystymi","isTrue":false}]},{"id":2,"question":"Pochewka m. prostego brzucha:","answers":[{"answer":"Powyżej pępka jej ścianę przednią tworzy blaszka przednia rozcięgna m. skośnego wewnętrznego brzucha, a ścianę tylną blaszka tylna","isTrue":false},{"answer":"Poniżej pępka ścianę tylną tworzy tylna blaszka rozcięgna m. skośnego wewnętrznego brzucha","isTrue":false},{"answer":"Zawiera tylko m. prosty brzucha","isTrue":false},{"answer":"Zawiera kresę białą, która przyczepia się do rękojeści mostka i spojenia łonowego","isTrue":false},{"answer":"Powięź poprzeczna tworzy jej przednią ścianę","isTrue":false}]},{"id":3,"question":"Prawdą jest że:","answers":[{"answer":"Wszystkie części dwunastnicy sąsiadują z trzonem trzustki","isTrue":false},{"answer":"Pęcherzyk żółciowy nie sąsiaduje z dwunastnicą (s. 91)","isTrue":false},{"answer":"W więzadle wątrobowo-dwunastniczym przewód pęcherzyka żółciowego łączy się z przewodem wątrobowym wspólnym tworząc przewód żółciowy wspólny (s. 93)","isTrue":false},{"answer":"Guz sieciowy występuje tylko w wątrobie (s. 97)","isTrue":false},{"answer":"Przewód wątrobowy wspólny powoduje powstanie fałdu podłużnego dwunastnicy","isTrue":false}]},{"id":4,"question":"W trzustce:","answers":[{"answer":"Przewód trzustkowy biegnie razem z przewodem trzustkowym dodatkowym w ogonie trzustki","isTrue":false},{"answer":"Więzadło przeponowo-śledzionowe zawiera ogon trzustki","isTrue":false},{"answer":"Unaczynienie tętnicze całego tego narządu pochodzi od pnia trzewnego","isTrue":false},{"answer":"Przez wcięcie trzustki przechodzi żyła wrotna","isTrue":false},{"answer":"Głowa trzustki nie sąsiaduje z opuszką dwunastnicy","isTrue":false}]},{"id":5,"question":"Nieprawdą jest, że:","answers":[{"answer":"Pień trzewny tak jak splot trzewny znajdują się na wysokości Th12-L1","isTrue":false},{"answer":"T. żołądkowa lewa unaczynia krzywiznę większą żołądka","isTrue":false},{"answer":"T. żołądkowa lewa biegnie w w. wątrobowo-żołądkowym","isTrue":false},{"answer":"T. wątrobowa dzieli się na wysokości odźwiernika na t. wątrobową właściwą i t. żołądkowo-dwunastniczą","isTrue":false},{"answer":"T. żołądkowo-dwunastnicza krzyżuje przewód żółciowy wspólny i żyłę wrotną","isTrue":false}]},{"id":6,"question":"Na wysokości krążka międzykręgowego L3/L4 zazwyczaj znajduje się:","answers":[{"answer":"cz. Pozioma dwunastnicy","isTrue":false},{"answer":"pępek","isTrue":false},{"answer":"trzustka","isTrue":false},{"answer":"odejście t. krezkowej górnej od aorty","isTrue":false},{"answer":"lewa nerka","isTrue":false}]},{"id":7,"question":"Poprawny odpływ chłonki ze ścian brzucha poniżej pępka przedstawia podpunkt:","answers":[{"answer":"pachwinowe głębokie -> biodrowe wewnętrzne -> biodrowe wspólne -> zbiornik mleczu","isTrue":false},{"answer":"pachwinowe powierzchowne -> pachwinowe głębokie -> biodrowe wewnętrzne -> biodrowe wspólne -> lędźwiowe -> zbiornik mleczu","isTrue":false},{"answer":"biodrowe zewnętrzne -> biodrowe wspólne -> pachwinowe powierzchowne -> pachwinowe głębokie -> lędźwiowe -> zbiornik mleczu","isTrue":false},{"answer":"zbiornik mleczu -> lędźwiowe zewnętrzne -> pachwinowe -> biodrowe wspólne","isTrue":false},{"answer":"pachwinowe powierzchowne -> pachwinowe głębokie -> biodrowe zewnętrzne -> biodrowe wspólne -> lędźwiowe -> zbiornik mleczu","isTrue":false}]},{"id":8,"question":"Żyła główna dolna jest od przodu krzyżowana przez:","answers":[{"answer":"t. biodrową wspólną lewą","isTrue":false},{"answer":"t. jądrową lub jajnikową prawą","isTrue":false},{"answer":"ogon trzustki","isTrue":false},{"answer":"krezkę poprzecznicy","isTrue":false},{"answer":"żyły lędźwiowe","isTrue":false}]},{"id":9,"question":"Śledziona nie sąsiaduje z:","answers":[{"answer":"żołądkiem","isTrue":false},{"answer":"lewą nerką","isTrue":false},{"answer":"głową trzustki","isTrue":false},{"answer":"przeponą","isTrue":false},{"answer":"zgięciem śledzionowym okrężnicy","isTrue":false}]},{"id":10,"question":"Trzustka sąsiaduje z:","answers":[{"answer":"z ż. wrotną","isTrue":false},{"answer":"z naczyniami krezkowymi dolnymi","isTrue":false},{"answer":"Z ż. nerkową prawą","isTrue":false},{"answer":"z prawą nerką","isTrue":false},{"answer":"z okrężnicą poprzeczną","isTrue":false}]},{"id":11,"question":"Śledziona nie jest umocowana przez:","answers":[{"answer":"szypułę śledziony","isTrue":false},{"answer":"więzadło przeponowo-śledzionowe","isTrue":false},{"answer":"więzadło żołądkowo-śledzionowe","isTrue":false},{"answer":"więzadło przeponowo-okrężnicze","isTrue":false},{"answer":"więzadło okrężniczo-śledzionowe","isTrue":false}]},{"id":12,"question":"Niepoprawnym stwierdzeniem o ścianie brzucha jest:","answers":[{"answer":"Więzadło pachwinowe to twór wytworzony przez dolny brzeg rozcięgna mięśnia skośnego brzucha zewnętrznego","isTrue":false},{"answer":"Między warstwami mięśnia lędźwiowego większego leży część splotu lędźwiowego.","isTrue":false},{"answer":"Powięź nasienna wewnętrzna to odpowiednik powięzi podskórnej","isTrue":false},{"answer":"Włókna mięśnia poprzecznego brzucha przechodzą w rozcięgno wzdłuż linii półksiężycowatej","isTrue":false},{"answer":"Miejsca zmniejszonej oporności (locus minoris resistentiae) występują powyżej pępka","isTrue":false}]},{"id":13,"question":"przepuklinach nieprawdą jest że:","answers":[{"answer":"Przepuklina pachwinowa prosta przechodzi przez pierścień pachwinowy głęboki","isTrue":false},{"answer":"Przewlekły kaszel może sprzyjać powstawaniu przepuklin","isTrue":false},{"answer":"Jako zawartość przepukliny pępkowej najczęściej znajduje się sieć większą","isTrue":false},{"answer":"Wrota przepukliny udowej (pierścień udowy głęboki) leżą w przyśrodkowej części rozstępu naczyń","isTrue":false},{"answer":"Przepukliny kresy białej występują częściej powyżej niż poniżej pępka","isTrue":false}]},{"id":14,"question":"Przestrzeń przedotrzewnowa:","answers":[{"answer":"Nie komunikuje się z przestrzenią podotrzewnową","isTrue":false},{"answer":"Od tyłu jest ograniczona przez powięź poprzeczną","isTrue":false},{"answer":"Znajdujące się w niej naczynia wywołują fałdy pępkowe boczne","isTrue":false},{"answer":"Ku górze sięga aż do wyrostka mieczykowatego (Th11)","isTrue":false},{"answer":"Znajduje się w niej dół nadpęcherzowy (fossa supravesicalis)","isTrue":false}]},{"id":15,"question":"Żołądek nie sąsiaduje z:","answers":[{"answer":"Przeponą","isTrue":false},{"answer":"Wątrobą","isTrue":false},{"answer":"Okrężnicą poprzeczną","isTrue":false},{"answer":"Lewym nadnerczem","isTrue":false},{"answer":"Okrężnicą zstępującą","isTrue":false}]},{"id":16,"question":"Lokalne węzły chłonne żołądka:","answers":[{"answer":"Są nimi między innymi węzły chłonne trzustkowe górne","isTrue":false},{"answer":"Węzły chłonne żołądkowe górne są położone między blaszkami więzadła wątrobowo-żołądkowego","isTrue":false},{"answer":"Węzły chłonne odźwiernikowe leżą do przodu od odźwiernika","isTrue":false},{"answer":"Węzły chłonne żołądkowe dolne leżą w obrębie fartuszka","isTrue":false},{"answer":"Z wszystkich węzłów chłonnych lokalnych żołądka chłonka płynie bezpośrednio do przewodu piersiowego","isTrue":false}]},{"id":17,"question":"W topografii wątroby:","answers":[{"answer":"Leży wyłącznie w prawym podżebrzu i nadbrzuszu właściwym","isTrue":false},{"answer":"Prawy płat wątroby sąsiaduje z żołądkiem","isTrue":false},{"answer":"Płat czworoboczny nie powinien sąsiadować z żołądkiem","isTrue":false},{"answer":"Niepowiększona wątroba nie powinna wystawać spod prawego łuku żebrowego","isTrue":false},{"answer":"Leży wewnątrzotrzewnowo i w całości jest pokryta otrzewną","isTrue":false}]},{"id":18,"question":"Nieprawdą o wątrobie jest że:","answers":[{"answer":"Pole nagie (area nuda hepatis) to miejsce zrostu wątroby z przeponą","isTrue":false},{"answer":"Chłonka z wątroby uchodzi częściowo do węzłów chłonnych znajdujących się w klatce piersiowej","isTrue":false},{"answer":"Umocowanie żyły głównej dolnej w jej rowku to jeden z elementów umocowania wątroby","isTrue":false},{"answer":"Tętnica pęcherzyka żółciowego to gałąź tętnicy wątrobowej wspólnej","isTrue":false},{"answer":"W przypadku marskości wątroby zwiększone jest ryzyko żylaków przełyku","isTrue":false}]},{"id":19,"question":"Wątroba - wskaż zdanie nieprawdziwe:","answers":[{"answer":"Oba więzadła trójkątne dochodzą do przepony","isTrue":false},{"answer":"Wątroba ma budowę zrazikową","isTrue":false},{"answer":"W rowku strzałkowym lewym znajdziemy żyłę główną dolną","isTrue":false},{"answer":"Na płacie ogoniastym znajduje się wyrostek brodawkowaty","isTrue":false},{"answer":"Sąsiaduje z prawą nerką i nadnerczem","isTrue":false}]},{"id":20,"question":"Nadnercza - wskaż zdanie fałszywe:","answers":[{"answer":"Krew żylna odpływa z nich obustronnie przez trzy żyły","isTrue":false},{"answer":"Są unaczynione przez gałęzie trzech tętnic","isTrue":false},{"answer":"Chłonka z nich uchodzi do węzłów chłonnych lędźwiowych","isTrue":false},{"answer":"Obustronnie sąsiadują z przeponą","isTrue":false},{"answer":"Mają dwojakie pochodzenie – mezodermalne i ektodermalne (z komórek grzebieni nerwowych)","isTrue":false}]},{"id":21,"question":"Wśród splotów nerwowych jamy brzusznej nieprawdą jest że:","answers":[{"answer":"Splot lędźwiowy powstaje przez wymieszanie gałęzi przednich nn. rdzeniowych L1-L3","isTrue":false},{"answer":"Splot trzewny to największy splot uzwojony układu sympatycznego","isTrue":false},{"answer":"Nerw skórny uda boczny pochodzi ze splotu krzyżowego","isTrue":false},{"answer":"Do splotu trzewnego włókna sympatyczne przedzwojowe dochodzą m.in. w nerwie trzewnym większym","isTrue":false},{"answer":"Splot krezkowy dolny oplata tętnicę odchodzącą od aorty brzusznej na poziomie L3","isTrue":false}]},{"id":22,"question":"Torba sieciowa:","answers":[{"answer":"Jama właściwa znajduje się do tyłu od wątroby","isTrue":false},{"answer":"Wejście do niej jest od tyłu ograniczone przez więzadło wątrobowo-nerkowe","isTrue":false},{"answer":"Ma jeden stały zachyłek – zachyłek górny, czyli śledzionowy","isTrue":false},{"answer":"W obrębie fałdu żołądkowo-trzustkowego biegnie m.in. tętnica wątrobowa wspólna","isTrue":false},{"answer":"Niestały zachyłek dolny znajduje się między blaszkami sieci mniejszej","isTrue":false}]},{"id":23,"question":"Wśród rzutów narządów jamy brzusznej na ścianę brzucha:","answers":[{"answer":"Trzon trzustki jest rzutowany na L3","isTrue":false},{"answer":"Prawa nerka jest rzutowana na Th12-L3","isTrue":false},{"answer":"Prawe nadnercze jest rzutowane na Th10","isTrue":false},{"answer":"Część pozioma dwunastnicy jest rzutowana na L1","isTrue":false},{"answer":"Odźwiernik żołądka jest rzutowany na L3-L4","isTrue":false}]},{"id":24,"question":"Nieprawdą jest że pochewka mięśnia prostego brzucha zawiera:","answers":[{"answer":"Mięsień piramidowy","isTrue":false},{"answer":"Mięsień prosty brzucha","isTrue":false},{"answer":"Gałąź nerwu biodrowo-podbrzusznego","isTrue":false},{"answer":"Naczynia nabrzuszne powierzchowne","isTrue":false},{"answer":"Naczynia nabrzuszne dolne","isTrue":false}]},{"id":25,"question":"Wskaż zdanie nieprawdziwe:","answers":[{"answer":"Do elementów mocujących śledzionę zaliczamy więzadło przeponowo-okrężnicze","isTrue":false},{"answer":"Prawy płat wątroby sąsiaduje z żyłą główną dolną","isTrue":false},{"answer":"Chłonka z wyrostka robaczkowego odpływa do węzłów chłonnych kretniczo-okrężniczych i dalej do węzłów chłonnych trzewnych","isTrue":false},{"answer":"Część pozioma dwunastnicy krzyżuje trzon L2","isTrue":false},{"answer":"Naczynia nabrzuszne dolne wywołują fałdy pępkowe boczne","isTrue":false}]},{"id":26,"question":"Przestrzeń przedotrzewnowa:","answers":[{"answer":"Jest ograniczona od przodu przez rozcięgno mięśnia prostego brzucha","isTrue":false},{"answer":"Zawiera naczynia nabrzuszne powierzchowne","isTrue":false},{"answer":"Bocznie sięga do więzadeł pępkowych bocznych","isTrue":false},{"answer":"Zawiera strukturę która jest pozostałością po moczowniku","isTrue":false},{"answer":"Ku tyłowi przechodzi w przestrzeń zaotrzewnową","isTrue":false}]},{"id":27,"question":"Wskaż nieprawdziwe zdanie dotyczące układu chłonnego brzucha:","answers":[{"answer":"Chłonka z okolic grzbietu położonych poniżej pępka dociera do węzłów chłonnych przyłopatkowych","isTrue":false},{"answer":"Chłonka z rogów macicy dociera do węzłów chłonnych pachwinowych powierzchownych","isTrue":false},{"answer":"Węzły chłonne regionalne jamy brzusznej odprowadzają chłonkę do węzłów chłonnych trzewnych","isTrue":false},{"answer":"Węzły chłonne krzyżowe są położone na przedniej powierzchni kości krzyżowej","isTrue":false},{"answer":"Do węzłów chłonnych lokalnych żołądka należą węzły chłonne trzustkowo- śledzionowe","isTrue":false}]},{"id":28,"question":"W skład powrózka nasiennego nie wchodzi:","answers":[{"answer":"Tętnica mięśnia dźwigacza jądra","isTrue":false},{"answer":"Przyjądrze","isTrue":false},{"answer":"Gałąź płciowa nerwu płciowo-udowego","isTrue":false},{"answer":"Nerw biodrowo-podbrzuszny","isTrue":false},{"answer":"Splot żylny wiciowaty","isTrue":false}]},{"id":29,"question":"Głowa trzustki sąsiaduje z:","answers":[{"answer":"Aortą brzuszną","isTrue":false},{"answer":"Żyłą główną dolną","isTrue":false},{"answer":"Lewą nerką","isTrue":false},{"answer":"Żyłą nerkową lewą","isTrue":false},{"answer":"Tętnicą nerkową prawą","isTrue":false}]},{"id":30,"question":"W jakim kierunku biegną włókna mięśnia skośnego brzucha zewnętrznego:","answers":[{"answer":"Do dołu i przyśrodkowo","isTrue":false},{"answer":"Do góry i przyśrodkowo","isTrue":false},{"answer":"Do dołu i bocznie","isTrue":false},{"answer":"Do góry i bocznie","isTrue":false},{"answer":"Poziomo","isTrue":false}]},{"id":31,"question":"Która z poniższych struktur nie jest unerwiona przez splot krezkowy górny?","answers":[{"answer":"Wyrostek robaczkowy","isTrue":false},{"answer":"Kątnica","isTrue":false},{"answer":"Okrężnica wstępująca","isTrue":false},{"answer":"2/3 prawe okrężnicy poprzecznej","isTrue":false},{"answer":"1/3 lewa okrężnicy poprzecznej","isTrue":false}]},{"id":32,"question":"Gdzie rzutujemy dno pęcherzyka żółciowego?","answers":[{"answer":"Punkt Lanza","isTrue":false},{"answer":"W trójkącie Labbego","isTrue":false},{"answer":"Między VI, a VII żebrem po stronie prawej","isTrue":false},{"answer":"Punkt McBurneya","isTrue":false},{"answer":"Skrzyżowanie prawego łuku żebrowego z brzegiem bocznym mięśnia prostego brzucha","isTrue":false}]},{"id":33,"question":"Część splotu lędźwiowego znajduje się pomiędzy warstwami którego z wymienionych mięśni?:","answers":[{"answer":"m. lędźwiowy mniejszy (m. psoas minor)","isTrue":false},{"answer":"m. lędźwiowy większy (m. psoas major)","isTrue":false},{"answer":"m. czworoboczny lędźwi (m. quadratus lumborum)","isTrue":false},{"answer":"m. poprzeczny brzucha (m. transversus abdominis)","isTrue":false},{"answer":"brak poprawnej odpowiedzi","isTrue":false}]},{"id":34,"question":"Granicą pomiędzy piętrem gruczołowym a piętrem jelitowym w jamie brzusznej jest:","answers":[{"answer":"dolna połowa dwunastnicy","isTrue":false},{"answer":"okrężnica poprzeczna","isTrue":false},{"answer":"trzustka","isTrue":false},{"answer":"dolne części nerek","isTrue":false},{"answer":"opuszka dwunastnicy","isTrue":false}]},{"id":35,"question":"We wrotach wątroby nie znajdziemy:","answers":[{"answer":"przewodu wątrobowego wspólnego","isTrue":false},{"answer":"tętnicy wątrobowej właściwej","isTrue":false},{"answer":"żyły głównej dolnej","isTrue":false},{"answer":"włókien nerwowych splotu autonomicznego wątrobowego","isTrue":false},{"answer":"włókien autonomicznego splotu wątrobowego","isTrue":false}]},{"id":36,"question":"Powierzchnia tylna głowy trzustki sąsiaduje od tyłu z:","answers":[{"answer":"aortą brzuszną","isTrue":false},{"answer":"żołądkiem","isTrue":false},{"answer":"przewodem żółciowym wspólnym","isTrue":false},{"answer":"lewą nerką","isTrue":false},{"answer":"prawą nerką","isTrue":false}]},{"id":37,"question":"Tętnica śledzionowa (arteria lienalis/splenic artery) oddaje:","answers":[{"answer":"gałąź unaczyniającą poprzecznicę","isTrue":false},{"answer":"b) gałęzie unaczyniające sieć mniejszą","isTrue":false},{"answer":"gałęzie trzustkowe","isTrue":false},{"answer":"tętnice żołądkowo-sieciową prawą","isTrue":false},{"answer":"Tętnice trzustkowo-dwunastnicze","isTrue":false}]},{"id":38,"question":"Tętnica wyrostka robaczkowego (arteria appendicularis/ appendicular artery) jest odgałęzieniem:","answers":[{"answer":"tętnicy odbytniczej górnej (arteria rectalis superior/superior rectal artery)","isTrue":false},{"answer":"tętnicy okrężniczej prawej (arteria colica dextra/ right colic artery)","isTrue":false},{"answer":"tętnicy krętniczo-okrężniczej (arteria ileocolica/ileocolic artery)","isTrue":false},{"answer":"tętnic jelita czczego (arteriae jejunales/ jejunal arteries)","isTrue":false},{"answer":"tętnicy żołądkowo-sieciowej prawej (arteria gastroepiploica dextra/right gastroepiploic artery)","isTrue":false}]},{"id":39,"question":"Wyrostek robaczkowy sąsiaduje u kobiet z:","answers":[{"answer":"pęcherzem moczowym","isTrue":false},{"answer":"lewymi przydatkami","isTrue":false},{"answer":"więzadłem obłym macicy","isTrue":false},{"answer":"lewym moczowodem","isTrue":false},{"answer":"lewymi naczyniami biodrowymi wspólnymi","isTrue":false}]},{"id":40,"question":"Położenie struktur w korzeniu nerki poprawnie opisuje zdanie:","answers":[{"answer":"moczowód leży powyżej naczyń nerkowych","isTrue":false},{"answer":"tętnica nerkowa znajduje się powyżej żyły nerkowej","isTrue":false},{"answer":"żyła nerkowa znajduje się u góry i do tyłu względem tętnicy","isTrue":false},{"answer":"żyła nerkowa znajduje się do przodu i poniżej tętnicy","isTrue":false},{"answer":"tętnica nerkowa leży powyżej moczowodu","isTrue":false}]},{"id":41,"question":"W skład zatoki nerkowej nie wchodzi:","answers":[{"answer":"miedniczka nerkowa","isTrue":false},{"answer":"tkanka tłuszczowa","isTrue":false},{"answer":"piramidy nerkowe","isTrue":false},{"answer":"tętnice międzypłatowe","isTrue":false},{"answer":"kielichy mniejsze","isTrue":false}]},{"id":42,"question":"Mięsień skośny brzucha zewnętrzy unerwiony jest przez:","answers":[{"answer":"n. biodrowo-podbrzuszny","isTrue":false},{"answer":"n. Międzyżebrowy IV","isTrue":false},{"answer":"N. Podżebrowy","isTrue":false},{"answer":"n. Międzyżebrowy III","isTrue":false},{"answer":"Gałązki krótkie splotu lędźwiowego","isTrue":false}]},{"id":43,"question":"Ścianę przednią pochewki mięśnia prostego brzucha powyżej pępka tworzy:","answers":[{"answer":"Powięź poprzeczna","isTrue":false},{"answer":"Rozcięgno mięśnia skośnego zewnętrznego brzucha","isTrue":false},{"answer":"Tylna blaszka rozcięgna mięśnia skośnego wewnętrznego brzucha","isTrue":false},{"answer":"Rozcięgno mięśnia skośnego wewnętrznego brzucha","isTrue":false},{"answer":"Część dolna rozcięgna mięśnia poprzecznego brzucha","isTrue":false}]},{"id":44,"question":"W powrózku nasiennym powięź mięśnia dźwigacza jądra jest odpowiednikiem:","answers":[{"answer":"Powięzi podskórnej","isTrue":false},{"answer":"Mięśnia skośnego wewnetrznego","isTrue":false},{"answer":"Mięśnia poprzecznego brzucha","isTrue":false},{"answer":"Powięzi powierzchownej brzucha","isTrue":false},{"answer":"powięzi poprzecznej","isTrue":false}]},{"id":45,"question":"Więzadło wątrobowo-żołądkowe zawiera:","answers":[{"answer":"Tętnicę wątrobową właściwą","isTrue":false},{"answer":"przewód żółciowy wspólny","isTrue":false},{"answer":"Żyłę wrotną","isTrue":false},{"answer":"Gałęzie przełykowe naczyń żołądkowych lewych","isTrue":false},{"answer":"Tętnicę żołądkową lewą","isTrue":false}]},{"id":46,"question":"Przestrzeń przedotrzewnowa jest ograniczona od tyłu przez:","answers":[{"answer":"Pępek","isTrue":false},{"answer":"Przestrzeń podotrzewnowa","isTrue":false},{"answer":"Otrzewną ścienną","isTrue":false},{"answer":"Naczynia nabrzuszne dolne","isTrue":false},{"answer":"Wewnętrzną powierzchnię przedniej ściany jamy brzusznej","isTrue":false}]},{"id":47,"question":"Przednia ściana żołądka sąsiaduje z :","answers":[{"answer":"przeponą","isTrue":false},{"answer":"Okrężnicą poprzeczną","isTrue":false},{"answer":"Śledzioną","isTrue":false},{"answer":"trzonem i ogonem trzustki","isTrue":false},{"answer":"lewą nerką","isTrue":false}]},{"id":48,"question":"Prawa nerka sąsiaduje z:","answers":[{"answer":"Trzonem trzustki","isTrue":false},{"answer":"Śledzioną","isTrue":false},{"answer":"Żołądkiem","isTrue":false},{"answer":"Zgięciem śledzionowym okrężnicy","isTrue":false},{"answer":"Zgięciem wątrobowym okrężnicy","isTrue":false}]},{"id":49,"question":"Ściennym dopływem żyły głównej dolnej są:","answers":[{"answer":"żż. Nerkowe","isTrue":false},{"answer":"Żż. jądrowe","isTrue":false},{"answer":"Żż. wątrobowe","isTrue":false},{"answer":"ż. nadnerczowa prawa","isTrue":false},{"answer":"Żż. przeponowe dolne","isTrue":false}]},{"id":50,"question":"Pęcherzyk żółciowy jest unerwiany przez:","answers":[{"answer":"Włókna autonomiczne ze splotu wątrobowego","isTrue":false},{"answer":"Włókna parasympatyczne przedzwojowe od pni błędnych","isTrue":false},{"answer":"Włókna sympatyczne pozazwojowe od splotu trzewnego","isTrue":false},{"answer":"Wszystkie z powyższych","isTrue":false},{"answer":"Żadne z powyższych","isTrue":false}]},{"id":51,"question":"Opuszka dwunastnicy sąsiaduje od przodu z:","answers":[{"answer":"Moczowodem prawym","isTrue":false},{"answer":"Naczyniami krezkowymi górnymi","isTrue":false},{"answer":"Aortą brzuszną","isTrue":false},{"answer":"Płatem czworobocznym wątroby","isTrue":false},{"answer":"Lewym mięśniem lędźwiowym większym","isTrue":false}]},{"id":52,"question":"Mięsień czworoboczny lędźwi","answers":[{"answer":"Kurcząc się jednostronnie zgina tułów do przodu","isTrue":false},{"answer":"Kurcząc się jednostronnie zgina tułów do tyłu","isTrue":false},{"answer":"Skurcz obustronny podnosi dwunaste żebro","isTrue":false},{"answer":"Ustala część piersiową kręgosłupa","isTrue":false},{"answer":"Skurcz obustronny obniża XII żebro","isTrue":false}]},{"id":53,"question":"Kanał pachwinowy:","answers":[{"answer":"występuje jedynie u mężczyzn","isTrue":false},{"answer":"górną ścianę stanowi brzeg dolny m. skośnego brzucha zewnętrznego","isTrue":false},{"answer":"przednią ścianę stanowi rozcięgno m. skośnego brzucha wewnętrznego","isTrue":false},{"answer":"wlot do kanału stanowi pierścień pachwinowy głęboki, a wylot pierścień pachwinowy powierzchowny","isTrue":false},{"answer":"wlot do kanału leży w dołku pachwinowym przyśrodkowym","isTrue":false}]},{"id":54,"question":"Nieprawdą jest, że:","answers":[{"answer":"przepukliny to przemieszczenie otrzewnej ściennej wraz z częścią narządów jamy brzusznej poza jamę brzuszną","isTrue":false},{"answer":"przepukliny dzielimy na wrodzone, nabyte i pourazowe","isTrue":false},{"answer":"worek przepuklinowy nie zawsze jest elementem przepukliny","isTrue":false},{"answer":"przepuklina wewnętrzna to przesunięcie zawartości jamy brzusznej do sąsiedniej jamy ciała","isTrue":false},{"answer":"wrota przepukliny udowej leżą w przyśrodkowej części rozstępu naczyń","isTrue":false}]},{"id":55,"question":"Prawdą jest, że:","answers":[{"answer":"do przodu od wrót wątroby jest płat ogoniasty","isTrue":false},{"answer":"na płacie prawym widoczny jest wycisk dwunastnicy i żołądka","isTrue":false},{"answer":"część tylna rowka strzałkowego prawego zawiera żyłę główną dolną","isTrue":false},{"answer":"część przednia rowka strzałkowego lewego zawiera więzadło żylne Arancjusza","isTrue":false},{"answer":"po prawej stronie od przewodu wątrobowego wspólnego jest t. wątrobowa właściwa","isTrue":false}]},{"id":56,"question":"Nieprawdą o krążeniu obocznym jest to, że:","answers":[{"answer":"ujawnia się w przypadku utrudnionego przepływu krwi przez miąższ wątroby","isTrue":false},{"answer":"dochodzi do udrożnienia żył przypępkowych, poszerzenia żył okołopępkowych i w konsekwencji powstania głowy Meduzy","isTrue":false},{"answer":"krew cofająca się z żyły wrotnej może odpływać żyłą żołądkową lewą, a następnie żyłami przełykowymi do splotów żylnych przełykowych","isTrue":false},{"answer":"z żył okołopępkowych krew odpływa przez żyły piersiowo-nabrzuszne","isTrue":false},{"answer":"krew z żył odbytniczych dolnych odpływa do żył sromowych wewnętrznych, a następnie do żył biodrowych zewnętrznych","isTrue":false}]},{"id":57,"question":"Splotem parzystym pochodnym od splotu trzewnego jest:","answers":[{"answer":"splot przeponowy","isTrue":false},{"answer":"splot wątrobowy","isTrue":false},{"answer":"splot żołądkowy górny","isTrue":false},{"answer":"splot krezkowy górny","isTrue":false},{"answer":"splot śledzionowy","isTrue":false}]},{"id":58,"question":"Nieprawdą o unaczynieniu trzustki jest to, że:","answers":[{"answer":"trzon i ogon unaczynione są przez gałęzie trzustkowe od t. śledzionowej","isTrue":false},{"answer":"gałęzie przednie i tylne tętnic trzustkowo-dwunastniczych górnych i dolnych zespalają się, tworząc łuki trzustkowo-dwunastnicze przednie i tylne","isTrue":false},{"answer":"dolna część głowy trzustki jest unaczyniona przez t. trzustkowo-dwunastniczą dolną od t. żołądkowo-dwunastniczej","isTrue":false},{"answer":"gałęzie trzustkowe t. wątrobowej wspólnej unaczyniają górną część głowy","isTrue":false},{"answer":"t. trzustkowo-dwunastnicza górna unaczynia górną część głowy","isTrue":false}]},{"id":59,"question":"Nieprawdą jest, że:","answers":[{"answer":"krezeczka wyrostka robaczkowego zawiera t. wyrostka robaczkowego od t. krętniczo-okrężniczej","isTrue":false},{"answer":"kątnica ruchoma to wariant kątnicy rozwijającej się wewnątrzotrzewnowo z krezką","isTrue":false},{"answer":"zgięcie wątrobowe okrężnicy możemy rzutować na VIII żebro w linii pachowej środkowej prawej","isTrue":false},{"answer":"kątnicę z wyrostkiem robaczkowym można zbadać per rectum","isTrue":false},{"answer":"wyrostek robaczkowy odchodzi od tylno-przyśrodkowej ściany kątnicy","isTrue":false}]},{"id":60,"question":"Dopływem/dopływami żyły głównej dolnej nie jest/nie są:","answers":[{"answer":"żyła nadnerczowa prawa","isTrue":false},{"answer":"żyły lędźwiowe","isTrue":false},{"answer":"żyły przeponowe dolne","isTrue":false},{"answer":"żyła jądrowa lewa","isTrue":false},{"answer":"żyła nerkowa lewa","isTrue":false}]},{"id":61,"question":"Nieprawdą jest, że plexus hypogastricus superior:","answers":[{"answer":"jest przedłużeniem splotu międzykrezkowego","isTrue":false},{"answer":"dochodzą do niego włókna przywspółczulne od nerwów trzewnych miednicznych","isTrue":false},{"answer":"leży do przodu od dolnego odcinka aorty brzusznej","isTrue":false},{"answer":"dzieli się na dwa nerwy podbrzuszne","isTrue":false},{"answer":"oddaje gałęzie do splotu biodrowego, moczowodowego i nerkowego","isTrue":false}]},{"id":62,"question":"Do narządów położonych wtórnie zaotrzewnowo nie należy/-ą:","answers":[{"answer":"Okrężnica zstępująca","isTrue":false},{"answer":"Brzuszne odcinki moczowodów","isTrue":false},{"answer":"Trzustka","isTrue":false},{"answer":"Kątnica przytwierdzona","isTrue":false},{"answer":"Okrężnica wstępująca","isTrue":false}]},{"id":63,"question":"Przednia powierzchnia lewej nerki nie sąsiaduje z:","answers":[{"answer":"Żołądkiem","isTrue":false},{"answer":"Trzonem trzustki","isTrue":false},{"answer":"Nadnerczem lewym","isTrue":false},{"answer":"Zgięciem wątrobowym okrężnicy","isTrue":false},{"answer":"Pętlami jelita cienkiego","isTrue":false}]},{"id":64,"question":"Przednia powierzchnia aorty brzusznej nie jest krzyżowana przez:","answers":[{"answer":"Trzon trzustki","isTrue":false},{"answer":"Żyłę śledzionową","isTrue":false},{"answer":"Korzeń krezki jelita cienkiego","isTrue":false},{"answer":"Żyły lędźwiowe lewe","isTrue":false},{"answer":"Żyłę nerkową lewą","isTrue":false}]},{"id":65,"question":"Sploty pochodne splotu trzewnego dzielimy na nieparzyste i parzyste. Które z niżej wymienionych zaliczamy do splotów nieparzystych?","answers":[{"answer":"Splot przeponowy","isTrue":false},{"answer":"Splot wątrobowy","isTrue":false},{"answer":"Splot nerkowy","isTrue":false},{"answer":"Splot nadnerczowy","isTrue":false},{"answer":"Splot jądrowy","isTrue":false}]},{"id":66,"question":"Którą z wymienionych struktur zawiera rozstęp naczyń?","answers":[{"answer":"Nerw udowy","isTrue":false},{"answer":"Mięsień biodrowo-lędźwiowy","isTrue":false},{"answer":"Węzeł chłonny rozstępowy przyśrodkowy","isTrue":false},{"answer":"Więzadło biodrowo-grzebieniowe","isTrue":false},{"answer":"Nerw skórny boczny uda","isTrue":false}]},{"id":67,"question":"Tylna ściana żołądka nie sąsiaduje z:","answers":[{"answer":"Lewym płatem wątroby","isTrue":false},{"answer":"Śledzioną","isTrue":false},{"answer":"Przeponą","isTrue":false},{"answer":"Okrężnicą poprzeczną","isTrue":false},{"answer":"Przez torbę sieciową z trzonem trzustki","isTrue":false}]},{"id":68,"question":"Które z wymienionych niżej węzłów chłonnych nie należą do węzłów chłonnych lokalnych żołądka?","answers":[{"answer":"Węzły chłonne żołądkowe górne","isTrue":false},{"answer":"Węzły chłonne żołądkowe pośrednie","isTrue":false},{"answer":"Węzły chłonne żołądkowe dolne","isTrue":false},{"answer":"Węzły chłonne trzustkowo-śledzionowe","isTrue":false},{"answer":"Węzły chłonne odźwiernikowe","isTrue":false}]},{"id":69,"question":"Mięsień skośny brzucha zewnętrzny rozpoczyna się na:","answers":[{"answer":"Powierzchni wewnętrznej żeber V-XII","isTrue":false},{"answer":"Na wardze zewnętrznej grzebienia kości łonowej","isTrue":false},{"answer":"Na wardze wewnętrznej grzebienia biodrowego","isTrue":false},{"answer":"Na kresie pośredniej grzebienia biodrowego","isTrue":false},{"answer":"Powierzchni zewnętrznej żeber V-XII","isTrue":false}]},{"id":70,"question":"Spośród wymienionych wybierz te, do których odpływa krew po wytworzeniu krążenia obocznego przy utrudnieniu odpływu z żyły wrotnej: 1. żyły przełykowe, 2. żyła odbytnicza górna, 3. zespół połączeń żylnych Retziusa, 4. naczynia żylne okołopępkowe, 5. żyła żołądkowa lewa:","answers":[{"answer":"1","isTrue":false},{"answer":"1, 2","isTrue":false},{"answer":"1, 3","isTrue":false},{"answer":"1, 2, 4","isTrue":false},{"answer":"1, 2, 3, 4, 5","isTrue":false}]},{"id":71,"question":"Przerzuty nowotworowe najczęściej rozsiewane są drogą chłonki lub krwi. Źródłem przerzutu do nadnercza najprawdopodobniej będzie: ?","answers":[{"answer":"płuco drogą krwionośną","isTrue":false},{"answer":"płuco drogą chłonki","isTrue":false},{"answer":"nerka drogą chłonki","isTrue":false},{"answer":"nerka drogą krwionośną","isTrue":false},{"answer":"wątroba drogą chłonki","isTrue":false}]},{"id":72,"question":"Prawdą o lumbar triangle/ trigonum lumbale Petiti jest:","answers":[{"answer":"Przechodzi przez niego przepuklina załonowa","isTrue":false},{"answer":"Dno stanowi m.obliquus abdominalis internus","isTrue":false},{"answer":"Przechodzi przez niego przepuklina lędźwiowa","isTrue":false},{"answer":"Prawdziwe są odpowiedzi b i c","isTrue":false},{"answer":"Prawdziwe są odpowiedzi a i b","isTrue":false}]},{"id":73,"question":"Nieprawdą o badaniu per rectum jest:","answers":[{"answer":"Występują różnice w tworach anatomicznych możliwych do zbadania u obu płci","isTrue":false},{"answer":"Kość krzyżowa jest dostępna w badaniu u obu płci","isTrue":false},{"answer":"Nie da się zbadać trzonu macicy u kobiet","isTrue":false},{"answer":"Jest metodą badania gruczołu krokowego u mężczyzn","isTrue":false},{"answer":"Można zbadać trzon pęcherza moczowego u mężczyzn","isTrue":false}]},{"id":74,"question":"Które stwierdzenie dotyczące moczowodów jest nieprawdziwe:","answers":[{"answer":"Od przodu krzyżuje nerw płciowo-udowy","isTrue":false},{"answer":"Do przodu od prawego moczowodu znajduje się krezka jelita cienkiego i nn. okrężnicze prawe","isTrue":false},{"answer":"Do przodu od lewego moczowodu leżą krezka esicy i nn. jądrowe lub jajnikowe lewe","isTrue":false},{"answer":"Moczowód rozpoczyna się w przedłużeniu miedniczki nerkowej na wysokości L2","isTrue":false},{"answer":"Brak moczowodu jest wadą rozwojową, niezależnie od obecności lub braku nerki","isTrue":false}]}]
+[
+  {
+    "id": 0,
+    "question": "Moczowód:",
+    "answers": [
+      {
+        "answer": "Jego cz. miedniczna znajduje się w jamie miednicy większej",
+        "isTrue": false
+      },
+      {
+        "answer": "Odcinek brzuszny moczowodu leży wewnątrzotrzewnowo",
+        "isTrue": false
+      },
+      {
+        "answer": "Biegnie bocznie od n. i naczyń zasłonowych",
+        "isTrue": false
+      },
+      {
+        "answer": "Na swoim przebiegu wytwarza zgięcie nerkowe, brzeżne i miedniczne",
+        "isTrue": true
+      },
+      {
+        "answer": "Biegnie na m. quadratus lumborum",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "question": "Prawdą o unerwieniu jamy brzusznej jest, że:",
+    "answers": [
+      {
+        "answer": "Splot unerwiający narządy ukrwione przez t. krezkową dolną zawiera włókna współczulne i przywspółczulne przedzwojowe",
+        "isTrue": true
+      },
+      {
+        "answer": "Nerwy podbrzuszne powstają z podziału splotu krezkowego dolnego",
+        "isTrue": false
+      },
+      {
+        "answer": "Splot podbrzuszny górny to inaczej splot miedniczny",
+        "isTrue": false
+      },
+      {
+        "answer": "Splot trzewny zawiera włókna parasympatyczne przedzwojowe od splotu miednicznego",
+        "isTrue": false
+      },
+      {
+        "answer": "Wszystkie pochodne splotu trzewnego są splotami nieparzystymi",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Pochewka m. prostego brzucha:",
+    "answers": [
+      {
+        "answer": "Powyżej pępka jej ścianę przednią tworzy blaszka przednia rozcięgna m. skośnego wewnętrznego brzucha, a ścianę tylną blaszka tylna",
+        "isTrue": true
+      },
+      {
+        "answer": "Poniżej pępka ścianę tylną tworzy tylna blaszka rozcięgna m. skośnego wewnętrznego brzucha",
+        "isTrue": false
+      },
+      {
+        "answer": "Zawiera tylko m. prosty brzucha",
+        "isTrue": false
+      },
+      {
+        "answer": "Zawiera kresę białą, która przyczepia się do rękojeści mostka i spojenia łonowego",
+        "isTrue": false
+      },
+      {
+        "answer": "Powięź poprzeczna tworzy jej przednią ścianę",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Prawdą jest że:",
+    "answers": [
+      {
+        "answer": "Wszystkie części dwunastnicy sąsiadują z trzonem trzustki",
+        "isTrue": false
+      },
+      {
+        "answer": "Pęcherzyk żółciowy nie sąsiaduje z dwunastnicą (s. 91)",
+        "isTrue": false
+      },
+      {
+        "answer": "W więzadle wątrobowo-dwunastniczym przewód pęcherzyka żółciowego łączy się z przewodem wątrobowym wspólnym tworząc przewód żółciowy wspólny (s. 93)",
+        "isTrue": true
+      },
+      {
+        "answer": "Guz sieciowy występuje tylko w wątrobie (s. 97)",
+        "isTrue": false
+      },
+      {
+        "answer": "Przewód wątrobowy wspólny powoduje powstanie fałdu podłużnego dwunastnicy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "W trzustce:",
+    "answers": [
+      {
+        "answer": "Przewód trzustkowy biegnie razem z przewodem trzustkowym dodatkowym w ogonie trzustki",
+        "isTrue": false
+      },
+      {
+        "answer": "Więzadło przeponowo-śledzionowe zawiera ogon trzustki",
+        "isTrue": true
+      },
+      {
+        "answer": "Unaczynienie tętnicze całego tego narządu pochodzi od pnia trzewnego",
+        "isTrue": false
+      },
+      {
+        "answer": "Przez wcięcie trzustki przechodzi żyła wrotna",
+        "isTrue": false
+      },
+      {
+        "answer": "Głowa trzustki nie sąsiaduje z opuszką dwunastnicy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Nieprawdą jest, że:",
+    "answers": [
+      {
+        "answer": "Pień trzewny tak jak splot trzewny znajdują się na wysokości Th12-L1",
+        "isTrue": false
+      },
+      {
+        "answer": "T. żołądkowa lewa unaczynia krzywiznę większą żołądka",
+        "isTrue": true
+      },
+      {
+        "answer": "T. żołądkowa lewa biegnie w w. wątrobowo-żołądkowym",
+        "isTrue": false
+      },
+      {
+        "answer": "T. wątrobowa dzieli się na wysokości odźwiernika na t. wątrobową właściwą i t. żołądkowo-dwunastniczą",
+        "isTrue": false
+      },
+      {
+        "answer": "T. żołądkowo-dwunastnicza krzyżuje przewód żółciowy wspólny i żyłę wrotną",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Na wysokości krążka międzykręgowego L3/L4 zazwyczaj znajduje się:",
+    "answers": [
+      {
+        "answer": "cz. Pozioma dwunastnicy",
+        "isTrue": false
+      },
+      {
+        "answer": "pępek",
+        "isTrue": true
+      },
+      {
+        "answer": "trzustka",
+        "isTrue": false
+      },
+      {
+        "answer": "odejście t. krezkowej górnej od aorty",
+        "isTrue": false
+      },
+      {
+        "answer": "lewa nerka",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Poprawny odpływ chłonki ze ścian brzucha poniżej pępka przedstawia podpunkt:",
+    "answers": [
+      {
+        "answer": "pachwinowe głębokie -> biodrowe wewnętrzne -> biodrowe wspólne -> zbiornik mleczu",
+        "isTrue": false
+      },
+      {
+        "answer": "pachwinowe powierzchowne -> pachwinowe głębokie -> biodrowe wewnętrzne -> biodrowe wspólne -> lędźwiowe -> zbiornik mleczu",
+        "isTrue": false
+      },
+      {
+        "answer": "biodrowe zewnętrzne -> biodrowe wspólne -> pachwinowe powierzchowne -> pachwinowe głębokie -> lędźwiowe -> zbiornik mleczu",
+        "isTrue": false
+      },
+      {
+        "answer": "zbiornik mleczu -> lędźwiowe zewnętrzne -> pachwinowe -> biodrowe wspólne",
+        "isTrue": false
+      },
+      {
+        "answer": "pachwinowe powierzchowne -> pachwinowe głębokie -> biodrowe zewnętrzne -> biodrowe wspólne -> lędźwiowe -> zbiornik mleczu",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Żyła główna dolna jest od przodu krzyżowana przez:",
+    "answers": [
+      {
+        "answer": "t. biodrową wspólną lewą",
+        "isTrue": false
+      },
+      {
+        "answer": "t. jądrową lub jajnikową prawą",
+        "isTrue": true
+      },
+      {
+        "answer": "ogon trzustki",
+        "isTrue": false
+      },
+      {
+        "answer": "krezkę poprzecznicy",
+        "isTrue": false
+      },
+      {
+        "answer": "żyły lędźwiowe",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Śledziona nie sąsiaduje z:",
+    "answers": [
+      {
+        "answer": "żołądkiem",
+        "isTrue": false
+      },
+      {
+        "answer": "lewą nerką",
+        "isTrue": false
+      },
+      {
+        "answer": "głową trzustki",
+        "isTrue": true
+      },
+      {
+        "answer": "przeponą",
+        "isTrue": false
+      },
+      {
+        "answer": "zgięciem śledzionowym okrężnicy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Trzustka sąsiaduje z:",
+    "answers": [
+      {
+        "answer": "z ż. wrotną",
+        "isTrue": true
+      },
+      {
+        "answer": "z naczyniami krezkowymi dolnymi",
+        "isTrue": false
+      },
+      {
+        "answer": "Z ż. nerkową prawą",
+        "isTrue": false
+      },
+      {
+        "answer": "z prawą nerką",
+        "isTrue": false
+      },
+      {
+        "answer": "z okrężnicą poprzeczną",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Śledziona nie jest umocowana przez:",
+    "answers": [
+      {
+        "answer": "szypułę śledziony",
+        "isTrue": false
+      },
+      {
+        "answer": "więzadło przeponowo-śledzionowe",
+        "isTrue": false
+      },
+      {
+        "answer": "więzadło żołądkowo-śledzionowe",
+        "isTrue": false
+      },
+      {
+        "answer": "więzadło przeponowo-okrężnicze",
+        "isTrue": false
+      },
+      {
+        "answer": "więzadło okrężniczo-śledzionowe",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Niepoprawnym stwierdzeniem o ścianie brzucha jest:",
+    "answers": [
+      {
+        "answer": "Więzadło pachwinowe to twór wytworzony przez dolny brzeg rozcięgna mięśnia skośnego brzucha zewnętrznego",
+        "isTrue": false
+      },
+      {
+        "answer": "Między warstwami mięśnia lędźwiowego większego leży część splotu lędźwiowego.",
+        "isTrue": false
+      },
+      {
+        "answer": "Powięź nasienna wewnętrzna to odpowiednik powięzi podskórnej",
+        "isTrue": false
+      },
+      {
+        "answer": "Włókna mięśnia poprzecznego brzucha przechodzą w rozcięgno wzdłuż linii półksiężycowatej",
+        "isTrue": false
+      },
+      {
+        "answer": "Miejsca zmniejszonej oporności (locus minoris resistentiae) występują powyżej pępka",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "przepuklinach nieprawdą jest że:",
+    "answers": [
+      {
+        "answer": "Przepuklina pachwinowa prosta przechodzi przez pierścień pachwinowy głęboki",
+        "isTrue": true
+      },
+      {
+        "answer": "Przewlekły kaszel może sprzyjać powstawaniu przepuklin",
+        "isTrue": false
+      },
+      {
+        "answer": "Jako zawartość przepukliny pępkowej najczęściej znajduje się sieć większą",
+        "isTrue": false
+      },
+      {
+        "answer": "Wrota przepukliny udowej (pierścień udowy głęboki) leżą w przyśrodkowej części rozstępu naczyń",
+        "isTrue": false
+      },
+      {
+        "answer": "Przepukliny kresy białej występują częściej powyżej niż poniżej pępka",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Przestrzeń przedotrzewnowa:",
+    "answers": [
+      {
+        "answer": "Nie komunikuje się z przestrzenią podotrzewnową",
+        "isTrue": false
+      },
+      {
+        "answer": "Od tyłu jest ograniczona przez powięź poprzeczną",
+        "isTrue": false
+      },
+      {
+        "answer": "Znajdujące się w niej naczynia wywołują fałdy pępkowe boczne",
+        "isTrue": true
+      },
+      {
+        "answer": "Ku górze sięga aż do wyrostka mieczykowatego (Th11)",
+        "isTrue": false
+      },
+      {
+        "answer": "Znajduje się w niej dół nadpęcherzowy (fossa supravesicalis)",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Żołądek nie sąsiaduje z:",
+    "answers": [
+      {
+        "answer": "Przeponą",
+        "isTrue": false
+      },
+      {
+        "answer": "Wątrobą",
+        "isTrue": false
+      },
+      {
+        "answer": "Okrężnicą poprzeczną",
+        "isTrue": false
+      },
+      {
+        "answer": "Lewym nadnerczem",
+        "isTrue": false
+      },
+      {
+        "answer": "Okrężnicą zstępującą",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Lokalne węzły chłonne żołądka:",
+    "answers": [
+      {
+        "answer": "Są nimi między innymi węzły chłonne trzustkowe górne",
+        "isTrue": false
+      },
+      {
+        "answer": "Węzły chłonne żołądkowe górne są położone między blaszkami więzadła wątrobowo-żołądkowego",
+        "isTrue": true
+      },
+      {
+        "answer": "Węzły chłonne odźwiernikowe leżą do przodu od odźwiernika",
+        "isTrue": false
+      },
+      {
+        "answer": "Węzły chłonne żołądkowe dolne leżą w obrębie fartuszka",
+        "isTrue": false
+      },
+      {
+        "answer": "Z wszystkich węzłów chłonnych lokalnych żołądka chłonka płynie bezpośrednio do przewodu piersiowego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "W topografii wątroby:",
+    "answers": [
+      {
+        "answer": "Leży wyłącznie w prawym podżebrzu i nadbrzuszu właściwym",
+        "isTrue": false
+      },
+      {
+        "answer": "Prawy płat wątroby sąsiaduje z żołądkiem",
+        "isTrue": false
+      },
+      {
+        "answer": "Płat czworoboczny nie powinien sąsiadować z żołądkiem",
+        "isTrue": false
+      },
+      {
+        "answer": "Niepowiększona wątroba nie powinna wystawać spod prawego łuku żebrowego",
+        "isTrue": true
+      },
+      {
+        "answer": "Leży wewnątrzotrzewnowo i w całości jest pokryta otrzewną",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Nieprawdą o wątrobie jest że:",
+    "answers": [
+      {
+        "answer": "Pole nagie (area nuda hepatis) to miejsce zrostu wątroby z przeponą",
+        "isTrue": false
+      },
+      {
+        "answer": "Chłonka z wątroby uchodzi częściowo do węzłów chłonnych znajdujących się w klatce piersiowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Umocowanie żyły głównej dolnej w jej rowku to jeden z elementów umocowania wątroby",
+        "isTrue": false
+      },
+      {
+        "answer": "Tętnica pęcherzyka żółciowego to gałąź tętnicy wątrobowej wspólnej",
+        "isTrue": true
+      },
+      {
+        "answer": "W przypadku marskości wątroby zwiększone jest ryzyko żylaków przełyku",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Wątroba - wskaż zdanie nieprawdziwe:",
+    "answers": [
+      {
+        "answer": "Oba więzadła trójkątne dochodzą do przepony",
+        "isTrue": false
+      },
+      {
+        "answer": "Wątroba ma budowę zrazikową",
+        "isTrue": false
+      },
+      {
+        "answer": "W rowku strzałkowym lewym znajdziemy żyłę główną dolną",
+        "isTrue": true
+      },
+      {
+        "answer": "Na płacie ogoniastym znajduje się wyrostek brodawkowaty",
+        "isTrue": false
+      },
+      {
+        "answer": "Sąsiaduje z prawą nerką i nadnerczem",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Nadnercza - wskaż zdanie fałszywe:",
+    "answers": [
+      {
+        "answer": "Krew żylna odpływa z nich obustronnie przez trzy żyły",
+        "isTrue": true
+      },
+      {
+        "answer": "Są unaczynione przez gałęzie trzech tętnic",
+        "isTrue": false
+      },
+      {
+        "answer": "Chłonka z nich uchodzi do węzłów chłonnych lędźwiowych",
+        "isTrue": false
+      },
+      {
+        "answer": "Obustronnie sąsiadują z przeponą",
+        "isTrue": false
+      },
+      {
+        "answer": "Mają dwojakie pochodzenie – mezodermalne i ektodermalne (z komórek grzebieni nerwowych)",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Wśród splotów nerwowych jamy brzusznej nieprawdą jest że:",
+    "answers": [
+      {
+        "answer": "Splot lędźwiowy powstaje przez wymieszanie gałęzi przednich nn. rdzeniowych L1-L3",
+        "isTrue": false
+      },
+      {
+        "answer": "Splot trzewny to największy splot uzwojony układu sympatycznego",
+        "isTrue": false
+      },
+      {
+        "answer": "Nerw skórny uda boczny pochodzi ze splotu krzyżowego",
+        "isTrue": true
+      },
+      {
+        "answer": "Do splotu trzewnego włókna sympatyczne przedzwojowe dochodzą m.in. w nerwie trzewnym większym",
+        "isTrue": false
+      },
+      {
+        "answer": "Splot krezkowy dolny oplata tętnicę odchodzącą od aorty brzusznej na poziomie L3",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Torba sieciowa:",
+    "answers": [
+      {
+        "answer": "Jama właściwa znajduje się do tyłu od wątroby",
+        "isTrue": false
+      },
+      {
+        "answer": "Wejście do niej jest od tyłu ograniczone przez więzadło wątrobowo-nerkowe",
+        "isTrue": true
+      },
+      {
+        "answer": "Ma jeden stały zachyłek – zachyłek górny, czyli śledzionowy",
+        "isTrue": false
+      },
+      {
+        "answer": "W obrębie fałdu żołądkowo-trzustkowego biegnie m.in. tętnica wątrobowa wspólna",
+        "isTrue": false
+      },
+      {
+        "answer": "Niestały zachyłek dolny znajduje się między blaszkami sieci mniejszej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Wśród rzutów narządów jamy brzusznej na ścianę brzucha:",
+    "answers": [
+      {
+        "answer": "Trzon trzustki jest rzutowany na L3",
+        "isTrue": false
+      },
+      {
+        "answer": "Prawa nerka jest rzutowana na Th12-L3",
+        "isTrue": true
+      },
+      {
+        "answer": "Prawe nadnercze jest rzutowane na Th10",
+        "isTrue": false
+      },
+      {
+        "answer": "Część pozioma dwunastnicy jest rzutowana na L1",
+        "isTrue": false
+      },
+      {
+        "answer": "Odźwiernik żołądka jest rzutowany na L3-L4",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Nieprawdą jest że pochewka mięśnia prostego brzucha zawiera:",
+    "answers": [
+      {
+        "answer": "Mięsień piramidowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Mięsień prosty brzucha",
+        "isTrue": false
+      },
+      {
+        "answer": "Gałąź nerwu biodrowo-podbrzusznego",
+        "isTrue": false
+      },
+      {
+        "answer": "Naczynia nabrzuszne powierzchowne",
+        "isTrue": true
+      },
+      {
+        "answer": "Naczynia nabrzuszne dolne",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Wskaż zdanie nieprawdziwe:",
+    "answers": [
+      {
+        "answer": "Do elementów mocujących śledzionę zaliczamy więzadło przeponowo-okrężnicze",
+        "isTrue": false
+      },
+      {
+        "answer": "Prawy płat wątroby sąsiaduje z żyłą główną dolną",
+        "isTrue": false
+      },
+      {
+        "answer": "Chłonka z wyrostka robaczkowego odpływa do węzłów chłonnych kretniczo-okrężniczych i dalej do węzłów chłonnych trzewnych",
+        "isTrue": false
+      },
+      {
+        "answer": "Część pozioma dwunastnicy krzyżuje trzon L2",
+        "isTrue": true
+      },
+      {
+        "answer": "Naczynia nabrzuszne dolne wywołują fałdy pępkowe boczne",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Przestrzeń przedotrzewnowa:",
+    "answers": [
+      {
+        "answer": "Jest ograniczona od przodu przez rozcięgno mięśnia prostego brzucha",
+        "isTrue": false
+      },
+      {
+        "answer": "Zawiera naczynia nabrzuszne powierzchowne",
+        "isTrue": false
+      },
+      {
+        "answer": "Bocznie sięga do więzadeł pępkowych bocznych",
+        "isTrue": false
+      },
+      {
+        "answer": "Zawiera strukturę która jest pozostałością po moczowniku",
+        "isTrue": true
+      },
+      {
+        "answer": "Ku tyłowi przechodzi w przestrzeń zaotrzewnową",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Wskaż nieprawdziwe zdanie dotyczące układu chłonnego brzucha:",
+    "answers": [
+      {
+        "answer": "Chłonka z okolic grzbietu położonych poniżej pępka dociera do węzłów chłonnych przyłopatkowych",
+        "isTrue": true
+      },
+      {
+        "answer": "Chłonka z rogów macicy dociera do węzłów chłonnych pachwinowych powierzchownych",
+        "isTrue": false
+      },
+      {
+        "answer": "Węzły chłonne regionalne jamy brzusznej odprowadzają chłonkę do węzłów chłonnych trzewnych",
+        "isTrue": false
+      },
+      {
+        "answer": "Węzły chłonne krzyżowe są położone na przedniej powierzchni kości krzyżowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Do węzłów chłonnych lokalnych żołądka należą węzły chłonne trzustkowo- śledzionowe",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "W skład powrózka nasiennego nie wchodzi:",
+    "answers": [
+      {
+        "answer": "Tętnica mięśnia dźwigacza jądra",
+        "isTrue": false
+      },
+      {
+        "answer": "Przyjądrze",
+        "isTrue": false
+      },
+      {
+        "answer": "Gałąź płciowa nerwu płciowo-udowego",
+        "isTrue": false
+      },
+      {
+        "answer": "Nerw biodrowo-podbrzuszny",
+        "isTrue": true
+      },
+      {
+        "answer": "Splot żylny wiciowaty",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Głowa trzustki sąsiaduje z:",
+    "answers": [
+      {
+        "answer": "Aortą brzuszną",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyłą główną dolną",
+        "isTrue": true
+      },
+      {
+        "answer": "Lewą nerką",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyłą nerkową lewą",
+        "isTrue": false
+      },
+      {
+        "answer": "Tętnicą nerkową prawą",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "W jakim kierunku biegną włókna mięśnia skośnego brzucha zewnętrznego:",
+    "answers": [
+      {
+        "answer": "Do dołu i przyśrodkowo",
+        "isTrue": true
+      },
+      {
+        "answer": "Do góry i przyśrodkowo",
+        "isTrue": false
+      },
+      {
+        "answer": "Do dołu i bocznie",
+        "isTrue": false
+      },
+      {
+        "answer": "Do góry i bocznie",
+        "isTrue": false
+      },
+      {
+        "answer": "Poziomo",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Która z poniższych struktur nie jest unerwiona przez splot krezkowy górny?",
+    "answers": [
+      {
+        "answer": "Wyrostek robaczkowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Kątnica",
+        "isTrue": false
+      },
+      {
+        "answer": "Okrężnica wstępująca",
+        "isTrue": false
+      },
+      {
+        "answer": "2/3 prawe okrężnicy poprzecznej",
+        "isTrue": false
+      },
+      {
+        "answer": "1/3 lewa okrężnicy poprzecznej",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Gdzie rzutujemy dno pęcherzyka żółciowego?",
+    "answers": [
+      {
+        "answer": "Punkt Lanza",
+        "isTrue": false
+      },
+      {
+        "answer": "W trójkącie Labbego",
+        "isTrue": false
+      },
+      {
+        "answer": "Między VI, a VII żebrem po stronie prawej",
+        "isTrue": false
+      },
+      {
+        "answer": "Punkt McBurneya",
+        "isTrue": false
+      },
+      {
+        "answer": "Skrzyżowanie prawego łuku żebrowego z brzegiem bocznym mięśnia prostego brzucha",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Część splotu lędźwiowego znajduje się pomiędzy warstwami którego z wymienionych mięśni?:",
+    "answers": [
+      {
+        "answer": "m. lędźwiowy mniejszy (m. psoas minor)",
+        "isTrue": false
+      },
+      {
+        "answer": "m. lędźwiowy większy (m. psoas major)",
+        "isTrue": true
+      },
+      {
+        "answer": "m. czworoboczny lędźwi (m. quadratus lumborum)",
+        "isTrue": false
+      },
+      {
+        "answer": "m. poprzeczny brzucha (m. transversus abdominis)",
+        "isTrue": false
+      },
+      {
+        "answer": "brak poprawnej odpowiedzi",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Granicą pomiędzy piętrem gruczołowym a piętrem jelitowym w jamie brzusznej jest:",
+    "answers": [
+      {
+        "answer": "dolna połowa dwunastnicy",
+        "isTrue": false
+      },
+      {
+        "answer": "okrężnica poprzeczna",
+        "isTrue": true
+      },
+      {
+        "answer": "trzustka",
+        "isTrue": false
+      },
+      {
+        "answer": "dolne części nerek",
+        "isTrue": false
+      },
+      {
+        "answer": "opuszka dwunastnicy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "We wrotach wątroby nie znajdziemy:",
+    "answers": [
+      {
+        "answer": "przewodu wątrobowego wspólnego",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnicy wątrobowej właściwej",
+        "isTrue": false
+      },
+      {
+        "answer": "żyły głównej dolnej",
+        "isTrue": true
+      },
+      {
+        "answer": "włókien nerwowych splotu autonomicznego wątrobowego",
+        "isTrue": false
+      },
+      {
+        "answer": "włókien autonomicznego splotu wątrobowego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Powierzchnia tylna głowy trzustki sąsiaduje od tyłu z:",
+    "answers": [
+      {
+        "answer": "aortą brzuszną",
+        "isTrue": false
+      },
+      {
+        "answer": "żołądkiem",
+        "isTrue": false
+      },
+      {
+        "answer": "przewodem żółciowym wspólnym",
+        "isTrue": true
+      },
+      {
+        "answer": "lewą nerką",
+        "isTrue": false
+      },
+      {
+        "answer": "prawą nerką",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Tętnica śledzionowa (arteria lienalis/splenic artery) oddaje:",
+    "answers": [
+      {
+        "answer": "gałąź unaczyniającą poprzecznicę",
+        "isTrue": false
+      },
+      {
+        "answer": "b) gałęzie unaczyniające sieć mniejszą",
+        "isTrue": false
+      },
+      {
+        "answer": "gałęzie trzustkowe",
+        "isTrue": true
+      },
+      {
+        "answer": "tętnice żołądkowo-sieciową prawą",
+        "isTrue": false
+      },
+      {
+        "answer": "Tętnice trzustkowo-dwunastnicze",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Tętnica wyrostka robaczkowego (arteria appendicularis/ appendicular artery) jest odgałęzieniem:",
+    "answers": [
+      {
+        "answer": "tętnicy odbytniczej górnej (arteria rectalis superior/superior rectal artery)",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnicy okrężniczej prawej (arteria colica dextra/ right colic artery)",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnicy krętniczo-okrężniczej (arteria ileocolica/ileocolic artery)",
+        "isTrue": true
+      },
+      {
+        "answer": "tętnic jelita czczego (arteriae jejunales/ jejunal arteries)",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnicy żołądkowo-sieciowej prawej (arteria gastroepiploica dextra/right gastroepiploic artery)",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Wyrostek robaczkowy sąsiaduje u kobiet z:",
+    "answers": [
+      {
+        "answer": "pęcherzem moczowym",
+        "isTrue": true
+      },
+      {
+        "answer": "lewymi przydatkami",
+        "isTrue": false
+      },
+      {
+        "answer": "więzadłem obłym macicy",
+        "isTrue": false
+      },
+      {
+        "answer": "lewym moczowodem",
+        "isTrue": false
+      },
+      {
+        "answer": "lewymi naczyniami biodrowymi wspólnymi",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Położenie struktur w korzeniu nerki poprawnie opisuje zdanie:",
+    "answers": [
+      {
+        "answer": "moczowód leży powyżej naczyń nerkowych",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnica nerkowa znajduje się powyżej żyły nerkowej",
+        "isTrue": false
+      },
+      {
+        "answer": "żyła nerkowa znajduje się u góry i do tyłu względem tętnicy",
+        "isTrue": false
+      },
+      {
+        "answer": "żyła nerkowa znajduje się do przodu i poniżej tętnicy",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnica nerkowa leży powyżej moczowodu",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "W skład zatoki nerkowej nie wchodzi:",
+    "answers": [
+      {
+        "answer": "miedniczka nerkowa",
+        "isTrue": false
+      },
+      {
+        "answer": "tkanka tłuszczowa",
+        "isTrue": false
+      },
+      {
+        "answer": "piramidy nerkowe",
+        "isTrue": true
+      },
+      {
+        "answer": "tętnice międzypłatowe",
+        "isTrue": false
+      },
+      {
+        "answer": "kielichy mniejsze",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Mięsień skośny brzucha zewnętrzy unerwiony jest przez:",
+    "answers": [
+      {
+        "answer": "n. biodrowo-podbrzuszny",
+        "isTrue": true
+      },
+      {
+        "answer": "n. Międzyżebrowy IV",
+        "isTrue": false
+      },
+      {
+        "answer": "N. Podżebrowy",
+        "isTrue": false
+      },
+      {
+        "answer": "n. Międzyżebrowy III",
+        "isTrue": false
+      },
+      {
+        "answer": "Gałązki krótkie splotu lędźwiowego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Ścianę przednią pochewki mięśnia prostego brzucha powyżej pępka tworzy:",
+    "answers": [
+      {
+        "answer": "Powięź poprzeczna",
+        "isTrue": false
+      },
+      {
+        "answer": "Rozcięgno mięśnia skośnego zewnętrznego brzucha",
+        "isTrue": true
+      },
+      {
+        "answer": "Tylna blaszka rozcięgna mięśnia skośnego wewnętrznego brzucha",
+        "isTrue": false
+      },
+      {
+        "answer": "Rozcięgno mięśnia skośnego wewnętrznego brzucha",
+        "isTrue": false
+      },
+      {
+        "answer": "Część dolna rozcięgna mięśnia poprzecznego brzucha",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "W powrózku nasiennym powięź mięśnia dźwigacza jądra jest odpowiednikiem:",
+    "answers": [
+      {
+        "answer": "Powięzi podskórnej",
+        "isTrue": false
+      },
+      {
+        "answer": "Mięśnia skośnego wewnetrznego",
+        "isTrue": false
+      },
+      {
+        "answer": "Mięśnia poprzecznego brzucha",
+        "isTrue": false
+      },
+      {
+        "answer": "Powięzi powierzchownej brzucha",
+        "isTrue": true
+      },
+      {
+        "answer": "powięzi poprzecznej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Więzadło wątrobowo-żołądkowe zawiera:",
+    "answers": [
+      {
+        "answer": "Tętnicę wątrobową właściwą",
+        "isTrue": false
+      },
+      {
+        "answer": "przewód żółciowy wspólny",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyłę wrotną",
+        "isTrue": false
+      },
+      {
+        "answer": "Gałęzie przełykowe naczyń żołądkowych lewych",
+        "isTrue": false
+      },
+      {
+        "answer": "Tętnicę żołądkową lewą",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Przestrzeń przedotrzewnowa jest ograniczona od tyłu przez:",
+    "answers": [
+      {
+        "answer": "Pępek",
+        "isTrue": false
+      },
+      {
+        "answer": "Przestrzeń podotrzewnowa",
+        "isTrue": false
+      },
+      {
+        "answer": "Otrzewną ścienną",
+        "isTrue": true
+      },
+      {
+        "answer": "Naczynia nabrzuszne dolne",
+        "isTrue": false
+      },
+      {
+        "answer": "Wewnętrzną powierzchnię przedniej ściany jamy brzusznej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Przednia ściana żołądka sąsiaduje z :",
+    "answers": [
+      {
+        "answer": "przeponą",
+        "isTrue": true
+      },
+      {
+        "answer": "Okrężnicą poprzeczną",
+        "isTrue": false
+      },
+      {
+        "answer": "Śledzioną",
+        "isTrue": false
+      },
+      {
+        "answer": "trzonem i ogonem trzustki",
+        "isTrue": false
+      },
+      {
+        "answer": "lewą nerką",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Prawa nerka sąsiaduje z:",
+    "answers": [
+      {
+        "answer": "Trzonem trzustki",
+        "isTrue": false
+      },
+      {
+        "answer": "Śledzioną",
+        "isTrue": false
+      },
+      {
+        "answer": "Żołądkiem",
+        "isTrue": false
+      },
+      {
+        "answer": "Zgięciem śledzionowym okrężnicy",
+        "isTrue": false
+      },
+      {
+        "answer": "Zgięciem wątrobowym okrężnicy",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Ściennym dopływem żyły głównej dolnej są:",
+    "answers": [
+      {
+        "answer": "żż. Nerkowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Żż. jądrowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Żż. wątrobowe",
+        "isTrue": false
+      },
+      {
+        "answer": "ż. nadnerczowa prawa",
+        "isTrue": false
+      },
+      {
+        "answer": "Żż. przeponowe dolne",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Pęcherzyk żółciowy jest unerwiany przez:",
+    "answers": [
+      {
+        "answer": "Włókna autonomiczne ze splotu wątrobowego",
+        "isTrue": true
+      },
+      {
+        "answer": "Włókna parasympatyczne przedzwojowe od pni błędnych",
+        "isTrue": false
+      },
+      {
+        "answer": "Włókna sympatyczne pozazwojowe od splotu trzewnego",
+        "isTrue": false
+      },
+      {
+        "answer": "Wszystkie z powyższych",
+        "isTrue": false
+      },
+      {
+        "answer": "Żadne z powyższych",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Opuszka dwunastnicy sąsiaduje od przodu z:",
+    "answers": [
+      {
+        "answer": "Moczowodem prawym",
+        "isTrue": false
+      },
+      {
+        "answer": "Naczyniami krezkowymi górnymi",
+        "isTrue": false
+      },
+      {
+        "answer": "Aortą brzuszną",
+        "isTrue": false
+      },
+      {
+        "answer": "Płatem czworobocznym wątroby",
+        "isTrue": true
+      },
+      {
+        "answer": "Lewym mięśniem lędźwiowym większym",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Mięsień czworoboczny lędźwi",
+    "answers": [
+      {
+        "answer": "Kurcząc się jednostronnie zgina tułów do przodu",
+        "isTrue": false
+      },
+      {
+        "answer": "Kurcząc się jednostronnie zgina tułów do tyłu",
+        "isTrue": false
+      },
+      {
+        "answer": "Skurcz obustronny podnosi dwunaste żebro",
+        "isTrue": false
+      },
+      {
+        "answer": "Ustala część piersiową kręgosłupa",
+        "isTrue": false
+      },
+      {
+        "answer": "Skurcz obustronny obniża XII żebro",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Kanał pachwinowy:",
+    "answers": [
+      {
+        "answer": "występuje jedynie u mężczyzn",
+        "isTrue": false
+      },
+      {
+        "answer": "górną ścianę stanowi brzeg dolny m. skośnego brzucha zewnętrznego",
+        "isTrue": false
+      },
+      {
+        "answer": "przednią ścianę stanowi rozcięgno m. skośnego brzucha wewnętrznego",
+        "isTrue": false
+      },
+      {
+        "answer": "wlot do kanału stanowi pierścień pachwinowy głęboki, a wylot pierścień pachwinowy powierzchowny",
+        "isTrue": true
+      },
+      {
+        "answer": "wlot do kanału leży w dołku pachwinowym przyśrodkowym",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Nieprawdą jest, że:",
+    "answers": [
+      {
+        "answer": "przepukliny to przemieszczenie otrzewnej ściennej wraz z częścią narządów jamy brzusznej poza jamę brzuszną",
+        "isTrue": false
+      },
+      {
+        "answer": "przepukliny dzielimy na wrodzone, nabyte i pourazowe",
+        "isTrue": false
+      },
+      {
+        "answer": "worek przepuklinowy nie zawsze jest elementem przepukliny",
+        "isTrue": true
+      },
+      {
+        "answer": "przepuklina wewnętrzna to przesunięcie zawartości jamy brzusznej do sąsiedniej jamy ciała",
+        "isTrue": false
+      },
+      {
+        "answer": "wrota przepukliny udowej leżą w przyśrodkowej części rozstępu naczyń",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Prawdą jest, że:",
+    "answers": [
+      {
+        "answer": "do przodu od wrót wątroby jest płat ogoniasty",
+        "isTrue": false
+      },
+      {
+        "answer": "na płacie prawym widoczny jest wycisk dwunastnicy i żołądka",
+        "isTrue": false
+      },
+      {
+        "answer": "część tylna rowka strzałkowego prawego zawiera żyłę główną dolną",
+        "isTrue": true
+      },
+      {
+        "answer": "część przednia rowka strzałkowego lewego zawiera więzadło żylne Arancjusza",
+        "isTrue": false
+      },
+      {
+        "answer": "po prawej stronie od przewodu wątrobowego wspólnego jest t. wątrobowa właściwa",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Nieprawdą o krążeniu obocznym jest to, że:",
+    "answers": [
+      {
+        "answer": "ujawnia się w przypadku utrudnionego przepływu krwi przez miąższ wątroby",
+        "isTrue": false
+      },
+      {
+        "answer": "dochodzi do udrożnienia żył przypępkowych, poszerzenia żył okołopępkowych i w konsekwencji powstania głowy Meduzy",
+        "isTrue": false
+      },
+      {
+        "answer": "krew cofająca się z żyły wrotnej może odpływać żyłą żołądkową lewą, a następnie żyłami przełykowymi do splotów żylnych przełykowych",
+        "isTrue": false
+      },
+      {
+        "answer": "z żył okołopępkowych krew odpływa przez żyły piersiowo-nabrzuszne",
+        "isTrue": false
+      },
+      {
+        "answer": "krew z żył odbytniczych dolnych odpływa do żył sromowych wewnętrznych, a następnie do żył biodrowych zewnętrznych",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Splotem parzystym pochodnym od splotu trzewnego jest:",
+    "answers": [
+      {
+        "answer": "splot przeponowy",
+        "isTrue": true
+      },
+      {
+        "answer": "splot wątrobowy",
+        "isTrue": false
+      },
+      {
+        "answer": "splot żołądkowy górny",
+        "isTrue": false
+      },
+      {
+        "answer": "splot krezkowy górny",
+        "isTrue": false
+      },
+      {
+        "answer": "splot śledzionowy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Nieprawdą o unaczynieniu trzustki jest to, że:",
+    "answers": [
+      {
+        "answer": "trzon i ogon unaczynione są przez gałęzie trzustkowe od t. śledzionowej",
+        "isTrue": false
+      },
+      {
+        "answer": "gałęzie przednie i tylne tętnic trzustkowo-dwunastniczych górnych i dolnych zespalają się, tworząc łuki trzustkowo-dwunastnicze przednie i tylne",
+        "isTrue": false
+      },
+      {
+        "answer": "dolna część głowy trzustki jest unaczyniona przez t. trzustkowo-dwunastniczą dolną od t. żołądkowo-dwunastniczej",
+        "isTrue": true
+      },
+      {
+        "answer": "gałęzie trzustkowe t. wątrobowej wspólnej unaczyniają górną część głowy",
+        "isTrue": false
+      },
+      {
+        "answer": "t. trzustkowo-dwunastnicza górna unaczynia górną część głowy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Nieprawdą jest, że:",
+    "answers": [
+      {
+        "answer": "krezeczka wyrostka robaczkowego zawiera t. wyrostka robaczkowego od t. krętniczo-okrężniczej",
+        "isTrue": false
+      },
+      {
+        "answer": "kątnica ruchoma to wariant kątnicy rozwijającej się wewnątrzotrzewnowo z krezką",
+        "isTrue": true
+      },
+      {
+        "answer": "zgięcie wątrobowe okrężnicy możemy rzutować na VIII żebro w linii pachowej środkowej prawej",
+        "isTrue": false
+      },
+      {
+        "answer": "kątnicę z wyrostkiem robaczkowym można zbadać per rectum",
+        "isTrue": false
+      },
+      {
+        "answer": "wyrostek robaczkowy odchodzi od tylno-przyśrodkowej ściany kątnicy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Dopływem/dopływami żyły głównej dolnej nie jest/nie są:",
+    "answers": [
+      {
+        "answer": "żyła nadnerczowa prawa",
+        "isTrue": false
+      },
+      {
+        "answer": "żyły lędźwiowe",
+        "isTrue": false
+      },
+      {
+        "answer": "żyły przeponowe dolne",
+        "isTrue": false
+      },
+      {
+        "answer": "żyła jądrowa lewa",
+        "isTrue": true
+      },
+      {
+        "answer": "żyła nerkowa lewa",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Nieprawdą jest, że plexus hypogastricus superior:",
+    "answers": [
+      {
+        "answer": "jest przedłużeniem splotu międzykrezkowego",
+        "isTrue": false
+      },
+      {
+        "answer": "dochodzą do niego włókna przywspółczulne od nerwów trzewnych miednicznych",
+        "isTrue": false
+      },
+      {
+        "answer": "leży do przodu od dolnego odcinka aorty brzusznej",
+        "isTrue": false
+      },
+      {
+        "answer": "dzieli się na dwa nerwy podbrzuszne",
+        "isTrue": false
+      },
+      {
+        "answer": "oddaje gałęzie do splotu biodrowego, moczowodowego i nerkowego",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Do narządów położonych wtórnie zaotrzewnowo nie należy/-ą:",
+    "answers": [
+      {
+        "answer": "Okrężnica zstępująca",
+        "isTrue": false
+      },
+      {
+        "answer": "Brzuszne odcinki moczowodów",
+        "isTrue": true
+      },
+      {
+        "answer": "Trzustka",
+        "isTrue": false
+      },
+      {
+        "answer": "Kątnica przytwierdzona",
+        "isTrue": false
+      },
+      {
+        "answer": "Okrężnica wstępująca",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Przednia powierzchnia lewej nerki nie sąsiaduje z:",
+    "answers": [
+      {
+        "answer": "Żołądkiem",
+        "isTrue": false
+      },
+      {
+        "answer": "Trzonem trzustki",
+        "isTrue": false
+      },
+      {
+        "answer": "Nadnerczem lewym",
+        "isTrue": false
+      },
+      {
+        "answer": "Zgięciem wątrobowym okrężnicy",
+        "isTrue": true
+      },
+      {
+        "answer": "Pętlami jelita cienkiego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Przednia powierzchnia aorty brzusznej nie jest krzyżowana przez:",
+    "answers": [
+      {
+        "answer": "Trzon trzustki",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyłę śledzionową",
+        "isTrue": false
+      },
+      {
+        "answer": "Korzeń krezki jelita cienkiego",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyły lędźwiowe lewe",
+        "isTrue": true
+      },
+      {
+        "answer": "Żyłę nerkową lewą",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Sploty pochodne splotu trzewnego dzielimy na nieparzyste i parzyste. Które z niżej wymienionych zaliczamy do splotów nieparzystych?",
+    "answers": [
+      {
+        "answer": "Splot przeponowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Splot wątrobowy",
+        "isTrue": true
+      },
+      {
+        "answer": "Splot nerkowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Splot nadnerczowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Splot jądrowy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Którą z wymienionych struktur zawiera rozstęp naczyń?",
+    "answers": [
+      {
+        "answer": "Nerw udowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Mięsień biodrowo-lędźwiowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Węzeł chłonny rozstępowy przyśrodkowy",
+        "isTrue": true
+      },
+      {
+        "answer": "Więzadło biodrowo-grzebieniowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Nerw skórny boczny uda",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Tylna ściana żołądka nie sąsiaduje z:",
+    "answers": [
+      {
+        "answer": "Lewym płatem wątroby",
+        "isTrue": true
+      },
+      {
+        "answer": "Śledzioną",
+        "isTrue": false
+      },
+      {
+        "answer": "Przeponą",
+        "isTrue": false
+      },
+      {
+        "answer": "Okrężnicą poprzeczną",
+        "isTrue": false
+      },
+      {
+        "answer": "Przez torbę sieciową z trzonem trzustki",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Które z wymienionych niżej węzłów chłonnych nie należą do węzłów chłonnych lokalnych żołądka?",
+    "answers": [
+      {
+        "answer": "Węzły chłonne żołądkowe górne",
+        "isTrue": false
+      },
+      {
+        "answer": "Węzły chłonne żołądkowe pośrednie",
+        "isTrue": true
+      },
+      {
+        "answer": "Węzły chłonne żołądkowe dolne",
+        "isTrue": false
+      },
+      {
+        "answer": "Węzły chłonne trzustkowo-śledzionowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Węzły chłonne odźwiernikowe",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Mięsień skośny brzucha zewnętrzny rozpoczyna się na:",
+    "answers": [
+      {
+        "answer": "Powierzchni wewnętrznej żeber V-XII",
+        "isTrue": false
+      },
+      {
+        "answer": "Na wardze zewnętrznej grzebienia kości łonowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Na wardze wewnętrznej grzebienia biodrowego",
+        "isTrue": false
+      },
+      {
+        "answer": "Na kresie pośredniej grzebienia biodrowego",
+        "isTrue": false
+      },
+      {
+        "answer": "Powierzchni zewnętrznej żeber V-XII",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Spośród wymienionych wybierz te, do których odpływa krew po wytworzeniu krążenia obocznego przy utrudnieniu odpływu z żyły wrotnej: 1. żyły przełykowe, 2. żyła odbytnicza górna, 3. zespół połączeń żylnych Retziusa, 4. naczynia żylne okołopępkowe, 5. żyła żołądkowa lewa:",
+    "answers": [
+      {
+        "answer": "1",
+        "isTrue": false
+      },
+      {
+        "answer": "1, 2",
+        "isTrue": false
+      },
+      {
+        "answer": "1, 3",
+        "isTrue": false
+      },
+      {
+        "answer": "1, 2, 4",
+        "isTrue": false
+      },
+      {
+        "answer": "1, 2, 3, 4, 5",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Przerzuty nowotworowe najczęściej rozsiewane są drogą chłonki lub krwi. Źródłem przerzutu do nadnercza najprawdopodobniej będzie: ?",
+    "answers": [
+      {
+        "answer": "płuco drogą krwionośną",
+        "isTrue": false
+      },
+      {
+        "answer": "płuco drogą chłonki",
+        "isTrue": false
+      },
+      {
+        "answer": "nerka drogą chłonki",
+        "isTrue": false
+      },
+      {
+        "answer": "nerka drogą krwionośną",
+        "isTrue": false
+      },
+      {
+        "answer": "wątroba drogą chłonki",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Prawdą o lumbar triangle/ trigonum lumbale Petiti jest:",
+    "answers": [
+      {
+        "answer": "Przechodzi przez niego przepuklina załonowa",
+        "isTrue": false
+      },
+      {
+        "answer": "Dno stanowi m.obliquus abdominalis internus",
+        "isTrue": false
+      },
+      {
+        "answer": "Przechodzi przez niego przepuklina lędźwiowa",
+        "isTrue": false
+      },
+      {
+        "answer": "Prawdziwe są odpowiedzi b i c",
+        "isTrue": true
+      },
+      {
+        "answer": "Prawdziwe są odpowiedzi a i b",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Nieprawdą o badaniu per rectum jest:",
+    "answers": [
+      {
+        "answer": "Występują różnice w tworach anatomicznych możliwych do zbadania u obu płci",
+        "isTrue": false
+      },
+      {
+        "answer": "Kość krzyżowa jest dostępna w badaniu u obu płci",
+        "isTrue": false
+      },
+      {
+        "answer": "Nie da się zbadać trzonu macicy u kobiet",
+        "isTrue": false
+      },
+      {
+        "answer": "Jest metodą badania gruczołu krokowego u mężczyzn",
+        "isTrue": false
+      },
+      {
+        "answer": "Można zbadać trzon pęcherza moczowego u mężczyzn",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Które stwierdzenie dotyczące moczowodów jest nieprawdziwe:",
+    "answers": [
+      {
+        "answer": "Od przodu krzyżuje nerw płciowo-udowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Do przodu od prawego moczowodu znajduje się krezka jelita cienkiego i nn. okrężnicze prawe",
+        "isTrue": false
+      },
+      {
+        "answer": "Do przodu od lewego moczowodu leżą krezka esicy i nn. jądrowe lub jajnikowe lewe",
+        "isTrue": false
+      },
+      {
+        "answer": "Moczowód rozpoczyna się w przedłużeniu miedniczki nerkowej na wysokości L2",
+        "isTrue": false
+      },
+      {
+        "answer": "Brak moczowodu jest wadą rozwojową, niezależnie od obecności lub braku nerki",
+        "isTrue": true
+      }
+    ]
+  }
+]

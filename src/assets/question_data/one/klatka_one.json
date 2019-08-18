@@ -1,1 +1,1744 @@
-[{"id":0,"question":"Wskaż zdanie nieprawdziwe:","answers":[{"answer":"Żyła nieparzysta rozpoczyna się pod prawym więzadłem łukowatym przepony.","isTrue":false},{"answer":"Żyła nieparzysta powstaje z przedłużenia żyły lędźwiowej wstępującej prawej, która biegnie najczęściej wraz z nerwem trzewnym większym.","isTrue":false},{"answer":"Powierzchnię tylną żyły nieparzystej krzyżują tętnice międzyżebrowe tylne prawe, a przyśrodkowo sąsiaduje z aortą piersiową i przewodem piersiowym.","isTrue":false},{"answer":"Żyła nieparzysta krótka na wysokości Th10 przechodzi na prawą stronę kręgosłupa, uchodząc do żyły nieparzystej.","isTrue":false},{"answer":"Żyła nieparzysta krótka dodatkowa na wysokości Th7/Th8 uchodzi do żyły nieparzystej krótkiej lub przechodzi na prawą stronę, uchodząc bezpośrednio do żyły nieparzystej","isTrue":false}]},{"id":1,"question":"Do dopływów ściennych vena azygos nie należy","answers":[{"answer":"Żyła przeponowa górna prawa","isTrue":false},{"answer":"Żyły osierdziowe","isTrue":false},{"answer":"Żyła międzyżebrowa górna prawa","isTrue":false},{"answer":"Żyła podżebrowa prawa","isTrue":false},{"answer":"Sploty żylne kręgowe zewnętrzne","isTrue":false}]},{"id":2,"question":"Wskaż zdanie prawdziwe:","answers":[{"answer":"Aorta wstępująca wychodzi z lewej komory serca na wysokości IV przestrzeni międzyżebrowej.","isTrue":false},{"answer":"Aorta wstępująca sąsiaduje z lewym przedsionkiem, żyłą główną górną, lewym uszkiem i pniem płucnym.","isTrue":false},{"answer":"Łuk aorty rozpoczyna się na poziomie III stawu mostkowo-żebrowego po stronie prawej i kończy na stronie lewej krążka międzykręgowego pomiędzy Th4 i Th5.","isTrue":false},{"answer":"Z przodu i z lewej strony łuk aorty sąsiaduje z lewą żyłą ramienno-głowową i lewym nerwem błędnym.","isTrue":false},{"answer":"Począwszy od wysokości Th8 część piersiowa aorty zstępującej leży do przodu od przełyku.","isTrue":false}]},{"id":3,"question":"W wykonaniu głębokiego wdechu NIE bierze udziału:","answers":[{"answer":"Mięsień piersiowy większy","isTrue":false},{"answer":"Mięśnie pochyłe","isTrue":false},{"answer":"Mięsień poprzeczny klatki piersiowej","isTrue":false},{"answer":"Mięsień mostkowo-obojczykowo-sutkowy","isTrue":false},{"answer":"Mięsień zębaty przedni","isTrue":false}]},{"id":4,"question":"Jakie struktury nie uchodzą bezpośrednio do prawego przedsionka:","answers":[{"answer":"Zatoka wieńcowa","isTrue":false},{"answer":"Ż. główna górna","isTrue":false},{"answer":"Ż. sercowa mała","isTrue":false},{"answer":"Żż. Serca przednie","isTrue":false},{"answer":"Żyły serca najmniejsze","isTrue":false}]},{"id":5,"question":"Przez jakie struktury jest utworzona przednia powierzchnia serca:","answers":[{"answer":"część lewej komory","isTrue":false},{"answer":"część prawej komory","isTrue":false},{"answer":"prawy przedsionek","isTrue":false},{"answer":"lewe uszko","isTrue":false},{"answer":"wszystkie z powyższych","isTrue":false}]},{"id":6,"question":"Które ze zdań jest prawidłowe","answers":[{"answer":"koniuszek serca należy w całości do lewej komory","isTrue":false},{"answer":"koniuszek serca częściowo należy do lewej komory","isTrue":false},{"answer":"podstawa serca jest utworzona w całości przez lewy przedsionek","isTrue":false},{"answer":"wszystkie powyżej","isTrue":false},{"answer":"żadne z powyższych","isTrue":false}]},{"id":7,"question":"Jak rzutujemy punkt dolny lewy (punkt koniuszka serca)?","answers":[{"answer":"w II przestrzeni międzyżebrowej lewej","isTrue":false},{"answer":"w V przestrzeni międzyżebrowej prawej","isTrue":false},{"answer":"w VI przestrzeni międzyżebrowej lewej","isTrue":false},{"answer":"w II przestrzeni międzyżebrowej prawej","isTrue":false},{"answer":"brak prawidłowej odpowiedzi","isTrue":false}]},{"id":8,"question":"Które ze zdań jest prawidłowe:","answers":[{"answer":"pęczek Brechenmachera łączy mięśniówkę lewego przedsionka z pęczkiem przedsionkowo-komorowym","isTrue":false},{"answer":"w lewym przedsionku grzebień graniczny zaznacza się granice między uszkiem a pozostałą częścią przedsionka","isTrue":false},{"answer":"uszka są pozostałościami rozwojowymi embrionalnych przedsionków","isTrue":false},{"answer":"szczątkowa zastawka to inaczej zastawka pnia płucnego","isTrue":false},{"answer":"odpowiednikiem grzebienia granicznego we wnętrzu prawego przedsionka jest rowek graniczny","isTrue":false}]},{"id":9,"question":"Które ze zdań jest nieprawidłowe:","answers":[{"answer":"w przegrodzie międzyprzedsionkowej znajduje się fossa ovalis","isTrue":false},{"answer":"mięśniówka przedsionków jest dwuwarstwowa","isTrue":false},{"answer":"mięśniówka komór jest trójwarstwowa","isTrue":false},{"answer":"na koniuszku serca znajdziemy tzw. vortex cordis","isTrue":false},{"answer":"wszystkie zdania są prawidłowe","isTrue":false}]},{"id":10,"question":"Zastawkę aorty osłuchujemy:","answers":[{"answer":"w III prawej przestrzeni międzyżebrowej","isTrue":false},{"answer":"w III lewej przestrzeni międzyżebrowej","isTrue":false},{"answer":"w II prawej przestrzeni międzyżebrowej","isTrue":false},{"answer":"w IV lewej przestrzeni międzyżebrowej","isTrue":false},{"answer":"w V lewej przestrzeni międzyżebrowej","isTrue":false}]},{"id":11,"question":"Do łopatki nie przyczepia się mięsień:","answers":[{"answer":"czworoboczny","isTrue":false},{"answer":"najszerszy grzbietu","isTrue":false},{"answer":"równoległoboczny","isTrue":false},{"answer":"zębaty przedni","isTrue":false},{"answer":"piersiowy większy","isTrue":false}]},{"id":12,"question":"Wybierz zdanie prawdziwe:","answers":[{"answer":"Lewy n. przeponowy owija się na koniuszku serca","isTrue":false},{"answer":"Kąt mostkowy jest na wysokości przyczepu III chrząstki żebrowej do mostka","isTrue":false},{"answer":"Ogon Spence’a istnieje u 50% ludzi w populacji polskiej","isTrue":false},{"answer":"Gruczoł sutkowy spoczywa głównie na m. poprzecznym klatki piersiowej","isTrue":false},{"answer":"M. najszerszy grzbietu przyczepia się do przyśrodkowego brzegu łopatki","isTrue":false}]},{"id":13,"question":"Część szyjna tchawicy NIE sąsiaduje z:","answers":[{"answer":"Przełykiem","isTrue":false},{"answer":"splotem żylnym tarczowym","isTrue":false},{"answer":"płatem bocznym tarczycy","isTrue":false},{"answer":"pęczkiem naczyniowo-nerwowym szyi","isTrue":false},{"answer":"Grasicą","isTrue":false}]},{"id":14,"question":"Nieprawdą jest, że:","answers":[{"answer":"nasierdzie jest unerwione przez splot sercowy","isTrue":false},{"answer":"serce leży w śródpiersiu dolnym środkowym","isTrue":false},{"answer":"tchawica sąsiaduje z łukiem aorty","isTrue":false},{"answer":"tchawica jest unaczyniona przez gałęzie tchawicze tętnic tarczowych górnych","isTrue":false},{"answer":"liczba chrząstek oskrzelowych po lewej stronie jest większa niż po prawej","isTrue":false}]},{"id":15,"question":"Nieprawdą o tchawicy jest:","answers":[{"answer":"u dorosłego rozpoczyna się na wysokości C5","isTrue":false},{"answer":"jej koniec dolny jest umocowany przez tzw. błonę oskrzelowo-osierdziową","isTrue":false},{"answer":"u dorosłego kończy się na wysokości Th4 rozdwojeniem tchawicy","isTrue":false},{"answer":"jest unerwiana przez włókna parasympatyczne przedzwojowe pochodzące od nerwów błędnych","isTrue":false},{"answer":"odcinek dolny leży w śródpiersiu górnym","isTrue":false}]},{"id":16,"question":"Zatoka poprzeczna osierdzia NIE jest ograniczona przez:","answers":[{"answer":"powierzchnię przednią obu przedsionków","isTrue":false},{"answer":"ścianą tylną aorty wstępującej","isTrue":false},{"answer":"blaszką ścienną osierdzia rozpiętą między żylnym i tętniczym końcem serca","isTrue":false},{"answer":"ścianą tylną pnia płucnego","isTrue":false},{"answer":"powierzchnią tylną przedsionków","isTrue":false}]},{"id":17,"question":"Nieprawdą jest, że do gałęzi płata górnego płuca należy:","answers":[{"answer":"Gałąź szczytowa","isTrue":false},{"answer":"Gałąź podstawna przednia","isTrue":false},{"answer":"Gałąź języczkowa górna","isTrue":false},{"answer":"Gałąź tylna zstępująca","isTrue":false},{"answer":"Gałąź przednia wstępująca","isTrue":false}]},{"id":18,"question":"Strefa oddechowa płuc rozpoczyna się od:","answers":[{"answer":"Podziału oskrzelików końcowych na oskrzeliki oddechowe","isTrue":false},{"answer":"Pęcherzyków płucnych","isTrue":false},{"answer":"Podziału oskrzeli podsegmentowych na oskrzeliki","isTrue":false},{"answer":"Od podziału oskrzelików oddechowych na przewodziki pęcherzykowe","isTrue":false},{"answer":"Żadne z powyższych","isTrue":false}]},{"id":19,"question":"Anatomiczna przestrzeń martwa płuc obejmuje:","answers":[{"answer":"Jamę nosową","isTrue":false},{"answer":"Gardło i krtań","isTrue":false},{"answer":"Tchawicę","isTrue":false},{"answer":"Drzewo oskrzelowe","isTrue":false},{"answer":"Wszystkie z powyższych","isTrue":false}]},{"id":20,"question":"Prawdziwe jest zdanie:","answers":[{"answer":"Żyły oskrzelowe po stronie lewej uchodzą do żyły nieparzystej","isTrue":false},{"answer":"Tętnica płucna prawa dzieli się na 2 tętnice płatowe","isTrue":false},{"answer":"Pień płucny dzieli się na 2 tętnice płucne na wysokości III przestrzeni międzyżebrowej","isTrue":false},{"answer":"Unaczynienie odżywcze płuc pochodzi z rozgałęzień tętnic oskrzelowych","isTrue":false},{"answer":"Żadne z powyższych","isTrue":false}]},{"id":21,"question":"Prawdziwe jest zdanie:","answers":[{"answer":"We wnęce płuca prawego wyróżniamy oskrzele nad- i podtętnicze","isTrue":false},{"answer":"Oskrzele główne prawe odchodzi od tchawicy pod większym kątem niż lewe","isTrue":false},{"answer":"W płucu lewym wyróżniamy szczelinę poziomą i skośną","isTrue":false},{"answer":"Na powierzchni śródpiersiowej płuca prawego znajduje się bruzda aorty zstępującej","isTrue":false},{"answer":"Wszystkie zdania są prawdziwe","isTrue":false}]},{"id":22,"question":"Sploty płucne NIE unerwiają","answers":[{"answer":"Mięśniówkę naczyń krwionośnych","isTrue":false},{"answer":"Mięśniówkę oskrzeli","isTrue":false},{"answer":"Gruczoły błony śluzowej oskrzeli","isTrue":false},{"answer":"Miąższ płuca","isTrue":false},{"answer":"Żadna z odpowiedzi nie jest prawidłowa","isTrue":false}]},{"id":23,"question":"Prawdziwe jest zadanie:","answers":[{"answer":"Ruchy żeber I- VI powodują zwiększenie strzałkowego wymiaru klatki piersiowej","isTrue":false},{"answer":"Ruchy żeber VII- X powodują zwiększenie poprzecznego wymiaru klatki piersiowej","isTrue":false},{"answer":"Skurcz przepony powoduje zwiększenie pionowego wymiaru klatki piersiowej","isTrue":false},{"answer":"Zasadniczymi mięśniami wdechowymi są przepona i mięśnie międzyżebrowe zewnętrzne","isTrue":false},{"answer":"Wszystkie odpowiedzi są prawdziwe","isTrue":false}]},{"id":24,"question":"W wykonaniu głębokiego wdechu nie uczestniczą:","answers":[{"answer":"Mięśnie piersiowe większe","isTrue":false},{"answer":"Mięśnie zębate tylne górne","isTrue":false},{"answer":"Mięśnie pochyłe","isTrue":false},{"answer":"Mięśnie międzyżebrowe wewnętrzne","isTrue":false},{"answer":"Mięśnie mostkowo-obojczykowo-sutkowe","isTrue":false}]},{"id":25,"question":"W śródpiersiu zatchawiczym NIE znajdziemy:","answers":[{"answer":"Przełyku","isTrue":false},{"answer":"Żyły nieparzystej","isTrue":false},{"answer":"Nerwu krtaniowego wstecznego lewego","isTrue":false},{"answer":"Nerwu błędnego prawego","isTrue":false},{"answer":"Górnych odcinków pni sympatycznych","isTrue":false}]},{"id":26,"question":"Rzut opłucnej ściennej prawej krzyżuje:","answers":[{"answer":"Żebro V w linii przymostkowej","isTrue":false},{"answer":"Żebro VIII w linii środkowo-obojczykowej","isTrue":false},{"answer":"Żebro IX w linii pachowej","isTrue":false},{"answer":"Żebro X w linii łopatkowej","isTrue":false},{"answer":"Wszystkie odpowiedzi prawidłowe","isTrue":false}]},{"id":27,"question":"Łuk aorty:","answers":[{"answer":"Rozpoczyna się na wysokości II stawu mostkowo-żebrowego po stronie prawej","isTrue":false},{"answer":"Kończy się na stronie lewej krążka międzykręgowego między Th4 a Th5","isTrue":false},{"answer":"Od strony wklęsłej łuku odchodzi więzadło tętnicze i tętnice oskrzelowe lewe","isTrue":false},{"answer":"Sąsiaduje z żyłą ramienno-głowową, przewodem piersiowym i lewym nerwem błędnym","isTrue":false},{"answer":"Wszystkie odpowiedzi prawidłowe","isTrue":false}]},{"id":28,"question":"Który zachyłek opłucnowy jest największy:","answers":[{"answer":"Żebrowo-śródpiersiowy przedni","isTrue":false},{"answer":"Żebrowo-przeponowy","isTrue":false},{"answer":"Przeponowo-śródpiersiowy","isTrue":false},{"answer":"Żebrowo-śródpiersiowy tylny","isTrue":false},{"answer":"Wszystkie mają taką samą wielkość","isTrue":false}]},{"id":29,"question":"Prawdą jest że:","answers":[{"answer":"Do płuca wchodzą żyły płucne","isTrue":false},{"answer":"Języczek płuca należy do płata dolnego","isTrue":false},{"answer":"Ligamentum pulmonale jest utworzone przez opłucną krezkową","isTrue":false},{"answer":"W płucu prawym, we wnęce najwyżej leży tętnica płucna","isTrue":false},{"answer":"Wycisk sercowy jest głębszy na płucu prawym","isTrue":false}]},{"id":30,"question":"Na powierzchni śródpiersiowej płuca prawego nie wyróżniamy:","answers":[{"answer":"Bruzdy dla przełyku","isTrue":false},{"answer":"Bruzdy dla żyły głównej dolnej","isTrue":false},{"answer":"Bruzdy dla tętnicy podobojczykowej prawej","isTrue":false},{"answer":"Bruzda dla aorty zstępującej","isTrue":false},{"answer":"Wycisku sercowego","isTrue":false}]},{"id":31,"question":"Rzut szczeliny skośnej płuca w V przestrzeni międzyżebrowej biegnie w linii:","answers":[{"answer":"Środkowej ciała tylnej","isTrue":false},{"answer":"Pachowej środkowej","isTrue":false},{"answer":"Mostkowej","isTrue":false},{"answer":"Przymostkowej","isTrue":false},{"answer":"Środkowo- obojczykowej","isTrue":false}]},{"id":32,"question":"Nieprawda o opłucnej ściennej:","answers":[{"answer":"Jest unaczyniona przez tętnice przeponowe górne","isTrue":false},{"answer":"Ogranicza zachyłki opłucnej","isTrue":false},{"answer":"Jest unaczyniona przez gałęzie opłucnowe tętnic międzyżebrowych tylnych","isTrue":false},{"answer":"Wnika w głąb szczelin płuca","isTrue":false},{"answer":"Jest unerwiona przez nervus phrenicus","isTrue":false}]},{"id":33,"question":"Tętnica wieńcowa lewa zwykle unaczynia wszystko poniżej, oprócz:","answers":[{"answer":"komory prawej","isTrue":false},{"answer":"komory lewej","isTrue":false},{"answer":"przedsionka prawego","isTrue":false},{"answer":"przedsionka lewego","isTrue":false},{"answer":"przednia część przegrody międzykomorowej","isTrue":false}]},{"id":34,"question":"Zaznacz BŁĘDNĄ odpowiedź dotyczącą naczyń wieńcowych:","answers":[{"answer":"tętnica wieńcowa prawa oddaje gałąź międzykomorową tylną","isTrue":false},{"answer":"tętnica wieńcowa lewa zaopatruje mięśnie brodawkowate przedni i tylny komory lewej","isTrue":false},{"answer":"tętnica wieńcowa lewa oddaje gałąź międzykomorową przednią","isTrue":false},{"answer":"tętnica wieńcowa prawa unaczynia część powierzchni przeponowej komory lewej","isTrue":false},{"answer":"tętnica wieńcowa lewa unaczynia przednią ścianę komory prawej","isTrue":false}]},{"id":35,"question":"Zaznacz prawidłową odpowiedź dotyczącą naczyń wieńcowych:","answers":[{"answer":"żyła sercowa mała towarzyszy tętnicy wieńcowej lewej","isTrue":false},{"answer":"żyła sercowa wielka towarzyszy tętnicy wieńcowej prawej lub jej gałęzi","isTrue":false},{"answer":"żyła sercowa średnia biegnie w bruździe międzykomorowej przedniej","isTrue":false},{"answer":"żyła sercowa mała biegnie na powierzchni przedniej serca","isTrue":false},{"answer":"żyła sercowa wielka towarzyszy gałęziom tętnicy wieńcowej lewej","isTrue":false}]},{"id":36,"question":"Przez zatokę wieńcową do przedsionka prawego nie uchodzi/ą:","answers":[{"answer":"żyły serca przednie","isTrue":false},{"answer":"żyła skośna przedsionka lewego","isTrue":false},{"answer":"żyła serca wielka","isTrue":false},{"answer":"żyła tylna komory lewej","isTrue":false},{"answer":"żyła sercowa średnia","isTrue":false}]},{"id":37,"question":"Zaznacz prawidłową odpowiedź dotyczącą zatoki wieńcowej:","answers":[{"answer":"uchodzi na ścianie przedniej do przedsionka prawego","isTrue":false},{"answer":"leży w bruździe wieńcowej między przedsionkiem prawym a komorą prawą","isTrue":false},{"answer":"leży w bruździe wieńcowej między przedsionkiem lewym, a komorą lewą","isTrue":false},{"answer":"przyjmuje całą krew żylną z serca","isTrue":false},{"answer":"jest miejscem połączenia żyły głównej górnej i żyły głównej dolnej","isTrue":false}]},{"id":38,"question":"Splot sercowy NIE powstaje z:","answers":[{"answer":"nerwów sercowych piersiowych od pnia współczulnego","isTrue":false},{"answer":"nerwów sercowych szyjnych tylnych od pnia współczulnego","isTrue":false},{"answer":"nerwów sercowych szyjnych dolnych od pnia współczulnego","isTrue":false},{"answer":"gałęzi sercowych szyjnych górnych nerwu błędnego","isTrue":false},{"answer":"gałęzi sercowych szyjnych dolnych nerwu błędnego","isTrue":false}]},{"id":39,"question":"Prawdą jest, że:","answers":[{"answer":"żyła serca wielka towarzyszy tętnicy wieńcowej prawej lub jej gałęzi","isTrue":false},{"answer":"tętnica wieńcowa prawa unaczynia część lewego przedsionka","isTrue":false},{"answer":"zatoka wieńcowa uchodzi na ścianie tylnej przedsionka prawego","isTrue":false},{"answer":"tętnica wieńcowa prawa oddaje gałąź okalającą","isTrue":false},{"answer":"żyły sercowe najmniejsze uchodzą do zatoki wieńcowej","isTrue":false}]},{"id":40,"question":"Głównymi mięśniami wydechowymi są:","answers":[{"answer":"mm. międzyżebrowe wewnętrzne","isTrue":false},{"answer":"mm. międzyżebrowe zewnętrzne","isTrue":false},{"answer":"m. poprzeczny klatki piersiowej","isTrue":false},{"answer":"mm. pochyłe","isTrue":false},{"answer":"Żadna odpowiedź nie jest prawidłowa","isTrue":false}]},{"id":41,"question":"Do jakich struktur przyczepia się mięsień piersiowy mniejszy?:","answers":[{"answer":"Do guzka większego kości ramiennej","isTrue":false},{"answer":"Do wyrostka kruczego łopatki","isTrue":false},{"answer":"Do przyśrodkowej połowy obojczyka","isTrue":false},{"answer":"Do żeber kostnych II-VI","isTrue":false},{"answer":"do powierzchni przedniej mostka","isTrue":false}]},{"id":42,"question":"Musculus serratus anterior jest unerwiony przez:","answers":[{"answer":"nerw piersiowy przedni","isTrue":false},{"answer":"nerw piersiowy długi","isTrue":false},{"answer":"nerw podobojczykowy","isTrue":false},{"answer":"nerw piersiowo-grzbietowy","isTrue":false},{"answer":"nerw grzbietowy łopatki","isTrue":false}]},{"id":43,"question":"Prawdą jest, że:","answers":[{"answer":"przepona przyczepia się powierzchni zewnętrznej wyrostka mieczykowatego","isTrue":false},{"answer":"rozwór przełykowy znajduję się na wysokości Th10","isTrue":false},{"answer":"przez hiatus esophageus przechodzi przewód piersiowy","isTrue":false},{"answer":"więzadło łukowate boczne przyczepia się do wyrostka żebrowego L2","isTrue":false},{"answer":"przyczep końcowy mięśnia piersiowego większego leży na grzebieniu guzka mniejszego kości ramiennej","isTrue":false}]},{"id":44,"question":"Przez szczelinę przyśrodkową prawej odnogi przepony przechodzą :","answers":[{"answer":"naczynia nabrzuszne górne","isTrue":false},{"answer":"żyła nieparzysta","isTrue":false},{"answer":"żyła główna dolna","isTrue":false},{"answer":"żyła nieparzysta krótka","isTrue":false},{"answer":"brak prawidłowej odpowiedzi","isTrue":false}]},{"id":45,"question":"Prawdą jest że","answers":[{"answer":"aorta przechodzi przez przeponę na wysokości Th10","isTrue":false},{"answer":"przewód piersiowy przechodzi przez przeponę wraz z żyłą główną dolną","isTrue":false},{"answer":"więzadło łukowate przyśrodkowe biegnie nad m. quadratus lumborum","isTrue":false},{"answer":"otwór żyły głównej znajduje się na wysokości Th12","isTrue":false},{"answer":"więzadło łukowate boczne biegnie nad m. quadratus lumborum","isTrue":false}]},{"id":46,"question":"Włókna mięśnia międzyżebrowego zewnętrznego przebiegają :","answers":[{"answer":"chaotycznie","isTrue":false},{"answer":"od góry i przodu do tyłu i ku dołowi","isTrue":false},{"answer":"zgodnie z przebiegiem włókien mięśnia skośnego brzucha wewnętrznego","isTrue":false},{"answer":"od góry i tyłu ku dołowi i do przodu","isTrue":false},{"answer":"zgodnie z przebiegiem włókien mięśnia poprzecznego brzucha","isTrue":false}]},{"id":47,"question":"Nieprawdą jest :","answers":[{"answer":"Mięsień zębaty przedni jest unerwiony przez n.thoracicus longus","isTrue":false},{"answer":"mięsień dźwigacz łopatki przyczepia się do wyrostków poprzecznych C1-C4","isTrue":false},{"answer":"musculus trapezius przyczepia się do guzowatości potylicznej zewnętrznej","isTrue":false},{"answer":"mięsień najszerszy grzbietu unerwiony jest przez nerw piersiowy długi","isTrue":false},{"answer":"mięsień piersiowy mniejszy przyczepia się do wyrostka kruczego łopatki","isTrue":false}]},{"id":48,"question":"Przez szczelinę przyśrodkową w odnodze przepony po stronie lewej przechodzi:","answers":[{"answer":"vena hemiazygos","isTrue":false},{"answer":"nerw trzewny wiekszy","isTrue":false},{"answer":"przewód piersiowy","isTrue":false},{"answer":"dwie odpowiedzi są prawidłowe","isTrue":false},{"answer":"wszystkie odpowiedzi są prawidłowe","isTrue":false}]},{"id":49,"question":"Od strony wklęsłej łuku aorty może odchodzić:","answers":[{"answer":"Tętnica podobojczykowa lewa","isTrue":false},{"answer":"Tętnica przeponowa górna","isTrue":false},{"answer":"Tętnica oskrzelowa lewa","isTrue":false},{"answer":"Pień ramienno-głowowy","isTrue":false},{"answer":"Tętnica wieńcowa prawa","isTrue":false}]},{"id":50,"question":"Prawdą jest, że:","answers":[{"answer":"Warstwa tętnic w śródpiersiu przedtchawiczym położona jest do przodu od płaszczyzny żył","isTrue":false},{"answer":"Przejście łuku aorty w aortę zstępującą odbywa się na wysokości krążka międzykręgowego Th4/Th5","isTrue":false},{"answer":"Cieśń aorty znajduje się pomiędzy pniem ramienno-głowowym a tętnicą szyjną wspólną lewą","isTrue":false},{"answer":"Przewód piersiowy uchodzi do prawego kąta żylnego","isTrue":false},{"answer":"Jednym z bezpośrednich odgałęzień aorty jest tętnica szyjna wspólna prawa","isTrue":false}]},{"id":51,"question":"Prawdą o nerwie przeponowym jest to, że:","answers":[{"answer":"Pochodzi ze splotu ramiennego","isTrue":false},{"answer":"Jednym z jego składników jest komponenta parasympatyczna","isTrue":false},{"answer":"Prawy nerw przeponowy dochodzi do przepony w towarzystwie żyły głównej dolnej","isTrue":false},{"answer":"Unerwia mięśnie międzyżebrowe","isTrue":false},{"answer":"Prawy nerw przeponowy owija się na koniuszku serca","isTrue":false}]},{"id":52,"question":"Śródpiersie dolne środkowe zawiera:","answers":[{"answer":"Naczynia osierdziowo- przeponowe","isTrue":false},{"answer":"Żyłę wielką serca","isTrue":false},{"answer":"Zatokę wieńcową","isTrue":false},{"answer":"Odcinki nerwów przeponowych","isTrue":false},{"answer":"Wszystkie wymienione","isTrue":false}]},{"id":53,"question":"Nerw błędny prawy:","answers":[{"answer":"Tworzy splot przełykowy tylny","isTrue":false},{"answer":"Wchodzi do klatki piersiowej bocznie od nerwu przeponowego prawego","isTrue":false},{"answer":"Biegnie w śródpiersiu dolnym przednim","isTrue":false},{"answer":"Tworzy pień błędny tylny, który jest słabszy niż pień błędny przedni","isTrue":false},{"answer":"Oddaje w odcinku głowowym gałąź gardłową","isTrue":false}]},{"id":54,"question":"Do odgałęzień nerwu błędnego należą:","answers":[{"answer":"Nerw krtaniowy wsteczny lewy","isTrue":false},{"answer":"Nerw krtaniowy wsteczny prawy","isTrue":false},{"answer":"Gałąź oponowa","isTrue":false},{"answer":"Gałęzie sercowe szyjne górne","isTrue":false},{"answer":"Wszystkie wymienione","isTrue":false}]},{"id":55,"question":"Której struktury nie unaczynia lewa tętnica wieńcowa?","answers":[{"answer":"Lewy przedsionek","isTrue":false},{"answer":"Prawy przedsionek","isTrue":false},{"answer":"Lewa komora","isTrue":false},{"answer":"Mięsień brodawkowaty przedni prawej komory","isTrue":false},{"answer":"Mięsień brodawkowaty przedni lewej komory","isTrue":false}]},{"id":56,"question":"Umowna płaszczyzna dzieląca śródpiersie górne i dolne, przechodzę przez?","answers":[{"answer":"Rękojeść mostka i krążek międzykręgowy pomiędzy Th5 i Th6","isTrue":false},{"answer":"Kąt mostka i krążek międzykręgowy pomiędzy Th5 i Th6","isTrue":false},{"answer":"Rękojeść mostka i trzon kręgu Th6","isTrue":false},{"answer":"Kąt mostka i krążek międzykręgowy pomiędzy Th4 i Th5","isTrue":false},{"answer":"Kąt mostka i trzon kręgu Th6","isTrue":false}]},{"id":57,"question":"Której z wymienionych struktur nie znajdziemy w śródpiersiu przedtchawicznym?","answers":[{"answer":"Żyła główna górna","isTrue":false},{"answer":"Łuk aorty","isTrue":false},{"answer":"Węzły chłonne zamostkowe","isTrue":false},{"answer":"Węzły chłonne śródpiersiowe przednie","isTrue":false},{"answer":"Nerwy sercowe szyjne górne środkowe i dolne","isTrue":false}]},{"id":58,"question":"Wskaż zdanie fałszywe:","answers":[{"answer":"Trójkąt grasiczy od boków jest ograniczony przez opłucne ścienne śródpiersiowe","isTrue":false},{"answer":"Grasica jest zbudowana z dwóch symetrycznych płatów","isTrue":false},{"answer":"Inwolucja to zjawisko stopniowej zmiany składu procentowego gruczołu na rzecz tkanki tłuszczowej","isTrue":false},{"answer":"Unerwienie pochodzi z gałęzi grasiczych nerwów błędnych","isTrue":false},{"answer":"Żyły grasicze uchodzą do żył piersiowych wewnętrznych","isTrue":false}]},{"id":59,"question":"Które z wymienionych żył nie są dopływem ż. głównej górnej:","answers":[{"answer":"Żyły osierdziowe","isTrue":false},{"answer":"Żyły grasicze","isTrue":false},{"answer":"Żyły tchawicze","isTrue":false},{"answer":"Żyła nieparzysta.","isTrue":false},{"answer":"Żyły śródpiersiowe przednie","isTrue":false}]},{"id":60,"question":"Jakiej struktury nie znajdziemy w otworze górnym klatki piersiowej?","answers":[{"answer":"Przełyk","isTrue":false},{"answer":"Żyły kręgowe","isTrue":false},{"answer":"Grasica","isTrue":false},{"answer":"Przewód piersiowy","isTrue":false},{"answer":"Łuk aorty","isTrue":false}]},{"id":61,"question":"Do gałęzi trzewnych aorty piersiowej zaliczamy:","answers":[{"answer":"Tętnica przeponowe górne","isTrue":false},{"answer":"Tętnice oskrzelowe lewe","isTrue":false},{"answer":"Tętnice podżebrowe","isTrue":false},{"answer":"Tętnice między żebrowe tylne III-XI","isTrue":false},{"answer":"Wszystkie powyżej","isTrue":false}]},{"id":62,"question":"Wskaż zdanie prawdziwe. Niezależnie od układu tętniczego występują:","answers":[{"answer":"żyły piersiowe wewnętrzne","isTrue":false},{"answer":"żyły międzyżebrowe przednie","isTrue":false},{"answer":"żyły międzyżebrowe tylne","isTrue":false},{"answer":"żyły nieparzyste","isTrue":false},{"answer":"żyły piersiowe zewnętrzne","isTrue":false}]},{"id":63,"question":"Do unaczynienia tętniczego przepony NIE należą:","answers":[{"answer":"tętnice osierdziowo-przeponowe","isTrue":false},{"answer":"tętnice mięśniowo-przeponowe","isTrue":false},{"answer":"gałęzie mięśniowe dolnych tętnic międzyżebrowych tylnych","isTrue":false},{"answer":"tętnice piersiowe wewnętrzne","isTrue":false},{"answer":"tętnice piersiowe najwyższe","isTrue":false}]},{"id":64,"question":"Wskaż zdanie prawdziwe. Przepona:","answers":[{"answer":"jest głównym mięśniem wydechowym","isTrue":false},{"answer":"jej skurcz powoduje jej podniesienie","isTrue":false},{"answer":"jej skurcz powoduje sprężenie płuc","isTrue":false},{"answer":"jej skurcz powoduje wydech","isTrue":false},{"answer":"jej rozkurcz jest aktem biernym","isTrue":false}]},{"id":65,"question":"Do części mięśniowej przepony NIE należy:","answers":[{"answer":"część mostkowa","isTrue":false},{"answer":"część żebrowa","isTrue":false},{"answer":"odnoga przyśrodkowa","isTrue":false},{"answer":"środek ścięgnisty","isTrue":false},{"answer":"odnoga boczna","isTrue":false}]},{"id":66,"question":"Przez rozwór przełykowy NIE przechodzi:","answers":[{"answer":"pień błędny przedni","isTrue":false},{"answer":"pień błędny tylny","isTrue":false},{"answer":"przewód piersiowy","isTrue":false},{"answer":"gałęzie naczyń żołądkowych lewych","isTrue":false},{"answer":"gałąź lewego nerwu przeponowego","isTrue":false}]}]
+[
+  {
+    "id": 0,
+    "question": "Wskaż zdanie nieprawdziwe:",
+    "answers": [
+      {
+        "answer": "Żyła nieparzysta rozpoczyna się pod prawym więzadłem łukowatym przepony.",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyła nieparzysta powstaje z przedłużenia żyły lędźwiowej wstępującej prawej, która biegnie najczęściej wraz z nerwem trzewnym większym.",
+        "isTrue": false
+      },
+      {
+        "answer": "Powierzchnię tylną żyły nieparzystej krzyżują tętnice międzyżebrowe tylne prawe, a przyśrodkowo sąsiaduje z aortą piersiową i przewodem piersiowym.",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyła nieparzysta krótka na wysokości Th10 przechodzi na prawą stronę kręgosłupa, uchodząc do żyły nieparzystej.",
+        "isTrue": true
+      },
+      {
+        "answer": "Żyła nieparzysta krótka dodatkowa na wysokości Th7/Th8 uchodzi do żyły nieparzystej krótkiej lub przechodzi na prawą stronę, uchodząc bezpośrednio do żyły nieparzystej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "question": "Do dopływów ściennych vena azygos nie należy",
+    "answers": [
+      {
+        "answer": "Żyła przeponowa górna prawa",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyły osierdziowe",
+        "isTrue": true
+      },
+      {
+        "answer": "Żyła międzyżebrowa górna prawa",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyła podżebrowa prawa",
+        "isTrue": false
+      },
+      {
+        "answer": "Sploty żylne kręgowe zewnętrzne",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Wskaż zdanie prawdziwe:",
+    "answers": [
+      {
+        "answer": "Aorta wstępująca wychodzi z lewej komory serca na wysokości IV przestrzeni międzyżebrowej.",
+        "isTrue": false
+      },
+      {
+        "answer": "Aorta wstępująca sąsiaduje z lewym przedsionkiem, żyłą główną górną, lewym uszkiem i pniem płucnym.",
+        "isTrue": false
+      },
+      {
+        "answer": "Łuk aorty rozpoczyna się na poziomie III stawu mostkowo-żebrowego po stronie prawej i kończy na stronie lewej krążka międzykręgowego pomiędzy Th4 i Th5.",
+        "isTrue": false
+      },
+      {
+        "answer": "Z przodu i z lewej strony łuk aorty sąsiaduje z lewą żyłą ramienno-głowową i lewym nerwem błędnym.",
+        "isTrue": true
+      },
+      {
+        "answer": "Począwszy od wysokości Th8 część piersiowa aorty zstępującej leży do przodu od przełyku.",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "W wykonaniu głębokiego wdechu NIE bierze udziału:",
+    "answers": [
+      {
+        "answer": "Mięsień piersiowy większy",
+        "isTrue": false
+      },
+      {
+        "answer": "Mięśnie pochyłe",
+        "isTrue": false
+      },
+      {
+        "answer": "Mięsień poprzeczny klatki piersiowej",
+        "isTrue": true
+      },
+      {
+        "answer": "Mięsień mostkowo-obojczykowo-sutkowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Mięsień zębaty przedni",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Jakie struktury nie uchodzą bezpośrednio do prawego przedsionka:",
+    "answers": [
+      {
+        "answer": "Zatoka wieńcowa",
+        "isTrue": false
+      },
+      {
+        "answer": "Ż. główna górna",
+        "isTrue": false
+      },
+      {
+        "answer": "Ż. sercowa mała",
+        "isTrue": true
+      },
+      {
+        "answer": "Żż. Serca przednie",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyły serca najmniejsze",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Przez jakie struktury jest utworzona przednia powierzchnia serca:",
+    "answers": [
+      {
+        "answer": "część lewej komory",
+        "isTrue": false
+      },
+      {
+        "answer": "część prawej komory",
+        "isTrue": false
+      },
+      {
+        "answer": "prawy przedsionek",
+        "isTrue": false
+      },
+      {
+        "answer": "lewe uszko",
+        "isTrue": false
+      },
+      {
+        "answer": "wszystkie z powyższych",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Które ze zdań jest prawidłowe",
+    "answers": [
+      {
+        "answer": "koniuszek serca należy w całości do lewej komory",
+        "isTrue": true
+      },
+      {
+        "answer": "koniuszek serca częściowo należy do lewej komory",
+        "isTrue": false
+      },
+      {
+        "answer": "podstawa serca jest utworzona w całości przez lewy przedsionek",
+        "isTrue": false
+      },
+      {
+        "answer": "wszystkie powyżej",
+        "isTrue": false
+      },
+      {
+        "answer": "żadne z powyższych",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Jak rzutujemy punkt dolny lewy (punkt koniuszka serca)?",
+    "answers": [
+      {
+        "answer": "w II przestrzeni międzyżebrowej lewej",
+        "isTrue": false
+      },
+      {
+        "answer": "w V przestrzeni międzyżebrowej prawej",
+        "isTrue": false
+      },
+      {
+        "answer": "w VI przestrzeni międzyżebrowej lewej",
+        "isTrue": false
+      },
+      {
+        "answer": "w II przestrzeni międzyżebrowej prawej",
+        "isTrue": false
+      },
+      {
+        "answer": "brak prawidłowej odpowiedzi",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Które ze zdań jest prawidłowe:",
+    "answers": [
+      {
+        "answer": "pęczek Brechenmachera łączy mięśniówkę lewego przedsionka z pęczkiem przedsionkowo-komorowym",
+        "isTrue": false
+      },
+      {
+        "answer": "w lewym przedsionku grzebień graniczny zaznacza się granice między uszkiem a pozostałą częścią przedsionka",
+        "isTrue": false
+      },
+      {
+        "answer": "uszka są pozostałościami rozwojowymi embrionalnych przedsionków",
+        "isTrue": true
+      },
+      {
+        "answer": "szczątkowa zastawka to inaczej zastawka pnia płucnego",
+        "isTrue": false
+      },
+      {
+        "answer": "odpowiednikiem grzebienia granicznego we wnętrzu prawego przedsionka jest rowek graniczny",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Które ze zdań jest nieprawidłowe:",
+    "answers": [
+      {
+        "answer": "w przegrodzie międzyprzedsionkowej znajduje się fossa ovalis",
+        "isTrue": false
+      },
+      {
+        "answer": "mięśniówka przedsionków jest dwuwarstwowa",
+        "isTrue": false
+      },
+      {
+        "answer": "mięśniówka komór jest trójwarstwowa",
+        "isTrue": false
+      },
+      {
+        "answer": "na koniuszku serca znajdziemy tzw. vortex cordis",
+        "isTrue": false
+      },
+      {
+        "answer": "wszystkie zdania są prawidłowe",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Zastawkę aorty osłuchujemy:",
+    "answers": [
+      {
+        "answer": "w III prawej przestrzeni międzyżebrowej",
+        "isTrue": false
+      },
+      {
+        "answer": "w III lewej przestrzeni międzyżebrowej",
+        "isTrue": false
+      },
+      {
+        "answer": "w II prawej przestrzeni międzyżebrowej",
+        "isTrue": true
+      },
+      {
+        "answer": "w IV lewej przestrzeni międzyżebrowej",
+        "isTrue": false
+      },
+      {
+        "answer": "w V lewej przestrzeni międzyżebrowej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Do łopatki nie przyczepia się mięsień:",
+    "answers": [
+      {
+        "answer": "czworoboczny",
+        "isTrue": false
+      },
+      {
+        "answer": "najszerszy grzbietu",
+        "isTrue": false
+      },
+      {
+        "answer": "równoległoboczny",
+        "isTrue": false
+      },
+      {
+        "answer": "zębaty przedni",
+        "isTrue": false
+      },
+      {
+        "answer": "piersiowy większy",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Wybierz zdanie prawdziwe:",
+    "answers": [
+      {
+        "answer": "Lewy n. przeponowy owija się na koniuszku serca",
+        "isTrue": true
+      },
+      {
+        "answer": "Kąt mostkowy jest na wysokości przyczepu III chrząstki żebrowej do mostka",
+        "isTrue": false
+      },
+      {
+        "answer": "Ogon Spence’a istnieje u 50% ludzi w populacji polskiej",
+        "isTrue": false
+      },
+      {
+        "answer": "Gruczoł sutkowy spoczywa głównie na m. poprzecznym klatki piersiowej",
+        "isTrue": false
+      },
+      {
+        "answer": "M. najszerszy grzbietu przyczepia się do przyśrodkowego brzegu łopatki",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Część szyjna tchawicy NIE sąsiaduje z:",
+    "answers": [
+      {
+        "answer": "Przełykiem",
+        "isTrue": false
+      },
+      {
+        "answer": "splotem żylnym tarczowym",
+        "isTrue": false
+      },
+      {
+        "answer": "płatem bocznym tarczycy",
+        "isTrue": false
+      },
+      {
+        "answer": "pęczkiem naczyniowo-nerwowym szyi",
+        "isTrue": false
+      },
+      {
+        "answer": "Grasicą",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Nieprawdą jest, że:",
+    "answers": [
+      {
+        "answer": "nasierdzie jest unerwione przez splot sercowy",
+        "isTrue": false
+      },
+      {
+        "answer": "serce leży w śródpiersiu dolnym środkowym",
+        "isTrue": false
+      },
+      {
+        "answer": "tchawica sąsiaduje z łukiem aorty",
+        "isTrue": false
+      },
+      {
+        "answer": "tchawica jest unaczyniona przez gałęzie tchawicze tętnic tarczowych górnych",
+        "isTrue": true
+      },
+      {
+        "answer": "liczba chrząstek oskrzelowych po lewej stronie jest większa niż po prawej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Nieprawdą o tchawicy jest:",
+    "answers": [
+      {
+        "answer": "u dorosłego rozpoczyna się na wysokości C5",
+        "isTrue": true
+      },
+      {
+        "answer": "jej koniec dolny jest umocowany przez tzw. błonę oskrzelowo-osierdziową",
+        "isTrue": false
+      },
+      {
+        "answer": "u dorosłego kończy się na wysokości Th4 rozdwojeniem tchawicy",
+        "isTrue": false
+      },
+      {
+        "answer": "jest unerwiana przez włókna parasympatyczne przedzwojowe pochodzące od nerwów błędnych",
+        "isTrue": false
+      },
+      {
+        "answer": "odcinek dolny leży w śródpiersiu górnym",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Zatoka poprzeczna osierdzia NIE jest ograniczona przez:",
+    "answers": [
+      {
+        "answer": "powierzchnię przednią obu przedsionków",
+        "isTrue": false
+      },
+      {
+        "answer": "ścianą tylną aorty wstępującej",
+        "isTrue": false
+      },
+      {
+        "answer": "blaszką ścienną osierdzia rozpiętą między żylnym i tętniczym końcem serca",
+        "isTrue": false
+      },
+      {
+        "answer": "ścianą tylną pnia płucnego",
+        "isTrue": false
+      },
+      {
+        "answer": "powierzchnią tylną przedsionków",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Nieprawdą jest, że do gałęzi płata górnego płuca należy:",
+    "answers": [
+      {
+        "answer": "Gałąź szczytowa",
+        "isTrue": false
+      },
+      {
+        "answer": "Gałąź podstawna przednia",
+        "isTrue": true
+      },
+      {
+        "answer": "Gałąź języczkowa górna",
+        "isTrue": false
+      },
+      {
+        "answer": "Gałąź tylna zstępująca",
+        "isTrue": false
+      },
+      {
+        "answer": "Gałąź przednia wstępująca",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Strefa oddechowa płuc rozpoczyna się od:",
+    "answers": [
+      {
+        "answer": "Podziału oskrzelików końcowych na oskrzeliki oddechowe",
+        "isTrue": true
+      },
+      {
+        "answer": "Pęcherzyków płucnych",
+        "isTrue": false
+      },
+      {
+        "answer": "Podziału oskrzeli podsegmentowych na oskrzeliki",
+        "isTrue": false
+      },
+      {
+        "answer": "Od podziału oskrzelików oddechowych na przewodziki pęcherzykowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Żadne z powyższych",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Anatomiczna przestrzeń martwa płuc obejmuje:",
+    "answers": [
+      {
+        "answer": "Jamę nosową",
+        "isTrue": false
+      },
+      {
+        "answer": "Gardło i krtań",
+        "isTrue": false
+      },
+      {
+        "answer": "Tchawicę",
+        "isTrue": false
+      },
+      {
+        "answer": "Drzewo oskrzelowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Wszystkie z powyższych",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Prawdziwe jest zdanie:",
+    "answers": [
+      {
+        "answer": "Żyły oskrzelowe po stronie lewej uchodzą do żyły nieparzystej",
+        "isTrue": false
+      },
+      {
+        "answer": "Tętnica płucna prawa dzieli się na 2 tętnice płatowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Pień płucny dzieli się na 2 tętnice płucne na wysokości III przestrzeni międzyżebrowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Unaczynienie odżywcze płuc pochodzi z rozgałęzień tętnic oskrzelowych",
+        "isTrue": true
+      },
+      {
+        "answer": "Żadne z powyższych",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Prawdziwe jest zdanie:",
+    "answers": [
+      {
+        "answer": "We wnęce płuca prawego wyróżniamy oskrzele nad- i podtętnicze",
+        "isTrue": true
+      },
+      {
+        "answer": "Oskrzele główne prawe odchodzi od tchawicy pod większym kątem niż lewe",
+        "isTrue": false
+      },
+      {
+        "answer": "W płucu lewym wyróżniamy szczelinę poziomą i skośną",
+        "isTrue": false
+      },
+      {
+        "answer": "Na powierzchni śródpiersiowej płuca prawego znajduje się bruzda aorty zstępującej",
+        "isTrue": false
+      },
+      {
+        "answer": "Wszystkie zdania są prawdziwe",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Sploty płucne NIE unerwiają",
+    "answers": [
+      {
+        "answer": "Mięśniówkę naczyń krwionośnych",
+        "isTrue": false
+      },
+      {
+        "answer": "Mięśniówkę oskrzeli",
+        "isTrue": false
+      },
+      {
+        "answer": "Gruczoły błony śluzowej oskrzeli",
+        "isTrue": false
+      },
+      {
+        "answer": "Miąższ płuca",
+        "isTrue": true
+      },
+      {
+        "answer": "Żadna z odpowiedzi nie jest prawidłowa",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Prawdziwe jest zadanie:",
+    "answers": [
+      {
+        "answer": "Ruchy żeber I- VI powodują zwiększenie strzałkowego wymiaru klatki piersiowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Ruchy żeber VII- X powodują zwiększenie poprzecznego wymiaru klatki piersiowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Skurcz przepony powoduje zwiększenie pionowego wymiaru klatki piersiowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Zasadniczymi mięśniami wdechowymi są przepona i mięśnie międzyżebrowe zewnętrzne",
+        "isTrue": false
+      },
+      {
+        "answer": "Wszystkie odpowiedzi są prawdziwe",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "W wykonaniu głębokiego wdechu nie uczestniczą:",
+    "answers": [
+      {
+        "answer": "Mięśnie piersiowe większe",
+        "isTrue": false
+      },
+      {
+        "answer": "Mięśnie zębate tylne górne",
+        "isTrue": false
+      },
+      {
+        "answer": "Mięśnie pochyłe",
+        "isTrue": false
+      },
+      {
+        "answer": "Mięśnie międzyżebrowe wewnętrzne",
+        "isTrue": true
+      },
+      {
+        "answer": "Mięśnie mostkowo-obojczykowo-sutkowe",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "W śródpiersiu zatchawiczym NIE znajdziemy:",
+    "answers": [
+      {
+        "answer": "Przełyku",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyły nieparzystej",
+        "isTrue": false
+      },
+      {
+        "answer": "Nerwu krtaniowego wstecznego lewego",
+        "isTrue": false
+      },
+      {
+        "answer": "Nerwu błędnego prawego",
+        "isTrue": true
+      },
+      {
+        "answer": "Górnych odcinków pni sympatycznych",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Rzut opłucnej ściennej prawej krzyżuje:",
+    "answers": [
+      {
+        "answer": "Żebro V w linii przymostkowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Żebro VIII w linii środkowo-obojczykowej",
+        "isTrue": true
+      },
+      {
+        "answer": "Żebro IX w linii pachowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Żebro X w linii łopatkowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Wszystkie odpowiedzi prawidłowe",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Łuk aorty:",
+    "answers": [
+      {
+        "answer": "Rozpoczyna się na wysokości II stawu mostkowo-żebrowego po stronie prawej",
+        "isTrue": false
+      },
+      {
+        "answer": "Kończy się na stronie lewej krążka międzykręgowego między Th4 a Th5",
+        "isTrue": false
+      },
+      {
+        "answer": "Od strony wklęsłej łuku odchodzi więzadło tętnicze i tętnice oskrzelowe lewe",
+        "isTrue": false
+      },
+      {
+        "answer": "Sąsiaduje z żyłą ramienno-głowową, przewodem piersiowym i lewym nerwem błędnym",
+        "isTrue": false
+      },
+      {
+        "answer": "Wszystkie odpowiedzi prawidłowe",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Który zachyłek opłucnowy jest największy:",
+    "answers": [
+      {
+        "answer": "Żebrowo-śródpiersiowy przedni",
+        "isTrue": false
+      },
+      {
+        "answer": "Żebrowo-przeponowy",
+        "isTrue": true
+      },
+      {
+        "answer": "Przeponowo-śródpiersiowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Żebrowo-śródpiersiowy tylny",
+        "isTrue": false
+      },
+      {
+        "answer": "Wszystkie mają taką samą wielkość",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Prawdą jest że:",
+    "answers": [
+      {
+        "answer": "Do płuca wchodzą żyły płucne",
+        "isTrue": false
+      },
+      {
+        "answer": "Języczek płuca należy do płata dolnego",
+        "isTrue": false
+      },
+      {
+        "answer": "Ligamentum pulmonale jest utworzone przez opłucną krezkową",
+        "isTrue": true
+      },
+      {
+        "answer": "W płucu prawym, we wnęce najwyżej leży tętnica płucna",
+        "isTrue": false
+      },
+      {
+        "answer": "Wycisk sercowy jest głębszy na płucu prawym",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Na powierzchni śródpiersiowej płuca prawego nie wyróżniamy:",
+    "answers": [
+      {
+        "answer": "Bruzdy dla przełyku",
+        "isTrue": false
+      },
+      {
+        "answer": "Bruzdy dla żyły głównej dolnej",
+        "isTrue": false
+      },
+      {
+        "answer": "Bruzdy dla tętnicy podobojczykowej prawej",
+        "isTrue": false
+      },
+      {
+        "answer": "Bruzda dla aorty zstępującej",
+        "isTrue": true
+      },
+      {
+        "answer": "Wycisku sercowego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Rzut szczeliny skośnej płuca w V przestrzeni międzyżebrowej biegnie w linii:",
+    "answers": [
+      {
+        "answer": "Środkowej ciała tylnej",
+        "isTrue": false
+      },
+      {
+        "answer": "Pachowej środkowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Mostkowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Przymostkowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Środkowo- obojczykowej",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Nieprawda o opłucnej ściennej:",
+    "answers": [
+      {
+        "answer": "Jest unaczyniona przez tętnice przeponowe górne",
+        "isTrue": false
+      },
+      {
+        "answer": "Ogranicza zachyłki opłucnej",
+        "isTrue": false
+      },
+      {
+        "answer": "Jest unaczyniona przez gałęzie opłucnowe tętnic międzyżebrowych tylnych",
+        "isTrue": false
+      },
+      {
+        "answer": "Wnika w głąb szczelin płuca",
+        "isTrue": true
+      },
+      {
+        "answer": "Jest unerwiona przez nervus phrenicus",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Tętnica wieńcowa lewa zwykle unaczynia wszystko poniżej, oprócz:",
+    "answers": [
+      {
+        "answer": "komory prawej",
+        "isTrue": false
+      },
+      {
+        "answer": "komory lewej",
+        "isTrue": false
+      },
+      {
+        "answer": "przedsionka prawego",
+        "isTrue": true
+      },
+      {
+        "answer": "przedsionka lewego",
+        "isTrue": false
+      },
+      {
+        "answer": "przednia część przegrody międzykomorowej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Zaznacz BŁĘDNĄ odpowiedź dotyczącą naczyń wieńcowych:",
+    "answers": [
+      {
+        "answer": "tętnica wieńcowa prawa oddaje gałąź międzykomorową tylną",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnica wieńcowa lewa zaopatruje mięśnie brodawkowate przedni i tylny komory lewej",
+        "isTrue": true
+      },
+      {
+        "answer": "tętnica wieńcowa lewa oddaje gałąź międzykomorową przednią",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnica wieńcowa prawa unaczynia część powierzchni przeponowej komory lewej",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnica wieńcowa lewa unaczynia przednią ścianę komory prawej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Zaznacz prawidłową odpowiedź dotyczącą naczyń wieńcowych:",
+    "answers": [
+      {
+        "answer": "żyła sercowa mała towarzyszy tętnicy wieńcowej lewej",
+        "isTrue": false
+      },
+      {
+        "answer": "żyła sercowa wielka towarzyszy tętnicy wieńcowej prawej lub jej gałęzi",
+        "isTrue": false
+      },
+      {
+        "answer": "żyła sercowa średnia biegnie w bruździe międzykomorowej przedniej",
+        "isTrue": false
+      },
+      {
+        "answer": "żyła sercowa mała biegnie na powierzchni przedniej serca",
+        "isTrue": false
+      },
+      {
+        "answer": "żyła sercowa wielka towarzyszy gałęziom tętnicy wieńcowej lewej",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Przez zatokę wieńcową do przedsionka prawego nie uchodzi/ą:",
+    "answers": [
+      {
+        "answer": "żyły serca przednie",
+        "isTrue": true
+      },
+      {
+        "answer": "żyła skośna przedsionka lewego",
+        "isTrue": false
+      },
+      {
+        "answer": "żyła serca wielka",
+        "isTrue": false
+      },
+      {
+        "answer": "żyła tylna komory lewej",
+        "isTrue": false
+      },
+      {
+        "answer": "żyła sercowa średnia",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Zaznacz prawidłową odpowiedź dotyczącą zatoki wieńcowej:",
+    "answers": [
+      {
+        "answer": "uchodzi na ścianie przedniej do przedsionka prawego",
+        "isTrue": false
+      },
+      {
+        "answer": "leży w bruździe wieńcowej między przedsionkiem prawym a komorą prawą",
+        "isTrue": false
+      },
+      {
+        "answer": "leży w bruździe wieńcowej między przedsionkiem lewym, a komorą lewą",
+        "isTrue": true
+      },
+      {
+        "answer": "przyjmuje całą krew żylną z serca",
+        "isTrue": false
+      },
+      {
+        "answer": "jest miejscem połączenia żyły głównej górnej i żyły głównej dolnej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Splot sercowy NIE powstaje z:",
+    "answers": [
+      {
+        "answer": "nerwów sercowych piersiowych od pnia współczulnego",
+        "isTrue": false
+      },
+      {
+        "answer": "nerwów sercowych szyjnych tylnych od pnia współczulnego",
+        "isTrue": true
+      },
+      {
+        "answer": "nerwów sercowych szyjnych dolnych od pnia współczulnego",
+        "isTrue": false
+      },
+      {
+        "answer": "gałęzi sercowych szyjnych górnych nerwu błędnego",
+        "isTrue": false
+      },
+      {
+        "answer": "gałęzi sercowych szyjnych dolnych nerwu błędnego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Prawdą jest, że:",
+    "answers": [
+      {
+        "answer": "żyła serca wielka towarzyszy tętnicy wieńcowej prawej lub jej gałęzi",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnica wieńcowa prawa unaczynia część lewego przedsionka",
+        "isTrue": false
+      },
+      {
+        "answer": "zatoka wieńcowa uchodzi na ścianie tylnej przedsionka prawego",
+        "isTrue": true
+      },
+      {
+        "answer": "tętnica wieńcowa prawa oddaje gałąź okalającą",
+        "isTrue": false
+      },
+      {
+        "answer": "żyły sercowe najmniejsze uchodzą do zatoki wieńcowej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Głównymi mięśniami wydechowymi są:",
+    "answers": [
+      {
+        "answer": "mm. międzyżebrowe wewnętrzne",
+        "isTrue": false
+      },
+      {
+        "answer": "mm. międzyżebrowe zewnętrzne",
+        "isTrue": false
+      },
+      {
+        "answer": "m. poprzeczny klatki piersiowej",
+        "isTrue": false
+      },
+      {
+        "answer": "mm. pochyłe",
+        "isTrue": false
+      },
+      {
+        "answer": "Żadna odpowiedź nie jest prawidłowa",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Do jakich struktur przyczepia się mięsień piersiowy mniejszy?:",
+    "answers": [
+      {
+        "answer": "Do guzka większego kości ramiennej",
+        "isTrue": false
+      },
+      {
+        "answer": "Do wyrostka kruczego łopatki",
+        "isTrue": true
+      },
+      {
+        "answer": "Do przyśrodkowej połowy obojczyka",
+        "isTrue": false
+      },
+      {
+        "answer": "Do żeber kostnych II-VI",
+        "isTrue": false
+      },
+      {
+        "answer": "do powierzchni przedniej mostka",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Musculus serratus anterior jest unerwiony przez:",
+    "answers": [
+      {
+        "answer": "nerw piersiowy przedni",
+        "isTrue": false
+      },
+      {
+        "answer": "nerw piersiowy długi",
+        "isTrue": true
+      },
+      {
+        "answer": "nerw podobojczykowy",
+        "isTrue": false
+      },
+      {
+        "answer": "nerw piersiowo-grzbietowy",
+        "isTrue": false
+      },
+      {
+        "answer": "nerw grzbietowy łopatki",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Prawdą jest, że:",
+    "answers": [
+      {
+        "answer": "przepona przyczepia się powierzchni zewnętrznej wyrostka mieczykowatego",
+        "isTrue": false
+      },
+      {
+        "answer": "rozwór przełykowy znajduję się na wysokości Th10",
+        "isTrue": true
+      },
+      {
+        "answer": "przez hiatus esophageus przechodzi przewód piersiowy",
+        "isTrue": false
+      },
+      {
+        "answer": "więzadło łukowate boczne przyczepia się do wyrostka żebrowego L2",
+        "isTrue": false
+      },
+      {
+        "answer": "przyczep końcowy mięśnia piersiowego większego leży na grzebieniu guzka mniejszego kości ramiennej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Przez szczelinę przyśrodkową prawej odnogi przepony przechodzą :",
+    "answers": [
+      {
+        "answer": "naczynia nabrzuszne górne",
+        "isTrue": false
+      },
+      {
+        "answer": "żyła nieparzysta",
+        "isTrue": true
+      },
+      {
+        "answer": "żyła główna dolna",
+        "isTrue": false
+      },
+      {
+        "answer": "żyła nieparzysta krótka",
+        "isTrue": false
+      },
+      {
+        "answer": "brak prawidłowej odpowiedzi",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Prawdą jest że",
+    "answers": [
+      {
+        "answer": "aorta przechodzi przez przeponę na wysokości Th10",
+        "isTrue": false
+      },
+      {
+        "answer": "przewód piersiowy przechodzi przez przeponę wraz z żyłą główną dolną",
+        "isTrue": false
+      },
+      {
+        "answer": "więzadło łukowate przyśrodkowe biegnie nad m. quadratus lumborum",
+        "isTrue": false
+      },
+      {
+        "answer": "otwór żyły głównej znajduje się na wysokości Th12",
+        "isTrue": false
+      },
+      {
+        "answer": "więzadło łukowate boczne biegnie nad m. quadratus lumborum",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Włókna mięśnia międzyżebrowego zewnętrznego przebiegają :",
+    "answers": [
+      {
+        "answer": "chaotycznie",
+        "isTrue": false
+      },
+      {
+        "answer": "od góry i przodu do tyłu i ku dołowi",
+        "isTrue": false
+      },
+      {
+        "answer": "zgodnie z przebiegiem włókien mięśnia skośnego brzucha wewnętrznego",
+        "isTrue": false
+      },
+      {
+        "answer": "od góry i tyłu ku dołowi i do przodu",
+        "isTrue": true
+      },
+      {
+        "answer": "zgodnie z przebiegiem włókien mięśnia poprzecznego brzucha",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Nieprawdą jest :",
+    "answers": [
+      {
+        "answer": "Mięsień zębaty przedni jest unerwiony przez n.thoracicus longus",
+        "isTrue": false
+      },
+      {
+        "answer": "mięsień dźwigacz łopatki przyczepia się do wyrostków poprzecznych C1-C4",
+        "isTrue": false
+      },
+      {
+        "answer": "musculus trapezius przyczepia się do guzowatości potylicznej zewnętrznej",
+        "isTrue": false
+      },
+      {
+        "answer": "mięsień najszerszy grzbietu unerwiony jest przez nerw piersiowy długi",
+        "isTrue": true
+      },
+      {
+        "answer": "mięsień piersiowy mniejszy przyczepia się do wyrostka kruczego łopatki",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Przez szczelinę przyśrodkową w odnodze przepony po stronie lewej przechodzi:",
+    "answers": [
+      {
+        "answer": "vena hemiazygos",
+        "isTrue": false
+      },
+      {
+        "answer": "nerw trzewny wiekszy",
+        "isTrue": false
+      },
+      {
+        "answer": "przewód piersiowy",
+        "isTrue": false
+      },
+      {
+        "answer": "dwie odpowiedzi są prawidłowe",
+        "isTrue": true
+      },
+      {
+        "answer": "wszystkie odpowiedzi są prawidłowe",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Od strony wklęsłej łuku aorty może odchodzić:",
+    "answers": [
+      {
+        "answer": "Tętnica podobojczykowa lewa",
+        "isTrue": false
+      },
+      {
+        "answer": "Tętnica przeponowa górna",
+        "isTrue": false
+      },
+      {
+        "answer": "Tętnica oskrzelowa lewa",
+        "isTrue": true
+      },
+      {
+        "answer": "Pień ramienno-głowowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Tętnica wieńcowa prawa",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Prawdą jest, że:",
+    "answers": [
+      {
+        "answer": "Warstwa tętnic w śródpiersiu przedtchawiczym położona jest do przodu od płaszczyzny żył",
+        "isTrue": false
+      },
+      {
+        "answer": "Przejście łuku aorty w aortę zstępującą odbywa się na wysokości krążka międzykręgowego Th4/Th5",
+        "isTrue": true
+      },
+      {
+        "answer": "Cieśń aorty znajduje się pomiędzy pniem ramienno-głowowym a tętnicą szyjną wspólną lewą",
+        "isTrue": false
+      },
+      {
+        "answer": "Przewód piersiowy uchodzi do prawego kąta żylnego",
+        "isTrue": false
+      },
+      {
+        "answer": "Jednym z bezpośrednich odgałęzień aorty jest tętnica szyjna wspólna prawa",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Prawdą o nerwie przeponowym jest to, że:",
+    "answers": [
+      {
+        "answer": "Pochodzi ze splotu ramiennego",
+        "isTrue": false
+      },
+      {
+        "answer": "Jednym z jego składników jest komponenta parasympatyczna",
+        "isTrue": false
+      },
+      {
+        "answer": "Prawy nerw przeponowy dochodzi do przepony w towarzystwie żyły głównej dolnej",
+        "isTrue": true
+      },
+      {
+        "answer": "Unerwia mięśnie międzyżebrowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Prawy nerw przeponowy owija się na koniuszku serca",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Śródpiersie dolne środkowe zawiera:",
+    "answers": [
+      {
+        "answer": "Naczynia osierdziowo- przeponowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyłę wielką serca",
+        "isTrue": false
+      },
+      {
+        "answer": "Zatokę wieńcową",
+        "isTrue": false
+      },
+      {
+        "answer": "Odcinki nerwów przeponowych",
+        "isTrue": false
+      },
+      {
+        "answer": "Wszystkie wymienione",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Nerw błędny prawy:",
+    "answers": [
+      {
+        "answer": "Tworzy splot przełykowy tylny",
+        "isTrue": true
+      },
+      {
+        "answer": "Wchodzi do klatki piersiowej bocznie od nerwu przeponowego prawego",
+        "isTrue": false
+      },
+      {
+        "answer": "Biegnie w śródpiersiu dolnym przednim",
+        "isTrue": false
+      },
+      {
+        "answer": "Tworzy pień błędny tylny, który jest słabszy niż pień błędny przedni",
+        "isTrue": false
+      },
+      {
+        "answer": "Oddaje w odcinku głowowym gałąź gardłową",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Do odgałęzień nerwu błędnego należą:",
+    "answers": [
+      {
+        "answer": "Nerw krtaniowy wsteczny lewy",
+        "isTrue": false
+      },
+      {
+        "answer": "Nerw krtaniowy wsteczny prawy",
+        "isTrue": false
+      },
+      {
+        "answer": "Gałąź oponowa",
+        "isTrue": false
+      },
+      {
+        "answer": "Gałęzie sercowe szyjne górne",
+        "isTrue": false
+      },
+      {
+        "answer": "Wszystkie wymienione",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Której struktury nie unaczynia lewa tętnica wieńcowa?",
+    "answers": [
+      {
+        "answer": "Lewy przedsionek",
+        "isTrue": false
+      },
+      {
+        "answer": "Prawy przedsionek",
+        "isTrue": true
+      },
+      {
+        "answer": "Lewa komora",
+        "isTrue": false
+      },
+      {
+        "answer": "Mięsień brodawkowaty przedni prawej komory",
+        "isTrue": false
+      },
+      {
+        "answer": "Mięsień brodawkowaty przedni lewej komory",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Umowna płaszczyzna dzieląca śródpiersie górne i dolne, przechodzę przez?",
+    "answers": [
+      {
+        "answer": "Rękojeść mostka i krążek międzykręgowy pomiędzy Th5 i Th6",
+        "isTrue": false
+      },
+      {
+        "answer": "Kąt mostka i krążek międzykręgowy pomiędzy Th5 i Th6",
+        "isTrue": false
+      },
+      {
+        "answer": "Rękojeść mostka i trzon kręgu Th6",
+        "isTrue": false
+      },
+      {
+        "answer": "Kąt mostka i krążek międzykręgowy pomiędzy Th4 i Th5",
+        "isTrue": true
+      },
+      {
+        "answer": "Kąt mostka i trzon kręgu Th6",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Której z wymienionych struktur nie znajdziemy w śródpiersiu przedtchawicznym?",
+    "answers": [
+      {
+        "answer": "Żyła główna górna",
+        "isTrue": false
+      },
+      {
+        "answer": "Łuk aorty",
+        "isTrue": false
+      },
+      {
+        "answer": "Węzły chłonne zamostkowe",
+        "isTrue": true
+      },
+      {
+        "answer": "Węzły chłonne śródpiersiowe przednie",
+        "isTrue": false
+      },
+      {
+        "answer": "Nerwy sercowe szyjne górne środkowe i dolne",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Wskaż zdanie fałszywe:",
+    "answers": [
+      {
+        "answer": "Trójkąt grasiczy od boków jest ograniczony przez opłucne ścienne śródpiersiowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Grasica jest zbudowana z dwóch symetrycznych płatów",
+        "isTrue": true
+      },
+      {
+        "answer": "Inwolucja to zjawisko stopniowej zmiany składu procentowego gruczołu na rzecz tkanki tłuszczowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Unerwienie pochodzi z gałęzi grasiczych nerwów błędnych",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyły grasicze uchodzą do żył piersiowych wewnętrznych",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Które z wymienionych żył nie są dopływem ż. głównej górnej:",
+    "answers": [
+      {
+        "answer": "Żyły osierdziowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyły grasicze",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyły tchawicze",
+        "isTrue": true
+      },
+      {
+        "answer": "Żyła nieparzysta.",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyły śródpiersiowe przednie",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Jakiej struktury nie znajdziemy w otworze górnym klatki piersiowej?",
+    "answers": [
+      {
+        "answer": "Przełyk",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyły kręgowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Grasica",
+        "isTrue": false
+      },
+      {
+        "answer": "Przewód piersiowy",
+        "isTrue": false
+      },
+      {
+        "answer": "Łuk aorty",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Do gałęzi trzewnych aorty piersiowej zaliczamy:",
+    "answers": [
+      {
+        "answer": "Tętnica przeponowe górne",
+        "isTrue": false
+      },
+      {
+        "answer": "Tętnice oskrzelowe lewe",
+        "isTrue": true
+      },
+      {
+        "answer": "Tętnice podżebrowe",
+        "isTrue": false
+      },
+      {
+        "answer": "Tętnice między żebrowe tylne III-XI",
+        "isTrue": false
+      },
+      {
+        "answer": "Wszystkie powyżej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Wskaż zdanie prawdziwe. Niezależnie od układu tętniczego występują:",
+    "answers": [
+      {
+        "answer": "żyły piersiowe wewnętrzne",
+        "isTrue": false
+      },
+      {
+        "answer": "żyły międzyżebrowe przednie",
+        "isTrue": false
+      },
+      {
+        "answer": "żyły międzyżebrowe tylne",
+        "isTrue": false
+      },
+      {
+        "answer": "żyły nieparzyste",
+        "isTrue": true
+      },
+      {
+        "answer": "żyły piersiowe zewnętrzne",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Do unaczynienia tętniczego przepony NIE należą:",
+    "answers": [
+      {
+        "answer": "tętnice osierdziowo-przeponowe",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnice mięśniowo-przeponowe",
+        "isTrue": false
+      },
+      {
+        "answer": "gałęzie mięśniowe dolnych tętnic międzyżebrowych tylnych",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnice piersiowe wewnętrzne",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnice piersiowe najwyższe",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Wskaż zdanie prawdziwe. Przepona:",
+    "answers": [
+      {
+        "answer": "jest głównym mięśniem wydechowym",
+        "isTrue": false
+      },
+      {
+        "answer": "jej skurcz powoduje jej podniesienie",
+        "isTrue": false
+      },
+      {
+        "answer": "jej skurcz powoduje sprężenie płuc",
+        "isTrue": false
+      },
+      {
+        "answer": "jej skurcz powoduje wydech",
+        "isTrue": false
+      },
+      {
+        "answer": "jej rozkurcz jest aktem biernym",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Do części mięśniowej przepony NIE należy:",
+    "answers": [
+      {
+        "answer": "część mostkowa",
+        "isTrue": false
+      },
+      {
+        "answer": "część żebrowa",
+        "isTrue": false
+      },
+      {
+        "answer": "odnoga przyśrodkowa",
+        "isTrue": false
+      },
+      {
+        "answer": "środek ścięgnisty",
+        "isTrue": true
+      },
+      {
+        "answer": "odnoga boczna",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Przez rozwór przełykowy NIE przechodzi:",
+    "answers": [
+      {
+        "answer": "pień błędny przedni",
+        "isTrue": false
+      },
+      {
+        "answer": "pień błędny tylny",
+        "isTrue": false
+      },
+      {
+        "answer": "przewód piersiowy",
+        "isTrue": true
+      },
+      {
+        "answer": "gałęzie naczyń żołądkowych lewych",
+        "isTrue": false
+      },
+      {
+        "answer": "gałąź lewego nerwu przeponowego",
+        "isTrue": false
+      }
+    ]
+  }
+]

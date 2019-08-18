@@ -27,6 +27,8 @@ export class QuizMultiComponent implements OnInit {
   checkAnswers: boolean [];
   selectedData = 'brzuch';
 
+  // ng build --prod --output-path docs --base-href /anatomy-quiz/
+
   constructor() { }
 
   ngOnInit() {
