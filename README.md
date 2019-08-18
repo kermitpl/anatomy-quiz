@@ -1,6 +1,6 @@
 # AnatomyQuiz
 
-Angular webpage containing quiz, that helps medical students study for anatomy exam.
+Angular webpage containing quiz, that helps medical students learn for anatomy exam.
 
 ## Stage 1 (Completed)
 
