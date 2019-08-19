@@ -1,1 +1,750 @@
-[{"id":0,"question":"Sploty płucne unerwiają:","answers":[{"answer":"mięśniówkę naczyń krwionośnych","isTrue":false},{"answer":"mięśniówkę oskrzeli","isTrue":false},{"answer":"gruczoły błony śluzowej oskrzeli","isTrue":false},{"answer":"miąższ płuca","isTrue":false}]},{"id":1,"question":"Wybierz zdania prawdziwe dotyczące tworów przechodzących przez przeponę:","answers":[{"answer":"przewód piersiowy przechodzi na wysokości Th12","isTrue":false},{"answer":"pień współczulny przechodzi przez szczelinę przyśrodkową","isTrue":false},{"answer":"pnie błędne przedni i tylny przechodzą na wysokości Th10","isTrue":false},{"answer":"n. podżebrowy przechodzi przez szczelinę boczną","isTrue":false}]},{"id":2,"question":"W śródpiersiu zatchawiczym znajduje się:","answers":[{"answer":"Nerw krtaniowy wsteczny lewy","isTrue":false},{"answer":"Aorta piersiowa z rozgałęzieniami","isTrue":false},{"answer":"Żyła nieparzysta z dopływami","isTrue":false},{"answer":"Nerw trzewny większy","isTrue":false}]},{"id":3,"question":"Wskaż zdanie/zdania prawidłowo opisujące przełyk:","answers":[{"answer":"Część piersiowa rozpoczyna się na wysokości kąta mostka i dochodzi do rozworu przełykowego (Th10).","isTrue":false},{"answer":"Zwężenie górne leży na poziomie C6 przy przejściu gardła w przełyk.","isTrue":false},{"answer":"Zwężenie środkowe leży na poziomie Th6 i jest wytworzone przez aortę zstępującą oraz lewe oskrzele główne.","isTrue":false},{"answer":"Część brzuszna zawarta jest między przeponą a wpustem żołądka (Th10-Th11).","isTrue":false}]},{"id":4,"question":"Do gałęzi trzewnych części piersiowej aorty zstępującej zaliczymy:","answers":[{"answer":"Tętnice oskrzelowe lewe","isTrue":false},{"answer":"Gałęzie przełykowe","isTrue":false},{"answer":"Gałęzie śródpiersiowe","isTrue":false},{"answer":"Gałęzie osierdziowe","isTrue":false}]},{"id":5,"question":"Przewód piersiowy zbiera chłonkę z:","answers":[{"answer":"Lewej kończyny dolnej","isTrue":false},{"answer":"Prawej kończyny dolnej","isTrue":false},{"answer":"Lewej kończyny górnej","isTrue":false},{"answer":"Prawej kończyny górnej","isTrue":false}]},{"id":6,"question":"Przewód chłonny prawy zbiera chłonkę z:","answers":[{"answer":"Prawej połowy klatki piersiowej","isTrue":false},{"answer":"Lewej połowy klatki piersiowej","isTrue":false},{"answer":"Prawej połowy szyi","isTrue":false},{"answer":"Prawej kończyny dolnej","isTrue":false}]},{"id":7,"question":"Zaznacz zdania prawdziwe:","answers":[{"answer":"Nerw trzewny większy prowadzi włókna sympatyczne przedzwojowe, przechodzące tranzytem przez zwoje przykręgowe piersiowe od X do XI.","isTrue":false},{"answer":"Nerw trzewny większy w klatce oddaje gałęzie do splotu aortowego piersiowego, narządów śródpiersia i opłucnej śródpiersiowej.","isTrue":false},{"answer":"Nerw trzewny najniższy prowadzi włókna sympatyczne przedzwojowe, przechodzące tranzytem przez zwój przykręgowy piersiowy X.","isTrue":false},{"answer":"Nerw trzewny mniejszy do jamy brzusznej przechodzi przez odnogę przepony i dochodzi do dolnej części splotu trzewnego.","isTrue":false}]},{"id":8,"question":"Jakie ze zdań są prawidłowe o budowie komór serca:","answers":[{"answer":"wewnętrzna ściana każdej z komór jest pofałdowana w postaci tzw. trabeculae carneae","isTrue":false},{"answer":"w świetle każdej z komory znajdują się musculi pectinati","isTrue":false},{"answer":"w lewej komorze wyróżnia się dwa mięśnie brodawkowate","isTrue":false},{"answer":"mięsień brodawkowaty tylny prawej komory przyczepia się do tzw. Beleczki przegrodowo-brzeżnej","isTrue":false}]},{"id":9,"question":"Wskaż zdanie prawidłowe:","answers":[{"answer":"Nasierdzie jest unerwione przez splot sercowy.","isTrue":false},{"answer":"Żyły serca przednie uchodzą do lewego przedsionka.","isTrue":false},{"answer":"Gałąź przednia i przegrodowa lewej odnogi pęczka przedsionkowo-komorowego jest unaczyniona przez gałęzie przegrodowe lewej tętnicy wieńcowej.","isTrue":false},{"answer":"Do unaczynienia grasicy należą gałązki tętnic tarczowych górnych.","isTrue":false}]},{"id":10,"question":"Wskaż zdania prawdziwe:","answers":[{"answer":"Tętnica wieńcowa prawa zaopatruje układ przewodzący serca z wyjątkiem gałęzi tylnej i przegrodowej lewej odnogi pęczka przedsionkowo-komorowego","isTrue":false},{"answer":"Nasierdzie jest unaczynione przez gałęzie tętnic wieńcowych","isTrue":false},{"answer":"Do unaczynienia tchawicy należą gałęzie tętnic tarczowych górnych.","isTrue":false},{"answer":"Tętnice oskrzelowe prawe odchodzą od III i IV tętnicy międzyżebrowej tylnej prawej.","isTrue":false}]},{"id":11,"question":"Wskaż zdania prawidłowe:","answers":[{"answer":"Osklepek opłucnej ściennej prawej rzutujemy 3-4 cm powyżej końca mostkowego prawego obojczyka","isTrue":false},{"answer":"Szczelina pozioma płuca prawego biegnie wzdłuż IV żebra od linii pachowej tylnej do linii mostkowej","isTrue":false},{"answer":"zachyłek przeponowo-śródpiersiowy uwidacznia się w płaszczyźnie strzałkowej","isTrue":false},{"answer":"w wycisku sercowym prawego płuca układa się prawa komora i prawe uszko","isTrue":false}]},{"id":12,"question":"Wskaż zdania prawidłowe:","answers":[{"answer":"Zwężenie pnia płucnego należy do wad serca bezsinicznych","isTrue":false},{"answer":"Do wad z okresową sinicą zaliczamy ubytki w przegrodzie międzykomorowej.","isTrue":false},{"answer":"Zwężenie lewego ujścia żylnego jest cechą zespołu Lutembachera","isTrue":false},{"answer":"Zespół Ebsteina dotyczy wady zastawki trójdzielnej","isTrue":false}]},{"id":13,"question":"Wskaż zdania prawidłowe:","answers":[{"answer":"Tętnice międzyżebrowe przednie VII-XI pochodzą od tętnic mięśniowo-przeponowych","isTrue":false},{"answer":"Tętnice mięśniowo-przeponowe odchodzą od tętnic piersiowych wewnętrznych","isTrue":false},{"answer":"Żyły międzyżebrowe tylne lewe VII – XI uchodzą do żyły nieparzystej krótkiej","isTrue":false},{"answer":"Żyły szyjno-pachowe zespalają żyłę pachową z żyłą szyjną wewnętrzną","isTrue":false}]},{"id":14,"question":"W skład umocowania osklepka opłucnej wchodzą:","answers":[{"answer":"Błona nadopłucnowa","isTrue":false},{"answer":"Mięsień pochyły mniejszy","isTrue":false},{"answer":"Więzadło żebrowo-opłucnowe","isTrue":false},{"answer":"Więzadło płucne","isTrue":false}]},{"id":15,"question":"Do rodzajów opłucnej ściennej zaliczamy:","answers":[{"answer":"Opłucna ścienna przeponowa","isTrue":false},{"answer":"Opłucna ścienna śródpiersiowa","isTrue":false},{"answer":"Opłucna żebrowa","isTrue":false},{"answer":"Osklepek opłucnej","isTrue":false}]},{"id":16,"question":"Gdzie odpływa chłonka z opłucnej ściennej:","answers":[{"answer":"Węzły chłonne międzyżebrowe tylne","isTrue":false},{"answer":"Węzły chłonne zamostkowe","isTrue":false},{"answer":"Węzły chłonne śródpiersiowe tylne","isTrue":false},{"answer":"Węzły chłonne śródpiersiowe przednie","isTrue":false}]},{"id":17,"question":"W każdym płucu wyróżniamy:","answers":[{"answer":"Brzegi: przedni tępy, tylny ostry, dolny","isTrue":false},{"answer":"Wypukłą powierzchnię żebrową","isTrue":false},{"answer":"Języczek płuca","isTrue":false},{"answer":"Brzegi: przedni ostry, tylny tępy ,dolny","isTrue":false}]},{"id":18,"question":"W płucu prawym:","answers":[{"answer":"Szczelina pozioma oddziela płat górny od środkowego","isTrue":false},{"answer":"Szczelina pozioma oddziela płat górny od dolnego","isTrue":false},{"answer":"Szczelina skośna oddziela płat środkowy od dolnego","isTrue":false},{"answer":"Szczelina skośna oddziela płat środkowy od górnego","isTrue":false}]},{"id":19,"question":"Tętnica wieńcowa prawa unaczynia:","answers":[{"answer":"1/3 tylna przegrody międzykomorowej","isTrue":false},{"answer":"część powierzchni przeponowej komory lewej","isTrue":false},{"answer":"prawy przedsionek","isTrue":false},{"answer":"lewy przedsionek","isTrue":false}]},{"id":20,"question":"Żyła sercowa wielka:","answers":[{"answer":"biegnie w bruździe międzykomorowej przedniej","isTrue":false},{"answer":"towarzyszy gałęzi międzykomorowej przedniej prawej tętnicy wieńcowej","isTrue":false},{"answer":"rozpoczyna się w okolicy wcięcia koniuszka serca","isTrue":false},{"answer":"nie uchodzi do zatoki wieńcowej","isTrue":false}]},{"id":21,"question":"Prawdą jest, że:","answers":[{"answer":"tętnica wieńcowa lewa oddaje gałąź międzykomorową przednią","isTrue":false},{"answer":"żyła sercowa średnia uchodzi do zatoki wieńcowej","isTrue":false},{"answer":"tętnica wieńcowa prawa unaczynia 1/3 tylną przegrody międzykomorowej","isTrue":false},{"answer":"ujście zatoki wieńcowej do prawego przedsionka jest zaopatrzone w zastawkę","isTrue":false}]},{"id":22,"question":"Zaznacz zdania prawdziwe dotyczące szkieletu serca:","answers":[{"answer":"część błoniasta przegrody międzykomorowej należy do szkieletu serca i stanowi górną 1/6 tej przegrody","isTrue":false},{"answer":"szkielet serca znajduje się w śródsierdziu serca","isTrue":false},{"answer":"służy jako miejsce przyczepu mięśniówki przedsionków i komór oraz płatków zastawek","isTrue":false},{"answer":"w trójkącie włóknistym prawym szkieletu serca jest otwór dla przejścia węzła zatokowo-przedsionkowego","isTrue":false}]},{"id":23,"question":"Wskaż zdania prawidłowe dotyczące układu przewodzącego serca:","answers":[{"answer":"węzeł zatokowo-przedsionkowy leży w ścianie prawego przedsionka między ujściem ż. głównej górnej, a grzebieniem granicznym","isTrue":false},{"answer":"jest unaczyniony głównie przez gg. przegrodowe tylne t. wieńcowej prawej","isTrue":false},{"answer":"odnoga prawa pęczka Hisa biegnie do wysokości beleczki przegrodowo-brzeżnej","isTrue":false},{"answer":"część lewej odnogi pęczka Hisa jest unaczyniona przez gg. przegrodowe t. wieńcowej lewej","isTrue":false}]},{"id":24,"question":"Zastawkę dwudzielną osłuchujemy:","answers":[{"answer":"w 5. lewej przestrzeni międzyżebrowej","isTrue":false},{"answer":"w linii mostkowej","isTrue":false},{"answer":"w punkcie rzutu koniuszka serca","isTrue":false},{"answer":"w 3. lewej przestrzeni międzyżebrowej","isTrue":false}]},{"id":25,"question":"Wybierz zdania prawdziwe dotyczące bruzdy żebra:","answers":[{"answer":"znajduje się w pobliżu dolnego brzegu żebra","isTrue":false},{"answer":"znajduje się na powierzchni wewnętrznej żebra","isTrue":false},{"answer":"do jej brzegu zewnętrznego przyczepiają się mm. międzyżebrowe zewnętrzne","isTrue":false},{"answer":"do jej brzegu wewnętrznego przyczepiają się mm. międzyżebrowe wewnętrzne","isTrue":false}]},{"id":26,"question":"Przez rozwój aortowy przechodzi:","answers":[{"answer":"aorta zstępująca","isTrue":false},{"answer":"przewód piersiowy","isTrue":false},{"answer":"plexus articus thoracicius","isTrue":false},{"answer":"pnie błędne przedni i tylny","isTrue":false}]},{"id":27,"question":"Przez rozwór przełykowy przechodzi:","answers":[{"answer":"gałęzie przełykowe naczyń żołądkowych lewych","isTrue":false},{"answer":"gałąź przeponowo-brzuszna tylna prawego nerwu przeponowego","isTrue":false},{"answer":"przełyk","isTrue":false},{"answer":"żyła nieparzysta","isTrue":false}]},{"id":28,"question":"Wspólną cechą dla przełyku i tchawicy jest:","answers":[{"answer":"Rozpoczyna się na wysokości C6","isTrue":false},{"answer":"Zarówno przełyk, jak i tchawica posiadają zwężenia","isTrue":false},{"answer":"Tętnice tarczowe dolne unaczyniają przełyk i tchawicę","isTrue":false},{"answer":"W obydwu strukturach wyróżniamy część szyjną, piersiową i brzuszną","isTrue":false}]},{"id":29,"question":"Wskaż zdania prawidłowo opisujące nerw błędny:","answers":[{"answer":"Przechodzi przez część boczną otworu szyjnego","isTrue":false},{"answer":"Prowadzi włókna ruchowe, czuciowe i parasympatyczne przedzwojowe","isTrue":false},{"answer":"Włókna czuciowe są doprowadzane do zwojów szyjnego i węzłowego","isTrue":false},{"answer":"Ukazuje się w bruździe przednio- bocznej rdzenia przedłużonego","isTrue":false}]},{"id":30,"question":"Zakres unerwienia nerwów przeponowych obejmuje:","answers":[{"answer":"Osklepek opłucnej","isTrue":false},{"answer":"Osierdzie","isTrue":false},{"answer":"Otrzewną wątroby","isTrue":false},{"answer":"Opłucną ścienną przeponową","isTrue":false}]},{"id":31,"question":"Część mostkowa przepony:","answers":[{"answer":"przyczepia się do powierzchni wewnętrznej wyrostka mieczykowatego mostka","isTrue":false},{"answer":"obustronnie przyczepia się do chrząstek żeber VII-XII","isTrue":false},{"answer":"dochodzi do środka ścięgnistego przepony","isTrue":false},{"answer":"dzieli się na dwie odnogi, przyśrodkową i boczną","isTrue":false}]},{"id":32,"question":"Przez foramen venae cavae przechodzą:","answers":[{"answer":"żyła główna dolna","isTrue":false},{"answer":"gałąź przeponowo-brzuszna tylna lewego nerwu przeponowego","isTrue":false},{"answer":"naczynia chłonne","isTrue":false},{"answer":"naczynia nabrzuszne górne","isTrue":false}]},{"id":33,"question":"Do gałęzi sieci klatki piersiowej o przebiegu głębokim NIE należą:","answers":[{"answer":"tętnice międzyżebrowe tylne","isTrue":false},{"answer":"tętnice przeponowe dolne","isTrue":false},{"answer":"tętnice nabrzuszne górne","isTrue":false},{"answer":"tętnice przeponowe górne","isTrue":false}]}]
+﻿[
+  {
+    "id": 0,
+    "question": "Sploty płucne unerwiają:",
+    "answers": [
+      {
+        "answer": "mięśniówkę naczyń krwionośnych",
+        "isTrue": true
+      },
+      {
+        "answer": "mięśniówkę oskrzeli",
+        "isTrue": true
+      },
+      {
+        "answer": "gruczoły błony śluzowej oskrzeli",
+        "isTrue": true
+      },
+      {
+        "answer": "miąższ płuca",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "question": "Wybierz zdania prawdziwe dotyczące tworów przechodzących przez przeponę:",
+    "answers": [
+      {
+        "answer": "przewód piersiowy przechodzi na wysokości Th12",
+        "isTrue": true
+      },
+      {
+        "answer": "pień współczulny przechodzi przez szczelinę przyśrodkową",
+        "isTrue": false
+      },
+      {
+        "answer": "pnie błędne przedni i tylny przechodzą na wysokości Th10",
+        "isTrue": true
+      },
+      {
+        "answer": "n. podżebrowy przechodzi przez szczelinę boczną",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "W śródpiersiu zatchawiczym znajduje się:",
+    "answers": [
+      {
+        "answer": "Nerw krtaniowy wsteczny lewy",
+        "isTrue": true
+      },
+      {
+        "answer": "Aorta piersiowa z rozgałęzieniami",
+        "isTrue": false
+      },
+      {
+        "answer": "Żyła nieparzysta z dopływami",
+        "isTrue": true
+      },
+      {
+        "answer": "Nerw trzewny większy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Wskaż zdanie/zdania prawidłowo opisujące przełyk:",
+    "answers": [
+      {
+        "answer": "Część piersiowa rozpoczyna się na wysokości kąta mostka i dochodzi do rozworu przełykowego (Th10).",
+        "isTrue": false
+      },
+      {
+        "answer": "Zwężenie górne leży na poziomie C6 przy przejściu gardła w przełyk.",
+        "isTrue": true
+      },
+      {
+        "answer": "Zwężenie środkowe leży na poziomie Th6 i jest wytworzone przez aortę zstępującą oraz lewe oskrzele główne.",
+        "isTrue": false
+      },
+      {
+        "answer": "Część brzuszna zawarta jest między przeponą a wpustem żołądka (Th10-Th11).",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Do gałęzi trzewnych części piersiowej aorty zstępującej zaliczymy:",
+    "answers": [
+      {
+        "answer": "Tętnice oskrzelowe lewe",
+        "isTrue": true
+      },
+      {
+        "answer": "Gałęzie przełykowe",
+        "isTrue": true
+      },
+      {
+        "answer": "Gałęzie śródpiersiowe",
+        "isTrue": true
+      },
+      {
+        "answer": "Gałęzie osierdziowe",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Przewód piersiowy zbiera chłonkę z:",
+    "answers": [
+      {
+        "answer": "Lewej kończyny dolnej",
+        "isTrue": true
+      },
+      {
+        "answer": "Prawej kończyny dolnej",
+        "isTrue": true
+      },
+      {
+        "answer": "Lewej kończyny górnej",
+        "isTrue": true
+      },
+      {
+        "answer": "Prawej kończyny górnej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Przewód chłonny prawy zbiera chłonkę z:",
+    "answers": [
+      {
+        "answer": "Prawej połowy klatki piersiowej",
+        "isTrue": true
+      },
+      {
+        "answer": "Lewej połowy klatki piersiowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Prawej połowy szyi",
+        "isTrue": true
+      },
+      {
+        "answer": "Prawej kończyny dolnej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Zaznacz zdania prawdziwe:",
+    "answers": [
+      {
+        "answer": "Nerw trzewny większy prowadzi włókna sympatyczne przedzwojowe, przechodzące tranzytem przez zwoje przykręgowe piersiowe od X do XI.",
+        "isTrue": false
+      },
+      {
+        "answer": "Nerw trzewny większy w klatce oddaje gałęzie do splotu aortowego piersiowego, narządów śródpiersia i opłucnej śródpiersiowej.",
+        "isTrue": true
+      },
+      {
+        "answer": "Nerw trzewny najniższy prowadzi włókna sympatyczne przedzwojowe, przechodzące tranzytem przez zwój przykręgowy piersiowy X.",
+        "isTrue": false
+      },
+      {
+        "answer": "Nerw trzewny mniejszy do jamy brzusznej przechodzi przez odnogę przepony i dochodzi do dolnej części splotu trzewnego.",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Jakie ze zdań są prawidłowe o budowie komór serca:",
+    "answers": [
+      {
+        "answer": "wewnętrzna ściana każdej z komór jest pofałdowana w postaci tzw. trabeculae carneae",
+        "isTrue": true
+      },
+      {
+        "answer": "w świetle każdej z komory znajdują się musculi pectinati",
+        "isTrue": false
+      },
+      {
+        "answer": "w lewej komorze wyróżnia się dwa mięśnie brodawkowate",
+        "isTrue": true
+      },
+      {
+        "answer": "mięsień brodawkowaty tylny prawej komory przyczepia się do tzw. Beleczki przegrodowo-brzeżnej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Wskaż zdanie prawidłowe:",
+    "answers": [
+      {
+        "answer": "Nasierdzie jest unerwione przez splot sercowy.",
+        "isTrue": true
+      },
+      {
+        "answer": "Żyły serca przednie uchodzą do lewego przedsionka.",
+        "isTrue": false
+      },
+      {
+        "answer": "Gałąź przednia i przegrodowa lewej odnogi pęczka przedsionkowo-komorowego jest unaczyniona przez gałęzie przegrodowe lewej tętnicy wieńcowej.",
+        "isTrue": true
+      },
+      {
+        "answer": "Do unaczynienia grasicy należą gałązki tętnic tarczowych górnych.",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Wskaż zdania prawdziwe:",
+    "answers": [
+      {
+        "answer": "Tętnica wieńcowa prawa zaopatruje układ przewodzący serca z wyjątkiem gałęzi tylnej i przegrodowej lewej odnogi pęczka przedsionkowo-komorowego",
+        "isTrue": false
+      },
+      {
+        "answer": "Nasierdzie jest unaczynione przez gałęzie tętnic wieńcowych",
+        "isTrue": true
+      },
+      {
+        "answer": "Do unaczynienia tchawicy należą gałęzie tętnic tarczowych górnych.",
+        "isTrue": false
+      },
+      {
+        "answer": "Tętnice oskrzelowe prawe odchodzą od III i IV tętnicy międzyżebrowej tylnej prawej.",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Wskaż zdania prawidłowe:",
+    "answers": [
+      {
+        "answer": "Osklepek opłucnej ściennej prawej rzutujemy 3-4 cm powyżej końca mostkowego prawego obojczyka",
+        "isTrue": true
+      },
+      {
+        "answer": "Szczelina pozioma płuca prawego biegnie wzdłuż IV żebra od linii pachowej tylnej do linii mostkowej",
+        "isTrue": true
+      },
+      {
+        "answer": "zachyłek przeponowo-śródpiersiowy uwidacznia się w płaszczyźnie strzałkowej",
+        "isTrue": true
+      },
+      {
+        "answer": "w wycisku sercowym prawego płuca układa się prawa komora i prawe uszko",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Wskaż zdania prawidłowe:",
+    "answers": [
+      {
+        "answer": "Zwężenie pnia płucnego należy do wad serca bezsinicznych",
+        "isTrue": true
+      },
+      {
+        "answer": "Do wad z okresową sinicą zaliczamy ubytki w przegrodzie międzykomorowej.",
+        "isTrue": true
+      },
+      {
+        "answer": "Zwężenie lewego ujścia żylnego jest cechą zespołu Lutembachera",
+        "isTrue": true
+      },
+      {
+        "answer": "Zespół Ebsteina dotyczy wady zastawki trójdzielnej",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Wskaż zdania prawidłowe:",
+    "answers": [
+      {
+        "answer": "Tętnice międzyżebrowe przednie VII-XI pochodzą od tętnic mięśniowo-przeponowych",
+        "isTrue": true
+      },
+      {
+        "answer": "Tętnice mięśniowo-przeponowe odchodzą od tętnic piersiowych wewnętrznych",
+        "isTrue": true
+      },
+      {
+        "answer": "Żyły międzyżebrowe tylne lewe VII – XI uchodzą do żyły nieparzystej krótkiej",
+        "isTrue": true
+      },
+      {
+        "answer": "Żyły szyjno-pachowe zespalają żyłę pachową z żyłą szyjną wewnętrzną",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "W skład umocowania osklepka opłucnej wchodzą:",
+    "answers": [
+      {
+        "answer": "Błona nadopłucnowa",
+        "isTrue": true
+      },
+      {
+        "answer": "Mięsień pochyły mniejszy",
+        "isTrue": true
+      },
+      {
+        "answer": "Więzadło żebrowo-opłucnowe",
+        "isTrue": true
+      },
+      {
+        "answer": "Więzadło płucne",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Do rodzajów opłucnej ściennej zaliczamy:",
+    "answers": [
+      {
+        "answer": "Opłucna ścienna przeponowa",
+        "isTrue": true
+      },
+      {
+        "answer": "Opłucna ścienna śródpiersiowa",
+        "isTrue": true
+      },
+      {
+        "answer": "Opłucna żebrowa",
+        "isTrue": true
+      },
+      {
+        "answer": "Osklepek opłucnej",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Gdzie odpływa chłonka z opłucnej ściennej:",
+    "answers": [
+      {
+        "answer": "Węzły chłonne międzyżebrowe tylne",
+        "isTrue": true
+      },
+      {
+        "answer": "Węzły chłonne zamostkowe",
+        "isTrue": true
+      },
+      {
+        "answer": "Węzły chłonne śródpiersiowe tylne",
+        "isTrue": true
+      },
+      {
+        "answer": "Węzły chłonne śródpiersiowe przednie",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "W każdym płucu wyróżniamy:",
+    "answers": [
+      {
+        "answer": "Brzegi: przedni tępy, tylny ostry, dolny",
+        "isTrue": false
+      },
+      {
+        "answer": "Wypukłą powierzchnię żebrową",
+        "isTrue": true
+      },
+      {
+        "answer": "Języczek płuca",
+        "isTrue": false
+      },
+      {
+        "answer": "Brzegi: przedni ostry, tylny tępy ,dolny",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "W płucu prawym:",
+    "answers": [
+      {
+        "answer": "Szczelina pozioma oddziela płat górny od środkowego",
+        "isTrue": true
+      },
+      {
+        "answer": "Szczelina pozioma oddziela płat górny od dolnego",
+        "isTrue": false
+      },
+      {
+        "answer": "Szczelina skośna oddziela płat środkowy od dolnego",
+        "isTrue": true
+      },
+      {
+        "answer": "Szczelina skośna oddziela płat środkowy od górnego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Tętnica wieńcowa prawa unaczynia:",
+    "answers": [
+      {
+        "answer": "1/3 tylna przegrody międzykomorowej",
+        "isTrue": true
+      },
+      {
+        "answer": "część powierzchni przeponowej komory lewej",
+        "isTrue": true
+      },
+      {
+        "answer": "prawy przedsionek",
+        "isTrue": true
+      },
+      {
+        "answer": "lewy przedsionek",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Żyła sercowa wielka:",
+    "answers": [
+      {
+        "answer": "biegnie w bruździe międzykomorowej przedniej",
+        "isTrue": true
+      },
+      {
+        "answer": "towarzyszy gałęzi międzykomorowej przedniej prawej tętnicy wieńcowej",
+        "isTrue": false
+      },
+      {
+        "answer": "rozpoczyna się w okolicy wcięcia koniuszka serca",
+        "isTrue": true
+      },
+      {
+        "answer": "nie uchodzi do zatoki wieńcowej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Prawdą jest, że:",
+    "answers": [
+      {
+        "answer": "tętnica wieńcowa lewa oddaje gałąź międzykomorową przednią",
+        "isTrue": true
+      },
+      {
+        "answer": "żyła sercowa średnia uchodzi do zatoki wieńcowej",
+        "isTrue": true
+      },
+      {
+        "answer": "tętnica wieńcowa prawa unaczynia 1/3 tylną przegrody międzykomorowej",
+        "isTrue": true
+      },
+      {
+        "answer": "ujście zatoki wieńcowej do prawego przedsionka jest zaopatrzone w zastawkę",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Zaznacz zdania prawdziwe dotyczące szkieletu serca:",
+    "answers": [
+      {
+        "answer": "część błoniasta przegrody międzykomorowej należy do szkieletu serca i stanowi górną 1/6 tej przegrody",
+        "isTrue": true
+      },
+      {
+        "answer": "szkielet serca znajduje się w śródsierdziu serca",
+        "isTrue": true
+      },
+      {
+        "answer": "służy jako miejsce przyczepu mięśniówki przedsionków i komór oraz płatków zastawek",
+        "isTrue": true
+      },
+      {
+        "answer": "w trójkącie włóknistym prawym szkieletu serca jest otwór dla przejścia węzła zatokowo-przedsionkowego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Wskaż zdania prawidłowe dotyczące układu przewodzącego serca:",
+    "answers": [
+      {
+        "answer": "węzeł zatokowo-przedsionkowy leży w ścianie prawego przedsionka między ujściem ż. głównej górnej, a grzebieniem granicznym",
+        "isTrue": true
+      },
+      {
+        "answer": "jest unaczyniony głównie przez gg. przegrodowe tylne t. wieńcowej prawej",
+        "isTrue": true
+      },
+      {
+        "answer": "odnoga prawa pęczka Hisa biegnie do wysokości beleczki przegrodowo-brzeżnej",
+        "isTrue": true
+      },
+      {
+        "answer": "część lewej odnogi pęczka Hisa jest unaczyniona przez gg. przegrodowe t. wieńcowej lewej",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Zastawkę dwudzielną osłuchujemy:",
+    "answers": [
+      {
+        "answer": "w 5. lewej przestrzeni międzyżebrowej",
+        "isTrue": true
+      },
+      {
+        "answer": "w linii mostkowej",
+        "isTrue": false
+      },
+      {
+        "answer": "w punkcie rzutu koniuszka serca",
+        "isTrue": true
+      },
+      {
+        "answer": "w 3. lewej przestrzeni międzyżebrowej",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Wybierz zdania prawdziwe dotyczące bruzdy żebra:",
+    "answers": [
+      {
+        "answer": "znajduje się w pobliżu dolnego brzegu żebra",
+        "isTrue": true
+      },
+      {
+        "answer": "znajduje się na powierzchni wewnętrznej żebra",
+        "isTrue": true
+      },
+      {
+        "answer": "do jej brzegu zewnętrznego przyczepiają się mm. międzyżebrowe zewnętrzne",
+        "isTrue": true
+      },
+      {
+        "answer": "do jej brzegu wewnętrznego przyczepiają się mm. międzyżebrowe wewnętrzne",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Przez rozwój aortowy przechodzi:",
+    "answers": [
+      {
+        "answer": "aorta zstępująca",
+        "isTrue": true
+      },
+      {
+        "answer": "przewód piersiowy",
+        "isTrue": true
+      },
+      {
+        "answer": "plexus articus thoracicius",
+        "isTrue": true
+      },
+      {
+        "answer": "pnie błędne przedni i tylny",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Przez rozwór przełykowy przechodzi:",
+    "answers": [
+      {
+        "answer": "gałęzie przełykowe naczyń żołądkowych lewych",
+        "isTrue": true
+      },
+      {
+        "answer": "gałąź przeponowo-brzuszna tylna prawego nerwu przeponowego",
+        "isTrue": false
+      },
+      {
+        "answer": "przełyk",
+        "isTrue": true
+      },
+      {
+        "answer": "żyła nieparzysta",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Wspólną cechą dla przełyku i tchawicy jest:",
+    "answers": [
+      {
+        "answer": "Rozpoczyna się na wysokości C6",
+        "isTrue": true
+      },
+      {
+        "answer": "Zarówno przełyk, jak i tchawica posiadają zwężenia",
+        "isTrue": false
+      },
+      {
+        "answer": "Tętnice tarczowe dolne unaczyniają przełyk i tchawicę",
+        "isTrue": true
+      },
+      {
+        "answer": "W obydwu strukturach wyróżniamy część szyjną, piersiową i brzuszną",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Wskaż zdania prawidłowo opisujące nerw błędny:",
+    "answers": [
+      {
+        "answer": "Przechodzi przez część boczną otworu szyjnego",
+        "isTrue": true
+      },
+      {
+        "answer": "Prowadzi włókna ruchowe, czuciowe i parasympatyczne przedzwojowe",
+        "isTrue": true
+      },
+      {
+        "answer": "Włókna czuciowe są doprowadzane do zwojów szyjnego i węzłowego",
+        "isTrue": true
+      },
+      {
+        "answer": "Ukazuje się w bruździe przednio- bocznej rdzenia przedłużonego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Zakres unerwienia nerwów przeponowych obejmuje:",
+    "answers": [
+      {
+        "answer": "Osklepek opłucnej",
+        "isTrue": true
+      },
+      {
+        "answer": "Osierdzie",
+        "isTrue": true
+      },
+      {
+        "answer": "Otrzewną wątroby",
+        "isTrue": true
+      },
+      {
+        "answer": "Opłucną ścienną przeponową",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Część mostkowa przepony:",
+    "answers": [
+      {
+        "answer": "przyczepia się do powierzchni wewnętrznej wyrostka mieczykowatego mostka",
+        "isTrue": true
+      },
+      {
+        "answer": "obustronnie przyczepia się do chrząstek żeber VII-XII",
+        "isTrue": false
+      },
+      {
+        "answer": "dochodzi do środka ścięgnistego przepony",
+        "isTrue": true
+      },
+      {
+        "answer": "dzieli się na dwie odnogi, przyśrodkową i boczną",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Przez foramen venae cavae przechodzą:",
+    "answers": [
+      {
+        "answer": "żyła główna dolna",
+        "isTrue": true
+      },
+      {
+        "answer": "gałąź przeponowo-brzuszna tylna lewego nerwu przeponowego",
+        "isTrue": false
+      },
+      {
+        "answer": "naczynia chłonne",
+        "isTrue": true
+      },
+      {
+        "answer": "naczynia nabrzuszne górne",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Do gałęzi sieci klatki piersiowej o przebiegu głębokim NIE należą:",
+    "answers": [
+      {
+        "answer": "tętnice międzyżebrowe tylne",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnice przeponowe dolne",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnice nabrzuszne górne",
+        "isTrue": false
+      },
+      {
+        "answer": "tętnice przeponowe górne",
+        "isTrue": false
+      }
+    ]
+  }
+]

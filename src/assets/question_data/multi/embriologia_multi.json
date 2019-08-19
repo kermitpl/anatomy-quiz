@@ -1,1 +1,706 @@
-[{"id":0,"question":"Prawdą jest, że nasienie zdrowego, płodnego mężczyzny:","answers":[{"answer":"Ma pH >7.2","isTrue":false},{"answer":"30% znajdujących się w nim plemników jest ruchliwych","isTrue":false},{"answer":"4% plemników jest prawidłowo zbudowana","isTrue":false},{"answer":"Ma objętość 2ml","isTrue":false}]},{"id":1,"question":"Poniżej znajdują się wyniki badania nasienia czterech mężczyzn. Których z pośród nich można na podstawie tych danych uznać za płodnego?","answers":[{"answer":"Mężczyzna A: pH-7,4; procent ruchliwych plemników 60%; prawidłowo zbudowane plemniki-5%","isTrue":false},{"answer":"Mężczyzna B: pH-7,5; procent ruchliwych plemników-55%; prawidłowo zbudowane plemniki-4,5%","isTrue":false},{"answer":"Mężczyzna C: pH-7,3; procent ruchliwych plemników-50%; prawidłowo zbudowane plemniki-4%","isTrue":false},{"answer":"Mężczyzna D: pH-7,2;procent ruchliwych plemników-20%; prawidłowo zbudowane plemniki-2,5%","isTrue":false}]},{"id":2,"question":"Które komórki powstają w wyniku podziału mejotycznego?","answers":[{"answer":"Spermatogonia A i B","isTrue":false},{"answer":"Spermatocyty II rzędu","isTrue":false},{"answer":"Plemniki","isTrue":false},{"answer":"Oocyty II rzędu","isTrue":false}]},{"id":3,"question":"Z mezodermy przyosiowej powstaje:","answers":[{"answer":"Skóra właściwa","isTrue":false},{"answer":"Układ szkieletowy z wyjątkiem czaszki","isTrue":false},{"answer":"Mięśnie poprzecznie prążkowane tułowia","isTrue":false},{"answer":"Trzustka","isTrue":false}]},{"id":4,"question":"Z czego rozwija się łożysko?","answers":[{"answer":"Doczesnej ściennej","isTrue":false},{"answer":"Doczesnej podstawnej","isTrue":false},{"answer":"Kosmówki gładkiej","isTrue":false},{"answer":"Kosmówki kosmatej","isTrue":false}]},{"id":5,"question":"Co może być konsekwencją nie zamknięcia się cewy nerwowej?","answers":[{"answer":"Brak mózgowia","isTrue":false},{"answer":"Rozszczep wargi","isTrue":false},{"answer":"Przepuklina oponowo-mózgowa","isTrue":false},{"answer":"Zatoka skrzelowa","isTrue":false}]},{"id":6,"question":"Które z poniższych czynników mogę być teratogenne?","answers":[{"answer":"Wirus HIV","isTrue":false},{"answer":"Wirus cytomegalii","isTrue":false},{"answer":"Promieniowanie radioaktywne","isTrue":false},{"answer":"Leki przeciwdrgawkowe","isTrue":false}]},{"id":7,"question":"Na podstawie których z poniższych parametrów można ustalić wiek płodu?","answers":[{"answer":"Liczba somitów","isTrue":false},{"answer":"Cech budowy zewnętrznej","isTrue":false},{"answer":"Odległości ciemieniowo-siedzeniowej","isTrue":false},{"answer":"Przepływu wewnątrzczaszkowego","isTrue":false}]},{"id":8,"question":"Które z poniższych wad może prowadzić do małowodzia?","answers":[{"answer":"Brak zawiązka nerek","isTrue":false},{"answer":"Nieprawidłowy rozwój nerek","isTrue":false},{"answer":"Przewlekły wyciek płynu owodniowego","isTrue":false},{"answer":"Brak drożności przewodu pokarmowego","isTrue":false}]},{"id":9,"question":"W której z poniższych sytuacji wskazane jest przeprowadzenie diagnostyki prenatalnej?","answers":[{"answer":"Wiek matki powyżej 35 lat","isTrue":false},{"answer":"Nieprawidłowy obraz zarodka w USG","isTrue":false},{"answer":"Poprzednie dziecko urodzone z wadami wrodzonymi","isTrue":false},{"answer":"Występowanie w rodzinie wad sprzężonych z płcią lub chorób metabolicznych","isTrue":false}]},{"id":10,"question":"Pozostałością po otworze owalnym istniejącym w życiu płodowym jest:","answers":[{"answer":"przegroda międzyprzedsionkowa","isTrue":false},{"answer":"dół owalny","isTrue":false},{"answer":"część błoniasta przegrody międzykomorowej","isTrue":false},{"answer":"rąbek dołu owalnego","isTrue":false}]},{"id":11,"question":"Po urodzeniu w układzie krążenia zachodzą zmiany takie jak:","answers":[{"answer":"zamknięcie tętnic pępkowych","isTrue":false},{"answer":"zamknięcie żyły pępkowej i przewodu żylnego","isTrue":false},{"answer":"zamknięcie przewodu tętniczego","isTrue":false},{"answer":"zamknięcie otworu owalnego","isTrue":false}]},{"id":12,"question":"Nasierdzie (osierdzie trzewne) odpowiada za:","answers":[{"answer":"powstawanie tętnic wieńcowych","isTrue":false},{"answer":"powstawanie wyściółki śródbłonkowej serca","isTrue":false},{"answer":"powstawanie mięśniówki gładkiej tętnic wieńcowych","isTrue":false},{"answer":"powstawanie mięśnia sercowego","isTrue":false}]},{"id":13,"question":"Prawdą jest, że:","answers":[{"answer":"zastawki przedsionkowo-komorowe łączą się za pomocą strun ścięgnistych z grubymi beleczkami mięśniowymi w ścianie komory zwanymi mięśniami brodawkowatymi","isTrue":false},{"answer":"w kanale przedsionkowo-komorowym prawym powstają dwa płatki zastawki tworzące zastawkę dwudzielną (mitralną)","isTrue":false},{"answer":"zastawki przedsionkowo-komorowe zbudowane są z tkanki łącznej okrytej wsierdziem","isTrue":false},{"answer":"zastawki przedsionkowo-komorowe przyczepione są pasmami kolagenowymi do ściany przedsionka","isTrue":false}]},{"id":14,"question":"Węzeł przedsionkowo-komorowy i pęczek przedsionkowo-komorowy (pęczek Hisa) wywodzą się z:","answers":[{"answer":"komórek wsierdzia w prawej ścianie zatoki żylnej","isTrue":false},{"answer":"komórek śródsierdzia w lewej ścianie zatoki żylnej","isTrue":false},{"answer":"komórek nasierdzia przegrody przedsionkowo-komorowej","isTrue":false},{"answer":"komórek śródsierdzia kanału przedsionkowo-komorowego","isTrue":false}]},{"id":15,"question":"Z komórek I łuku skrzelowego powstaje","answers":[{"answer":"mięsień skroniowy","isTrue":false},{"answer":"mięsień napinacz błony bębenkowej","isTrue":false},{"answer":"szczęka","isTrue":false},{"answer":"mięsień rylcowo-gnykowy","isTrue":false}]},{"id":16,"question":"Fałszywe są stwierdzenia:","answers":[{"answer":"z I łuku skrzelowego powstaje chrząstka Reicherta","isTrue":false},{"answer":"tętnicą III łuku skrzelowego jest tętnica szyjna wewnętrzna","isTrue":false},{"answer":"nieprawidłowości w budowie łuków skrzelowych nie powodują istotnych wad u płodu","isTrue":false},{"answer":"I zewnętrzna kieszonka skrzelowa tworzy przewód słuchowy zewnętrzny","isTrue":false}]},{"id":17,"question":"Prawdziwe są stwierdzenia:","answers":[{"answer":"kość gnykowa powstaje z 2 par łuków skrzelowych","isTrue":false},{"answer":"VI łuk skrzelowy tworzy mięśnie wewnętrzne krtani","isTrue":false},{"answer":"grasica powstaje z wewnętrznych kieszonek skrzelowych","isTrue":false},{"answer":"z chrząstki Reicherta powstaje strzemiączko","isTrue":false}]},{"id":18,"question":"Podniebienie","answers":[{"answer":"powstaje przy udziale wyrostków szczękowych I wyrostków nosowych przyśrodkowych","isTrue":false},{"answer":"pierwotnie stanowi odcinek od wyrostków zębodołowych czterech górnych siekaczy do otworu przysiecznego","isTrue":false},{"answer":"wtórne tworzy zarówno podniebienie twarde jak I miękkie","isTrue":false},{"answer":"zarasta później u płodów płci żeńskiej","isTrue":false}]},{"id":19,"question":"Rozszczepy wargi i podniebienia","answers":[{"answer":"są wadami wieloczynnikowymi","isTrue":false},{"answer":"mogą być spowodowane przez teratogeny","isTrue":false},{"answer":"rozszczep wargi dolnej występuje rzadziej niż rozstęp wargi górnej","isTrue":false},{"answer":"wiek matki nie ma wpływu na częstość występowania rozszczepów","isTrue":false}]},{"id":20,"question":"Tarczyca:","answers":[{"answer":"ma pochodzenie endodermalne","isTrue":false},{"answer":"częściowo wywodzi się z ciała pozaskrzelowego","isTrue":false},{"answer":"ektopowo może być zlokalizowana w okolicy języka","isTrue":false},{"answer":"jej wrodzony brak jest przyczyną kretynizmu","isTrue":false}]},{"id":21,"question":"Przetoka tchawiczo- przełykowa","answers":[{"answer":"jest przyczyną małowodzia","isTrue":false},{"answer":"jest częstsza u płodów męskich","isTrue":false},{"answer":"nie powoduje zaburzeń w krążeniu płynu owodniowego","isTrue":false},{"answer":"powstaje wskutek niepełnego podziału jelita przedniego","isTrue":false}]},{"id":22,"question":"Przepukliny ściany tylnej jamy brzusznej to:","answers":[{"answer":"przepuklina Bochdaleka","isTrue":false},{"answer":"przepuklina lędźwiowa dolna","isTrue":false},{"answer":"przepuklina zasłownowa","isTrue":false},{"answer":"przepuklina lędźwiowa górna","isTrue":false}]},{"id":23,"question":"Prawda o Uchyłku Meckel’a:","answers":[{"answer":"Znajduje się 40-60 cm od zastawki krętniczo-kątniczej","isTrue":false},{"answer":"Obecność heterotropowej tkanki trzustkowej lub błony śluzowej żołądka może doprowadzić do owrzodzeń a nawet perforacji","isTrue":false},{"answer":"Jest to pozostałość po przewodzie żółtkowym","isTrue":false},{"answer":"Inaczej uchyłek jelita czczego","isTrue":false}]},{"id":24,"question":"Do wad bezsinicznych zaliczamy:","answers":[{"answer":"Ubytki w przegrodzie międzyprzedsionkowej","isTrue":false},{"answer":"Ubytki w przegrodzie międzykomorowej","isTrue":false},{"answer":"Przełożenie wielkich pni tętniczych","isTrue":false},{"answer":"Przetrwały przewód tętniczy","isTrue":false}]},{"id":25,"question":"Która krezka okrężnicy nie zanika?","answers":[{"answer":"Wstępującej","isTrue":false},{"answer":"Poprzecznej","isTrue":false},{"answer":"Zstępującej","isTrue":false},{"answer":"Esowatej","isTrue":false}]},{"id":26,"question":"Prawdą jest, że:","answers":[{"answer":"akrozyna jest proteazą ułatwiającą plemnikowi przeniknięcie przez osłonkę przejrzystą","isTrue":false},{"answer":"sustentocyty, to komórki odpowiedzialne za odżywianie i ochronę komórek różnicujących się w procesie oogenezy","isTrue":false},{"answer":"spermatocyt I rzędu jest diploidalną komórką","isTrue":false},{"answer":"testosteron wydzielany jest przez komórki podporowe pod wpływem LH","isTrue":false}]},{"id":27,"question":"Prawdą jest, że:","answers":[{"answer":"oocyt zostaje zatrzymany w profazie I mejozy w stadium diplotenu","isTrue":false},{"answer":"za fuzję komórki jajowej i plemnika odpowiada m.in. fertylina obecna na powierzchni komórki jajowej","isTrue":false},{"answer":"reakcja korowa oocytu wywołana jest zmianami stężęń jonów wapnia w komórce","isTrue":false},{"answer":"wydzielanie FSH i LH zależy od gonadoliberyny wydzielanej przez przysadkę","isTrue":false}]},{"id":28,"question":"Prawdą jest, że:","answers":[{"answer":"Od 8 tygodnia można określić płeć w obrazach USG","isTrue":false},{"answer":"z przewodów śródnercza powstaje m.in. nasieniowód","isTrue":false},{"answer":"proces zstępowania jąder rozpoczyna się ok 18 tygodnia rozwoju","isTrue":false},{"answer":"trzon prącia powstaje z fałdu moczowo – płciowego","isTrue":false}]},{"id":29,"question":"Do badań prenatalnych inwazyjnych należy:","answers":[{"answer":"test PAPP-A","isTrue":false},{"answer":"kordocenteza","isTrue":false},{"answer":"test potrójny","isTrue":false},{"answer":"biopsja kosmówki","isTrue":false}]},{"id":30,"question":"Przepona pochodzi z:","answers":[{"answer":"Przegrody poprzecznej","isTrue":false},{"answer":"Błon opłucnowo-otrzewnowych","isTrue":false},{"answer":"Komponenty mięśniowej wywodzącej się z bocznych i grzbietowej części ściany tułowia","isTrue":false},{"answer":"Krezki przełyku","isTrue":false}]},{"id":31,"question":"Rozwój śledziony w krezce grzbietowej żołądka powoduje podział tego odcinka krezki na:","answers":[{"answer":"Otrzewną pokrywającą śledzionę","isTrue":false},{"answer":"Więzadło żołądkowo- śledzionowe","isTrue":false},{"answer":"Więzadło przeponowo -śledzionowe","isTrue":false},{"answer":"Więzadło żołądkowo- przeponowe","isTrue":false}]}]
+﻿[
+  {
+    "id": 0,
+    "question": "Prawdą jest, że nasienie zdrowego, płodnego mężczyzny:",
+    "answers": [
+      {
+        "answer": "Ma pH >7.2",
+        "isTrue": true
+      },
+      {
+        "answer": "30% znajdujących się w nim plemników jest ruchliwych",
+        "isTrue": false
+      },
+      {
+        "answer": "4% plemników jest prawidłowo zbudowana",
+        "isTrue": true
+      },
+      {
+        "answer": "Ma objętość 2ml",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "question": "Poniżej znajdują się wyniki badania nasienia czterech mężczyzn. Których z pośród nich można na podstawie tych danych uznać za płodnego?",
+    "answers": [
+      {
+        "answer": "Mężczyzna A: pH-7,4; procent ruchliwych plemników 60%; prawidłowo zbudowane plemniki-5%",
+        "isTrue": true
+      },
+      {
+        "answer": "Mężczyzna B: pH-7,5; procent ruchliwych plemników-55%; prawidłowo zbudowane plemniki-4,5%",
+        "isTrue": true
+      },
+      {
+        "answer": "Mężczyzna C: pH-7,3; procent ruchliwych plemników-50%; prawidłowo zbudowane plemniki-4%",
+        "isTrue": true
+      },
+      {
+        "answer": "Mężczyzna D: pH-7,2;procent ruchliwych plemników-20%; prawidłowo zbudowane plemniki-2,5%",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Które komórki powstają w wyniku podziału mejotycznego?",
+    "answers": [
+      {
+        "answer": "Spermatogonia A i B",
+        "isTrue": false
+      },
+      {
+        "answer": "Spermatocyty II rzędu",
+        "isTrue": true
+      },
+      {
+        "answer": "Plemniki",
+        "isTrue": false
+      },
+      {
+        "answer": "Oocyty II rzędu",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Z mezodermy przyosiowej powstaje:",
+    "answers": [
+      {
+        "answer": "Skóra właściwa",
+        "isTrue": true
+      },
+      {
+        "answer": "Układ szkieletowy z wyjątkiem czaszki",
+        "isTrue": true
+      },
+      {
+        "answer": "Mięśnie poprzecznie prążkowane tułowia",
+        "isTrue": true
+      },
+      {
+        "answer": "Trzustka",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Z czego rozwija się łożysko?",
+    "answers": [
+      {
+        "answer": "Doczesnej ściennej",
+        "isTrue": false
+      },
+      {
+        "answer": "Doczesnej podstawnej",
+        "isTrue": true
+      },
+      {
+        "answer": "Kosmówki gładkiej",
+        "isTrue": false
+      },
+      {
+        "answer": "Kosmówki kosmatej",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Co może być konsekwencją nie zamknięcia się cewy nerwowej?",
+    "answers": [
+      {
+        "answer": "Brak mózgowia",
+        "isTrue": true
+      },
+      {
+        "answer": "Rozszczep wargi",
+        "isTrue": false
+      },
+      {
+        "answer": "Przepuklina oponowo-mózgowa",
+        "isTrue": true
+      },
+      {
+        "answer": "Zatoka skrzelowa",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Które z poniższych czynników mogę być teratogenne?",
+    "answers": [
+      {
+        "answer": "Wirus HIV",
+        "isTrue": true
+      },
+      {
+        "answer": "Wirus cytomegalii",
+        "isTrue": true
+      },
+      {
+        "answer": "Promieniowanie radioaktywne",
+        "isTrue": true
+      },
+      {
+        "answer": "Leki przeciwdrgawkowe",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Na podstawie których z poniższych parametrów można ustalić wiek płodu?",
+    "answers": [
+      {
+        "answer": "Liczba somitów",
+        "isTrue": true
+      },
+      {
+        "answer": "Cech budowy zewnętrznej",
+        "isTrue": true
+      },
+      {
+        "answer": "Odległości ciemieniowo-siedzeniowej",
+        "isTrue": true
+      },
+      {
+        "answer": "Przepływu wewnątrzczaszkowego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Które z poniższych wad może prowadzić do małowodzia?",
+    "answers": [
+      {
+        "answer": "Brak zawiązka nerek",
+        "isTrue": true
+      },
+      {
+        "answer": "Nieprawidłowy rozwój nerek",
+        "isTrue": true
+      },
+      {
+        "answer": "Przewlekły wyciek płynu owodniowego",
+        "isTrue": true
+      },
+      {
+        "answer": "Brak drożności przewodu pokarmowego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "W której z poniższych sytuacji wskazane jest przeprowadzenie diagnostyki prenatalnej?",
+    "answers": [
+      {
+        "answer": "Wiek matki powyżej 35 lat",
+        "isTrue": true
+      },
+      {
+        "answer": "Nieprawidłowy obraz zarodka w USG",
+        "isTrue": true
+      },
+      {
+        "answer": "Poprzednie dziecko urodzone z wadami wrodzonymi",
+        "isTrue": true
+      },
+      {
+        "answer": "Występowanie w rodzinie wad sprzężonych z płcią lub chorób metabolicznych",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Pozostałością po otworze owalnym istniejącym w życiu płodowym jest:",
+    "answers": [
+      {
+        "answer": "przegroda międzyprzedsionkowa",
+        "isTrue": false
+      },
+      {
+        "answer": "dół owalny",
+        "isTrue": true
+      },
+      {
+        "answer": "część błoniasta przegrody międzykomorowej",
+        "isTrue": false
+      },
+      {
+        "answer": "rąbek dołu owalnego",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Po urodzeniu w układzie krążenia zachodzą zmiany takie jak:",
+    "answers": [
+      {
+        "answer": "zamknięcie tętnic pępkowych",
+        "isTrue": true
+      },
+      {
+        "answer": "zamknięcie żyły pępkowej i przewodu żylnego",
+        "isTrue": true
+      },
+      {
+        "answer": "zamknięcie przewodu tętniczego",
+        "isTrue": true
+      },
+      {
+        "answer": "zamknięcie otworu owalnego",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Nasierdzie (osierdzie trzewne) odpowiada za:",
+    "answers": [
+      {
+        "answer": "powstawanie tętnic wieńcowych",
+        "isTrue": true
+      },
+      {
+        "answer": "powstawanie wyściółki śródbłonkowej serca",
+        "isTrue": false
+      },
+      {
+        "answer": "powstawanie mięśniówki gładkiej tętnic wieńcowych",
+        "isTrue": true
+      },
+      {
+        "answer": "powstawanie mięśnia sercowego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Prawdą jest, że:",
+    "answers": [
+      {
+        "answer": "zastawki przedsionkowo-komorowe łączą się za pomocą strun ścięgnistych z grubymi beleczkami mięśniowymi w ścianie komory zwanymi mięśniami brodawkowatymi",
+        "isTrue": true
+      },
+      {
+        "answer": "w kanale przedsionkowo-komorowym prawym powstają dwa płatki zastawki tworzące zastawkę dwudzielną (mitralną)",
+        "isTrue": false
+      },
+      {
+        "answer": "zastawki przedsionkowo-komorowe zbudowane są z tkanki łącznej okrytej wsierdziem",
+        "isTrue": true
+      },
+      {
+        "answer": "zastawki przedsionkowo-komorowe przyczepione są pasmami kolagenowymi do ściany przedsionka",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Węzeł przedsionkowo-komorowy i pęczek przedsionkowo-komorowy (pęczek Hisa) wywodzą się z:",
+    "answers": [
+      {
+        "answer": "komórek wsierdzia w prawej ścianie zatoki żylnej",
+        "isTrue": false
+      },
+      {
+        "answer": "komórek śródsierdzia w lewej ścianie zatoki żylnej",
+        "isTrue": true
+      },
+      {
+        "answer": "komórek nasierdzia przegrody przedsionkowo-komorowej",
+        "isTrue": false
+      },
+      {
+        "answer": "komórek śródsierdzia kanału przedsionkowo-komorowego",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Z komórek I łuku skrzelowego powstaje",
+    "answers": [
+      {
+        "answer": "mięsień skroniowy",
+        "isTrue": true
+      },
+      {
+        "answer": "mięsień napinacz błony bębenkowej",
+        "isTrue": true
+      },
+      {
+        "answer": "szczęka",
+        "isTrue": true
+      },
+      {
+        "answer": "mięsień rylcowo-gnykowy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Fałszywe są stwierdzenia:",
+    "answers": [
+      {
+        "answer": "z I łuku skrzelowego powstaje chrząstka Reicherta",
+        "isTrue": true
+      },
+      {
+        "answer": "tętnicą III łuku skrzelowego jest tętnica szyjna wewnętrzna",
+        "isTrue": false
+      },
+      {
+        "answer": "nieprawidłowości w budowie łuków skrzelowych nie powodują istotnych wad u płodu",
+        "isTrue": true
+      },
+      {
+        "answer": "I zewnętrzna kieszonka skrzelowa tworzy przewód słuchowy zewnętrzny",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Prawdziwe są stwierdzenia:",
+    "answers": [
+      {
+        "answer": "kość gnykowa powstaje z 2 par łuków skrzelowych",
+        "isTrue": true
+      },
+      {
+        "answer": "VI łuk skrzelowy tworzy mięśnie wewnętrzne krtani",
+        "isTrue": true
+      },
+      {
+        "answer": "grasica powstaje z wewnętrznych kieszonek skrzelowych",
+        "isTrue": true
+      },
+      {
+        "answer": "z chrząstki Reicherta powstaje strzemiączko",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Podniebienie",
+    "answers": [
+      {
+        "answer": "powstaje przy udziale wyrostków szczękowych I wyrostków nosowych przyśrodkowych",
+        "isTrue": true
+      },
+      {
+        "answer": "pierwotnie stanowi odcinek od wyrostków zębodołowych czterech górnych siekaczy do otworu przysiecznego",
+        "isTrue": true
+      },
+      {
+        "answer": "wtórne tworzy zarówno podniebienie twarde jak I miękkie",
+        "isTrue": true
+      },
+      {
+        "answer": "zarasta później u płodów płci żeńskiej",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Rozszczepy wargi i podniebienia",
+    "answers": [
+      {
+        "answer": "są wadami wieloczynnikowymi",
+        "isTrue": true
+      },
+      {
+        "answer": "mogą być spowodowane przez teratogeny",
+        "isTrue": true
+      },
+      {
+        "answer": "rozszczep wargi dolnej występuje rzadziej niż rozstęp wargi górnej",
+        "isTrue": true
+      },
+      {
+        "answer": "wiek matki nie ma wpływu na częstość występowania rozszczepów",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Tarczyca:",
+    "answers": [
+      {
+        "answer": "ma pochodzenie endodermalne",
+        "isTrue": true
+      },
+      {
+        "answer": "częściowo wywodzi się z ciała pozaskrzelowego",
+        "isTrue": true
+      },
+      {
+        "answer": "ektopowo może być zlokalizowana w okolicy języka",
+        "isTrue": true
+      },
+      {
+        "answer": "jej wrodzony brak jest przyczyną kretynizmu",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Przetoka tchawiczo- przełykowa",
+    "answers": [
+      {
+        "answer": "jest przyczyną małowodzia",
+        "isTrue": false
+      },
+      {
+        "answer": "jest częstsza u płodów męskich",
+        "isTrue": true
+      },
+      {
+        "answer": "nie powoduje zaburzeń w krążeniu płynu owodniowego",
+        "isTrue": false
+      },
+      {
+        "answer": "powstaje wskutek niepełnego podziału jelita przedniego",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Przepukliny ściany tylnej jamy brzusznej to:",
+    "answers": [
+      {
+        "answer": "przepuklina Bochdaleka",
+        "isTrue": false
+      },
+      {
+        "answer": "przepuklina lędźwiowa dolna",
+        "isTrue": true
+      },
+      {
+        "answer": "przepuklina zasłownowa",
+        "isTrue": false
+      },
+      {
+        "answer": "przepuklina lędźwiowa górna",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Prawda o Uchyłku Meckel’a:",
+    "answers": [
+      {
+        "answer": "Znajduje się 40-60 cm od zastawki krętniczo-kątniczej",
+        "isTrue": true
+      },
+      {
+        "answer": "Obecność heterotropowej tkanki trzustkowej lub błony śluzowej żołądka może doprowadzić do owrzodzeń a nawet perforacji",
+        "isTrue": true
+      },
+      {
+        "answer": "Jest to pozostałość po przewodzie żółtkowym",
+        "isTrue": true
+      },
+      {
+        "answer": "Inaczej uchyłek jelita czczego",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Do wad bezsinicznych zaliczamy:",
+    "answers": [
+      {
+        "answer": "Ubytki w przegrodzie międzyprzedsionkowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Ubytki w przegrodzie międzykomorowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Przełożenie wielkich pni tętniczych",
+        "isTrue": false
+      },
+      {
+        "answer": "Przetrwały przewód tętniczy",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Która krezka okrężnicy nie zanika?",
+    "answers": [
+      {
+        "answer": "Wstępującej",
+        "isTrue": false
+      },
+      {
+        "answer": "Poprzecznej",
+        "isTrue": true
+      },
+      {
+        "answer": "Zstępującej",
+        "isTrue": false
+      },
+      {
+        "answer": "Esowatej",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Prawdą jest, że:",
+    "answers": [
+      {
+        "answer": "akrozyna jest proteazą ułatwiającą plemnikowi przeniknięcie przez osłonkę przejrzystą",
+        "isTrue": true
+      },
+      {
+        "answer": "sustentocyty, to komórki odpowiedzialne za odżywianie i ochronę komórek różnicujących się w procesie oogenezy",
+        "isTrue": false
+      },
+      {
+        "answer": "spermatocyt I rzędu jest diploidalną komórką",
+        "isTrue": true
+      },
+      {
+        "answer": "testosteron wydzielany jest przez komórki podporowe pod wpływem LH",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Prawdą jest, że:",
+    "answers": [
+      {
+        "answer": "oocyt zostaje zatrzymany w profazie I mejozy w stadium diplotenu",
+        "isTrue": true
+      },
+      {
+        "answer": "za fuzję komórki jajowej i plemnika odpowiada m.in. fertylina obecna na powierzchni komórki jajowej",
+        "isTrue": false
+      },
+      {
+        "answer": "reakcja korowa oocytu wywołana jest zmianami stężęń jonów wapnia w komórce",
+        "isTrue": true
+      },
+      {
+        "answer": "wydzielanie FSH i LH zależy od gonadoliberyny wydzielanej przez przysadkę",
+        "isTrue": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Prawdą jest, że:",
+    "answers": [
+      {
+        "answer": "Od 8 tygodnia można określić płeć w obrazach USG",
+        "isTrue": false
+      },
+      {
+        "answer": "z przewodów śródnercza powstaje m.in. nasieniowód",
+        "isTrue": true
+      },
+      {
+        "answer": "proces zstępowania jąder rozpoczyna się ok 18 tygodnia rozwoju",
+        "isTrue": false
+      },
+      {
+        "answer": "trzon prącia powstaje z fałdu moczowo – płciowego",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Do badań prenatalnych inwazyjnych należy:",
+    "answers": [
+      {
+        "answer": "test PAPP-A",
+        "isTrue": false
+      },
+      {
+        "answer": "kordocenteza",
+        "isTrue": true
+      },
+      {
+        "answer": "test potrójny",
+        "isTrue": false
+      },
+      {
+        "answer": "biopsja kosmówki",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Przepona pochodzi z:",
+    "answers": [
+      {
+        "answer": "Przegrody poprzecznej",
+        "isTrue": true
+      },
+      {
+        "answer": "Błon opłucnowo-otrzewnowych",
+        "isTrue": true
+      },
+      {
+        "answer": "Komponenty mięśniowej wywodzącej się z bocznych i grzbietowej części ściany tułowia",
+        "isTrue": true
+      },
+      {
+        "answer": "Krezki przełyku",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Rozwój śledziony w krezce grzbietowej żołądka powoduje podział tego odcinka krezki na:",
+    "answers": [
+      {
+        "answer": "Otrzewną pokrywającą śledzionę",
+        "isTrue": true
+      },
+      {
+        "answer": "Więzadło żołądkowo- śledzionowe",
+        "isTrue": true
+      },
+      {
+        "answer": "Więzadło przeponowo -śledzionowe",
+        "isTrue": true
+      },
+      {
+        "answer": "Więzadło żołądkowo- przeponowe",
+        "isTrue": false
+      }
+    ]
+  }
+]

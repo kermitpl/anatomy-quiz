@@ -9,8 +9,8 @@ import kg from '../../assets/question_data/one/kg_one.json';
 import klatka from '../../assets/question_data/one/klatka_one.json';
 import miednica from '../../assets/question_data/one/miednica_one.json';
 import oun from '../../assets/question_data/one/oun_one.json';
-import {QuizQuestion} from '../quiz-question';
-import {QuizAnswer} from '../quiz-answer';
+import {QuizQuestion} from '../model/quiz-question';
+import {QuizAnswer} from '../model/quiz-answer';
 
 @Component({
   selector: 'app-quiz',
