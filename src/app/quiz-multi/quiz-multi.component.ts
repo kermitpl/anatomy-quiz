@@ -75,6 +75,12 @@ export class QuizMultiComponent implements OnInit {
     this.onChange(isTrue);
   }
 
+  showAnswer() {
+    for (const j of [0, 1, 2, 3]) {
+      this.checkAnswers[j] = this.currentQuestion.answers[j].isTrue;
+    }
+  }
+
   dataChanged() {
     switch (this.selectedData) {
       case 'osteologia':

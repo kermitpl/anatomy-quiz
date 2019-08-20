@@ -313,7 +313,7 @@
   },
   {
     "id": 12,
-    "question": "Niepoprawnym stwierdzeniem o ścianie brzucha jest:",
+    "question": "(!BO!) Niepoprawnym stwierdzeniem o ścianie brzucha jest:",
     "answers": [
       {
         "answer": "Więzadło pachwinowe to twór wytworzony przez dolny brzeg rozcięgna mięśnia skośnego brzucha zewnętrznego",
@@ -1847,7 +1847,7 @@
   },
   {
     "id": 71,
-    "question": "Przerzuty nowotworowe najczęściej rozsiewane są drogą chłonki lub krwi. Źródłem przerzutu do nadnercza najprawdopodobniej będzie: ?",
+    "question": "(!BO!)Przerzuty nowotworowe najczęściej rozsiewane są drogą chłonki lub krwi. Źródłem przerzutu do nadnercza najprawdopodobniej będzie: ?",
     "answers": [
       {
         "answer": "płuco drogą krwionośną",
