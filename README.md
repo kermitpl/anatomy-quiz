@@ -11,7 +11,12 @@ Angular webpage containing quiz, that helps medical students learn for anatomy e
 ## Stage 2 (Completed)
 
 - Separate components for single/multiple choice questions
+- Ability to reveal correct answers in multiple choice questions
 - Ability to choose category of questions
 - Removing question with first correct answer
 - Counter showing questions left in current category
 - Real questions with answers
+
+## Stage 3 (In progress)
+
+- Added % score in alert after completition (1 point if first answer is correct).
