@@ -21,26 +21,31 @@ export class QuizComponent implements OnInit {
   chosenAnswer: QuizAnswer;
   isCorrect = '⏳ Waiting for your answer... ⏳';
   questions: QuizQuestion [];
-  chosenid: number;
+  chosenQuestionID: number;
   currentQuestion: QuizQuestion;
   tryCount = 0;
   selectedData = 'osteologia';
+  questionsQuantity: number;
+  firstCorrectQuantity: number;
+  timesAnswered: number [];
 
   constructor() { }
 
   ngOnInit() {
-    this.chosenid = 0;
-    this.questions = osteologia;
-    this.currentQuestion = this.questions[this.chosenid];
+    this.dataChanged();
   }
 
   onChange() {
     this.tryCount++;
+    this.timesAnswered[this.currentQuestion.id]++;
     if (this.chosenAnswer.isTrue) {
       this.isCorrect = 'You\'re right! ✅';
       if (this.tryCount === 1) {
-        this.questions.splice(this.chosenid, 1);
-        this.chosenid = this.chosenid - 1;
+        this.questions.splice(this.chosenQuestionID, 1);
+        this.chosenQuestionID = this.chosenQuestionID - 1;
+        if (this.timesAnswered[this.currentQuestion.id] === 1) {
+          this.firstCorrectQuantity++;
+        }
       }
     } else {
       this.isCorrect = 'Wrong 😥';
@@ -49,12 +54,12 @@ export class QuizComponent implements OnInit {
 
   nextQuestion(choice) {
     if (this.questions.length === 0) {
-      alert('Quiz is completed, page will be reloaded.');
+      alert('Quiz is completed, page will be reloaded. Your score:' + (this.firstCorrectQuantity / this.questionsQuantity * 100) + '%');
       window.location.reload();
     } else {
-      if (choice === 0) { this.chosenid = (this.chosenid + 1) % this.questions.length; } else if (choice === 1) {
-        this.chosenid = Math.floor((Math.random() * this.questions.length)); }
-      this.currentQuestion = this.questions[this.chosenid];
+      if (choice === 0) { this.chosenQuestionID = (this.chosenQuestionID + 1) % this.questions.length; } else if (choice === 1) {
+        this.chosenQuestionID = Math.floor((Math.random() * this.questions.length)); }
+      this.currentQuestion = this.questions[this.chosenQuestionID];
       this.tryCount = 0;
       this.isCorrect = '⏳ Waiting for your answer... ⏳';
     }
@@ -93,10 +98,13 @@ export class QuizComponent implements OnInit {
         this.questions = klatka;
         break;
     }
-    this.chosenid = 0;
-    this.currentQuestion = this.questions[this.chosenid];
+    this.chosenQuestionID = 0;
+    this.currentQuestion = this.questions[this.chosenQuestionID];
     this.tryCount = 0;
+    this.questionsQuantity = this.questions.length;
     this.isCorrect = '⏳ Waiting for your answer... ⏳';
+    this.firstCorrectQuantity = 0;
+    this.timesAnswered = new Array(this.questionsQuantity).fill(0);
   }
 
 }

@@ -26,25 +26,29 @@ export class QuizMultiComponent implements OnInit {
   tryCount = 0;
   checkAnswers: boolean [];
   selectedData = 'brzuch';
+  questionsQuantity: number;
+  firstCorrectQuantity: number;
+  timesAnswered: number [];
 
   // ng build --prod --output-path docs --base-href /anatomy-quiz/
 
   constructor() { }
 
   ngOnInit() {
-    this.chosenid = 0;
-    this.questions = brzuch;
-    this.currentQuestion = this.questions[this.chosenid];
-    this.checkAnswers = [false, false, false, false];
+    this.dataChanged();
   }
 
   onChange(isTrue) {
     this.tryCount++;
+    this.timesAnswered[this.currentQuestion.id]++;
     if (isTrue) {
       this.isCorrect = 'You\'re right! ✅';
       if (this.tryCount === 1) {
         this.questions.splice(this.chosenid, 1);
         this.chosenid = this.chosenid - 1;
+        if (this.timesAnswered[this.currentQuestion.id] === 1) {
+          this.firstCorrectQuantity++;
+        }
       }
     } else {
       this.isCorrect = 'Wrong 😥';
@@ -53,7 +57,7 @@ export class QuizMultiComponent implements OnInit {
 
   nextQuestion(choice) {
     if (this.questions.length === 0) {
-      alert('Quiz is completed, page will be reloaded.');
+      alert('Quiz is completed, page will be reloaded. Your score:' + (this.firstCorrectQuantity / this.questionsQuantity * 100) + '%');
       window.location.reload();
     } else {
       if (choice === 0) { this.chosenid = (this.chosenid + 1) % this.questions.length; } else if (choice === 1) {
@@ -118,6 +122,10 @@ export class QuizMultiComponent implements OnInit {
     this.currentQuestion = this.questions[this.chosenid];
     this.tryCount = 0;
     this.isCorrect = '⏳ Waiting for your answer... ⏳';
+    this.questionsQuantity = this.questions.length;
+    this.firstCorrectQuantity = 0;
+    this.timesAnswered = new Array(this.questionsQuantity).fill(0);
+    this.checkAnswers = [false, false, false, false];
   }
 
 }
