@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "id": 0,
     "question": "Krezka jajnika zawiera:",
@@ -334,321 +334,335 @@
     "question": "Pozostałością rozwojową po śródnerczu u kobiety są:",
     "answers": [
       {
-        "answer": "przyczepek pęcherzykowy 2. nadjajnik 3. przyjajnik 4. przewód podłużny jajnika",
+        "answer": "przyczepek pęcherzykowy",
         "isTrue": true
       },
       {
-        "answer": "Prawdą jest że",
-        "isTrue": false
+        "answer": "nadjajnik",
+        "isTrue": true
       },
       {
-        "answer": "Głównym źródłem unaczynienia macicy jest parzysta arteria uterina (t. maciczna)",
-        "isTrue": false
+        "answer": "przyjajnik",
+        "isTrue": true
       },
       {
-        "answer": "Tętnica maciczna odchodzi najczęściej od t. biodrowej zewnętrznej",
-        "isTrue": false
+        "answer": "przewód podłużny jajnika",
+        "isTrue": true
       }
     ]
   },
   {
     "id": 16,
-    "question": "ętnice łukowate pochodzą od gałęzi ślimakowatych tętnicy macicznej",
+    "question": "Prawdą jest że",
     "answers": [
       {
+        "answer": "Głównym źródłem unaczynienia macicy jest parzysta arteria uterina (t. maciczna)",
+        "isTrue": true
+      },
+      {
+        "answer": "Tętnica maciczna odchodzi najczęściej od t. biodrowej zewnętrznej",
+        "isTrue": false
+      },
+      {
+        "answer": "Tętnice łukowate pochodzą od gałęzi ślimakowatych tętnicy macicznej",
+        "isTrue": true
+      },
+      {
         "answer": "Szyjka macicy nie jest unaczyniana przez gałęzie tętnicy macicznej.",
-        "isTrue": false
-      },
-      {
-        "answer": "Prawdą jest że",
-        "isTrue": false
-      },
-      {
-        "answer": "Żyły maciczne są usytuowane pomiędzy dwiema warstwami więzadła szerokiego macicy",
-        "isTrue": false
-      },
-      {
-        "answer": "Żyły macicy posiadają w większości wypadków zastawki, zanikające w miarę starzenia się",
         "isTrue": false
       }
     ]
   },
   {
     "id": 17,
-    "question": "ętnicy macicznej często towarzyszy niejednorodny splot żylny",
+    "question": "Prawdą jest że",
     "answers": [
       {
+        "answer": "Żyły maciczne są usytuowane pomiędzy dwiema warstwami więzadła szerokiego macicy",
+        "isTrue": true
+      },
+      {
+        "answer": "Żyły macicy posiadają w większości wypadków zastawki, zanikające w miarę starzenia się",
+        "isTrue": true
+      },
+      {
+        "answer": "Tętnicy macicznej często towarzyszy niejednorodny splot żylny",
+        "isTrue": true
+      },
+      {
         "answer": "Splot żylny maciczno-pochwowy uchodzi do żyły biodrowej zewnętrznej",
-        "isTrue": false
-      },
-      {
-        "answer": "Prawdą jest że:",
-        "isTrue": false
-      },
-      {
-        "answer": "Lewe jądro leży niżej niż prawe",
-        "isTrue": false
-      },
-      {
-        "answer": "Chłonka z najądrza odpływa do węzłów chłonnych lędźwiowych",
         "isTrue": false
       }
     ]
   },
   {
     "id": 18,
-    "question": "ewnętrzną warstwę jądra stanowi błona biaława",
+    "question": "Prawdą jest że:",
     "answers": [
       {
+        "answer": "Lewe jądro leży niżej niż prawe",
+        "isTrue": true
+      },
+      {
+        "answer": "Chłonka z najądrza odpływa do węzłów chłonnych lędźwiowych",
+        "isTrue": false
+      },
+      {
+        "answer": "Zewnętrzną warstwę jądra stanowi błona biaława",
+        "isTrue": true
+      },
+      {
         "answer": "Jądro i najądrze nie mają wspólnego unaczynienia",
-        "isTrue": false
-      },
-      {
-        "answer": "Prawdą jest że:",
-        "isTrue": false
-      },
-      {
-        "answer": "Bańki nasieniowodów leżą bocznie od pęcherzyków nasiennych",
-        "isTrue": false
-      },
-      {
-        "answer": "Pęcherzyki nasienne są unerwione przez włókna ze splotu podbrzusznego dolnego",
         "isTrue": false
       }
     ]
   },
   {
     "id": 19,
-    "question": "przebiegu cewki moczowej męskiej wyróżniamy 3 odcinki",
+    "question": "Prawdą jest że:",
     "answers": [
       {
+        "answer": "Bańki nasieniowodów leżą bocznie od pęcherzyków nasiennych",
+        "isTrue": false
+      },
+      {
+        "answer": "Pęcherzyki nasienne są unerwione przez włókna ze splotu podbrzusznego dolnego",
+        "isTrue": true
+      },
+      {
+        "answer": "W przebiegu cewki moczowej męskiej wyróżniamy 3 odcinki",
+        "isTrue": false
+      },
+      {
         "answer": "Skóra moszny jest obkurczona dzięki warstwie mięśniówki gładkiej z dodatkiem włókien sprężystych",
-        "isTrue": false
-      },
-      {
-        "answer": "Prawdą jest że:",
-        "isTrue": false
-      },
-      {
-        "answer": "Żyły jądra i najądrza tworzą splot wiciowaty, który wchodzi w skład powrózka nasiennego",
-        "isTrue": false
-      },
-      {
-        "answer": "Moszna jest przedzielona przegrodą na dwie części",
-        "isTrue": false
+        "isTrue": true
       }
     ]
   },
   {
     "id": 20,
-    "question": "zęść pachwinowa powrózka nasiennego na całej długości jest objęta tylko powięzią nasienną wewnętrzną",
+    "question": "Prawdą jest że:",
     "answers": [
       {
+        "answer": "Żyły jądra i najądrza tworzą splot wiciowaty, który wchodzi w skład powrózka nasiennego",
+        "isTrue": true
+      },
+      {
+        "answer": "Moszna jest przedzielona przegrodą na dwie części",
+        "isTrue": true
+      },
+      {
+        "answer": "Część pachwinowa powrózka nasiennego na całej długości jest objęta tylko powięzią nasienną wewnętrzną",
+        "isTrue": true
+      },
+      {
         "answer": "W mosznie leży część powrózkowa i pachwinowa nasieniowodu",
-        "isTrue": false
-      },
-      {
-        "answer": "Prawdą jest że:",
-        "isTrue": false
-      },
-      {
-        "answer": "Gruczoł krokowy rozwija się z endodermalnego nabłonka wyścielającego cewkę moczową męską",
-        "isTrue": false
-      },
-      {
-        "answer": "Prącie jest umocowane przez dwa więzadła: wieszadłowe prącia i procowate prącia",
         "isTrue": false
       }
     ]
   },
   {
     "id": 21,
-    "question": "jścia przewodów wytryskowych leżą po bokach od otworu łagiewki sterczowej",
+    "question": "Prawdą jest że:",
     "answers": [
       {
+        "answer": "Gruczoł krokowy rozwija się z endodermalnego nabłonka wyścielającego cewkę moczową męską",
+        "isTrue": true
+      },
+      {
+        "answer": "Prącie jest umocowane przez dwa więzadła: wieszadłowe prącia i procowate prącia",
+        "isTrue": true
+      },
+      {
+        "answer": "Ujścia przewodów wytryskowych leżą po bokach od otworu łagiewki sterczowej",
+        "isTrue": true
+      },
+      {
         "answer": "Nasienie produkowane w jądrze przechodzi najpierw przez cewki nasienne kręte",
-        "isTrue": false
-      },
-      {
-        "answer": "Prawdą jest że:",
-        "isTrue": false
-      },
-      {
-        "answer": "Prącie składa się z dwóch ciał jamistych i jednego ciała gąbczastego",
-        "isTrue": false
-      },
-      {
-        "answer": "Pozostałością po jądrowodzie jest więzadło mosznowe",
-        "isTrue": false
+        "isTrue": true
       }
     ]
   },
   {
     "id": 22,
-    "question": "asieniowód biegnie w przedłużeniu przewodu najądrza",
+    "question": "Prawdą jest że:",
     "answers": [
       {
+        "answer": "Prącie składa się z dwóch ciał jamistych i jednego ciała gąbczastego",
+        "isTrue": true
+      },
+      {
+        "answer": "Pozostałością po jądrowodzie jest więzadło mosznowe",
+        "isTrue": true
+      },
+      {
+        "answer": "Nasieniowód biegnie w przedłużeniu przewodu najądrza",
+        "isTrue": true
+      },
+      {
         "answer": "Splot sterczowy ma połączenie ze splotem odbytniczym",
-        "isTrue": false
-      },
-      {
-        "answer": "W cewce moczowej męskiej wyróżnia się odcinki:",
-        "isTrue": false
-      },
-      {
-        "answer": "Błoniasty",
-        "isTrue": false
-      },
-      {
-        "answer": "Śródścienny",
-        "isTrue": false
+        "isTrue": true
       }
     ]
   },
   {
     "id": 23,
-    "question": "terczowy",
+    "question": "W cewce moczowej męskiej wyróżnia się odcinki:",
     "answers": [
       {
+        "answer": "Błoniasty",
+        "isTrue": true
+      },
+      {
+        "answer": "Śródścienny",
+        "isTrue": true
+      },
+      {
+        "answer": "Sterczowy",
+        "isTrue": true
+      },
+      {
         "answer": "Miedniczny",
-        "isTrue": false
-      },
-      {
-        "answer": "Ciała jamiste i ciało gąbczaste prącia są objęte przez:",
-        "isTrue": false
-      },
-      {
-        "answer": "Skórę",
-        "isTrue": false
-      },
-      {
-        "answer": "Osłonkę mięśniową",
         "isTrue": false
       }
     ]
   },
   {
     "id": 24,
-    "question": "owięź powierzchowną prącia",
+    "question": "Ciała jamiste i ciało gąbczaste prącia są objęte przez:",
     "answers": [
       {
+        "answer": "Skórę",
+        "isTrue": true
+      },
+      {
+        "answer": "Osłonkę mięśniową",
+        "isTrue": true
+      },
+      {
+        "answer": "Powięź powierzchowną prącia",
+        "isTrue": true
+      },
+      {
         "answer": "Powięź głęboką prącia",
-        "isTrue": false
-      },
-      {
-        "answer": "W skład powrózka nasiennego wchodzi:",
-        "isTrue": false
-      },
-      {
-        "answer": "Splot jądrowy",
-        "isTrue": false
-      },
-      {
-        "answer": "Tętnica i żyła mięśnia dźwigacza jądra",
-        "isTrue": false
+        "isTrue": true
       }
     ]
   },
   {
     "id": 25,
-    "question": "plot żylny wiciowaty",
+    "question": "W skład powrózka nasiennego wchodzi:",
     "answers": [
       {
+        "answer": "Splot jądrowy",
+        "isTrue": true
+      },
+      {
+        "answer": "Tętnica i żyła mięśnia dźwigacza jądra",
+        "isTrue": true
+      },
+      {
+        "answer": "Splot żylny wiciowaty",
+        "isTrue": true
+      },
+      {
         "answer": "Gałąź udowa nerwu płciowo-udowego",
-        "isTrue": false
-      },
-      {
-        "answer": "Prawda o nasieniowodzie:",
-        "isTrue": false
-      },
-      {
-        "answer": "Część jądrowa biegnie w przedłużeniu przewodu najądrza",
-        "isTrue": false
-      },
-      {
-        "answer": "Unaczynienie tętnicze pochodzi od gałęzi tętnicy biodrowej zewnętrznej",
         "isTrue": false
       }
     ]
   },
   {
     "id": 26,
-    "question": "łona mięśniowa składa się z trzech warstw",
+    "question": "Prawda o nasieniowodzie:",
     "answers": [
       {
+        "answer": "Część jądrowa biegnie w przedłużeniu przewodu najądrza",
+        "isTrue": true
+      },
+      {
+        "answer": "Unaczynienie tętnicze pochodzi od gałęzi tętnicy biodrowej zewnętrznej",
+        "isTrue": false
+      },
+      {
+        "answer": "Błona mięśniowa składa się z trzech warstw",
+        "isTrue": true
+      },
+      {
         "answer": "Część pachwinowa wychodzi pierścieniem pachwinowym powierzchownym",
-        "isTrue": false
-      },
-      {
-        "answer": "Nieprawda o gruczole krokowym:",
-        "isTrue": false
-      },
-      {
-        "answer": "Powierzchnie boczne sąsiadują z mięśniami dźwigaczami odbytu",
-        "isTrue": false
-      },
-      {
-        "answer": "Chłonka z części górnej odpływa do węzłów chłonnych biodrowych wewnętrznych",
         "isTrue": false
       }
     ]
   },
   {
     "id": 27,
-    "question": "nerwienie pochodzi ze splotu sterczowego wtórnego od splotu miednicznego",
+    "question": "Nieprawda o gruczole krokowym:",
     "answers": [
       {
+        "answer": "Powierzchnie boczne sąsiadują z mięśniami dźwigaczami odbytu",
+        "isTrue": false
+      },
+      {
+        "answer": "Chłonka z części górnej odpływa do węzłów chłonnych biodrowych wewnętrznych",
+        "isTrue": true
+      },
+      {
+        "answer": "Unerwienie pochodzi ze splotu sterczowego wtórnego od splotu miednicznego",
+        "isTrue": false
+      },
+      {
         "answer": "Rozwija się z ektodermalnego nabłonka wyścielającego cewkę moczową męską",
-        "isTrue": false
-      },
-      {
-        "answer": "Nieprawdą jest że:",
-        "isTrue": false
-      },
-      {
-        "answer": "W powrózku nasiennym biegnie część powrózkowa i miedniczna nasieniowodu",
-        "isTrue": false
-      },
-      {
-        "answer": "Łagiewka sterczowa to uchyłek błony śluzowej objęty miąższem gruczołu krokowego",
-        "isTrue": false
+        "isTrue": true
       }
     ]
   },
   {
     "id": 28,
-    "question": "plot jądrowy zawiera wyłącznie włókna współczulne",
+    "question": "Nieprawdą jest że:",
     "answers": [
       {
+        "answer": "W powrózku nasiennym biegnie część powrózkowa i miedniczna nasieniowodu",
+        "isTrue": true
+      },
+      {
+        "answer": "Łagiewka sterczowa to uchyłek błony śluzowej objęty miąższem gruczołu krokowego",
+        "isTrue": false
+      },
+      {
+        "answer": "Splot jądrowy zawiera wyłącznie włókna współczulne",
+        "isTrue": true
+      },
+      {
         "answer": "Pęcherzyki nasienne są unerwione włóknami ze splotu podbrzusznego dolnego",
-        "isTrue": false
-      },
-      {
-        "answer": "Nieprawdą jest że:",
-        "isTrue": false
-      },
-      {
-        "answer": "Krezka jądra przyczepia się do powierzchni bocznej jądra",
-        "isTrue": false
-      },
-      {
-        "answer": "Żyły z pęcherzyków nasiennych nie uchodzą do splotu pęcherzowego",
         "isTrue": false
       }
     ]
   },
   {
     "id": 29,
-    "question": "ądrowód nie rozwija się z więzadła płciowo-pachwinowego",
+    "question": "Nieprawdą jest że:",
     "answers": [
+      {
+        "answer": "Krezka jądra przyczepia się do powierzchni bocznej jądra",
+        "isTrue": true
+      },
+      {
+        "answer": "Żyły z pęcherzyków nasiennych nie uchodzą do splotu pęcherzowego",
+        "isTrue": true
+      },
+      {
+        "answer": "Jądrowód nie rozwija się z więzadła płciowo-pachwinowego",
+        "isTrue": true
+      },
       {
         "answer": "Splot sterczowy częściowo uchodzi do żył biodrowych wewnętrznych",
         "isTrue": false
-      },
-      {
-        "answer": "Nieprawdą jest że:",
-        "isTrue": false
-      },
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Nieprawdą jest że:",
+    "answers": [
       {
         "answer": "Do powierzchni dolnej żołędzi prącia w linii pośrodkowej przyczepia się wędzidełko napletka",
         "isTrue": false
@@ -656,115 +670,123 @@
       {
         "answer": "Część miedniczna nasieniowodu krzyżuje od tyłu naczynia nabrzuszne dolne",
         "isTrue": false
-      }
-    ]
-  },
-  {
-    "id": 30,
-    "question": "hłonka z jądra odpływa m.in. do węzłów chłonnych nerkowych",
-    "answers": [
+      },
+      {
+        "answer": "Chłonka z jądra odpływa m.in. do węzłów chłonnych nerkowych",
+        "isTrue": false
+      },
       {
         "answer": "Żyły powierzchowne prącia biegną od żołędzi do żył sromowych zewnętrznych",
-        "isTrue": false
-      },
-      {
-        "answer": "Nieprawdą jest że:",
-        "isTrue": false
-      },
-      {
-        "answer": "Ciało gąbczaste prącia jest otoczone mięśniem opuszkowo-jamistym",
-        "isTrue": false
-      },
-      {
-        "answer": "Nasieniowód nie krzyżuje nerwu zasłonowego",
         "isTrue": false
       }
     ]
   },
   {
     "id": 31,
-    "question": "nerwienie ruchowe prącia pochodzi od nerwów sromowych",
+    "question": "Nieprawdą jest że:",
     "answers": [
       {
+        "answer": "Ciało gąbczaste prącia jest otoczone mięśniem opuszkowo-jamistym",
+        "isTrue": false
+      },
+      {
+        "answer": "Nasieniowód nie krzyżuje nerwu zasłonowego",
+        "isTrue": true
+      },
+      {
+        "answer": "Unerwienie ruchowe prącia pochodzi od nerwów sromowych",
+        "isTrue": false
+      },
+      {
         "answer": "Gruczoł krokowy nie jest przebity przez przewody wytryskowe",
-        "isTrue": false
-      },
-      {
-        "answer": "W unaczynieniu prącia bierze udział:",
-        "isTrue": false
-      },
-      {
-        "answer": "Tętnica cewki moczowej",
-        "isTrue": false
-      },
-      {
-        "answer": "Tętnica pęcherzowa dolna",
-        "isTrue": false
+        "isTrue": true
       }
     ]
   },
   {
     "id": 32,
-    "question": "ętnice mosznowe przednie",
+    "question": "W unaczynieniu prącia bierze udział:",
     "answers": [
       {
+        "answer": "Tętnica cewki moczowej",
+        "isTrue": true
+      },
+      {
+        "answer": "Tętnica pęcherzowa dolna",
+        "isTrue": false
+      },
+      {
+        "answer": "Tętnice mosznowe przednie",
+        "isTrue": true
+      },
+      {
         "answer": "Tętnica odbytnicza środkowa",
-        "isTrue": false
-      },
-      {
-        "answer": "Prawdą jest że:",
-        "isTrue": false
-      },
-      {
-        "answer": "Unaczynienie tętnicze prącia pochodzi głównie od gałęzi tętnicy sromowej wewnętrznej",
-        "isTrue": false
-      },
-      {
-        "answer": "W skład powrózka nasiennego nie wchodzi przyjądrze",
         "isTrue": false
       }
     ]
   },
   {
     "id": 33,
-    "question": "łowa najądrza ma budowę zrazikową",
+    "question": "Prawdą jest że:",
     "answers": [
       {
+        "answer": "Unaczynienie tętnicze prącia pochodzi głównie od gałęzi tętnicy sromowej wewnętrznej",
+        "isTrue": true
+      },
+      {
+        "answer": "W skład powrózka nasiennego nie wchodzi przyjądrze",
+        "isTrue": false
+      },
+      {
+        "answer": "Głowa najądrza ma budowę zrazikową",
+        "isTrue": true
+      },
+      {
         "answer": "Do stercza docierają głównie włókna przywspółczulne",
-        "isTrue": false
-      },
-      {
-        "answer": "Mesovarium zawiera",
-        "isTrue": false
-      },
-      {
-        "answer": "więzadło własne jajnika",
-        "isTrue": false
-      },
-      {
-        "answer": "naczynia chłonne",
         "isTrue": false
       }
     ]
   },
   {
     "id": 34,
-    "question": "łókna nerwowe autonomiczne",
+    "question": "Mesovarium zawiera",
     "answers": [
       {
-        "answer": "gałąź jajnikową tętnicy macicznej",
-        "isTrue": false
+        "answer": "więzadło własne jajnika",
+        "isTrue": true
       },
       {
-        "answer": "Prawdą jest, że",
-        "isTrue": false
+        "answer": "naczynia chłonne",
+        "isTrue": true
       },
+      {
+        "answer": "włókna nerwowe autonomiczne",
+        "isTrue": true
+      },
+      {
+        "answer": "gałąź jajnikową tętnicy macicznej",
+        "isTrue": true
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Prawdą jest, że",
+    "answers": [
       {
         "answer": "Od gałęzi promienistych na granicy myometrium i endometrium tętnicy macicznej odchodzą tętnice proste i spiralne",
-        "isTrue": false
+        "isTrue": true
       },
       {
         "answer": "Tętnice proste są wrażliwe na zmiany poziomu gonadotropin i zaopatrują w krew warstwę podstawną błony śluzowej",
+        "isTrue": false
+      },
+      {
+        "answer": "Tętnice spiralne, na które wpływa poziom estrogenów i progesteronu, ulegają destrukcji w fazie złuszczania cyklu menstruacyjnego",
+        "isTrue": true
+      },
+      {
+        "answer": "Tętnice spiralne nie kończą się w błonie śluzowej",
         "isTrue": false
       }
     ]

@@ -25,7 +25,7 @@ export class QuizMultiComponent implements OnInit {
   currentQuestion: QuizQuestion;
   tryCount = 0;
   checkAnswers: boolean [];
-  selectedData = 'brzuch';
+  selectedData = 'osteologia';
   questionsQuantity: number;
   firstCorrectQuantity: number;
   timesAnswered: number [];
