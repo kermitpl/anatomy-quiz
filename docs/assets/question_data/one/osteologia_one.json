@@ -369,7 +369,7 @@
     "answers": [
       {
         "answer": "staw poprzeczny stępu",
-        "isTrue": false
+        "isTrue": true
       },
       {
         "answer": "staw stępowo-śródstopny",
