@@ -83,6 +83,7 @@ export class QuizMultiComponent implements OnInit {
     for (const j of [0, 1, 2, 3]) {
       this.checkAnswers[j] = this.currentQuestion.answers[j].isTrue;
     }
+    this.timesAnswered[this.currentQuestion.id]++;
   }
 
   dataChanged() {

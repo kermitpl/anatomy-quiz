@@ -52,6 +52,16 @@ export class QuizComponent implements OnInit {
     }
   }
 
+  showAnswer() {
+    for (const answer of this.currentQuestion.answers) {
+      if (answer.isTrue) {
+        this.chosenAnswer = answer;
+        break;
+      }
+    }
+    this.timesAnswered[this.currentQuestion.id]++;
+  }
+
   nextQuestion(choice) {
     if (this.questions.length === 0) {
       alert('Quiz is completed, page will be reloaded. Your score:' + (this.firstCorrectQuantity / this.questionsQuantity * 100) + '%');
